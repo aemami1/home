@@ -3,7 +3,7 @@ draft: false
 show_date: false
 ---
 
-### Conference Chair
+### Conference Area Chair
 - ACL Rolling Review June 2024, Area Chair (8 papers)
 
 ### Conference Reviewer
