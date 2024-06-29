@@ -15,8 +15,8 @@ authors:
 - Harald Kojzar
 - ' others'
 date: '2017-01-01'
-publishDate: '2024-06-28T07:34:49.256862Z'
+publishDate: '2024-06-28T23:12:02.171689Z'
 publication_types:
-- "2"
+- '2'
 publication: '*Diabetes technology & therapeutics*'
 ---

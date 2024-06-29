@@ -1,7 +1,7 @@
 ---
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: ""
+bio: "Ali Emami is an assistant professor of computer science at Brock Uniersity. His research interests include natural language processing, machine learning, and artificial intelligence. He leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. "
 interests:
   - Natural Language Processing
   - Machine Learning
@@ -38,6 +38,13 @@ email: aemami@brocku.ca
 
 I'm an Assistant Professor at the Department of Computer Science at Brock University. My broad interests are in Artificial Intelligence and Natural Language Processing with a recent primary focus on addressing the generalizability, interpretability, and ethical implications of large language models (LLMs). Through this, I'm aiming to contribute to the responsible and efficient development of AI technologies in the future.
 
-I received my PhD in Computer Science in 2021 from McGill University, advised by Prof. Jackie Cheung. I was also part of the Reasoning & Learning Lab and the Montreal Institute for Learning Algorithms (Mila). My PhD research was at the intersection of Natural Language Inference (NLI) and common-sense reasoning in AI Systems.
+I received my PhD in Computer Science in 2021 from [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). My PhD research was at the intersection of Natural Language Inference (NLI) and common-sense reasoning in AI Systems.
 
-Prior to my PhD, I received a Master's in Machine Learning from McGill University in 2016 and a Bachelor's in Physics & Computer Science from McGill University in 2014.
+{{< icon name="graduation-cap" pack="fas" >}} [PhD Thesis](https://escholarship.mcgill.ca/concern/theses/pz50h2225) | 
+<a href="/uploads/resume.pdf" download="Ali_Emami_Resume.pdf" target="_blank">
+  <i class="fas fa-file-pdf"></i> Download CV
+</a>
+
+
+
+
