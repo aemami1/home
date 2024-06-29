@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labs | Ali Emami</title><link>/lab/</link><atom:link href="/lab/index.xml" rel="self" type="application/rss+xml"/><description>Labs</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>/media/icon_hub05b52ab82f3a21a579fbc0d60846eaf_6477_512x512_fill_lanczos_center_3.png</url><title>Labs</title><link>/lab/</link></image><item><title/><link>/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/lab/lablist/</guid><description>&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
+&lt;h1 id="lab-members">Lab Members&lt;/h1>
+&lt;h4 id="director">Director&lt;/h4>
+&lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
+&lt;h4 id="msc-students">MSc Students&lt;/h4>
+&lt;ul>
+&lt;li>Robert Morabito (2022-2023, Undergraduate; 2024-Present, MSc)&lt;/li>
+&lt;li>Kaige Chen (Fall 2024 – Present)&lt;/li>
+&lt;li>Kazi Nishat Anwar (Fall 2024 – Present)&lt;/li>
+&lt;li>Nikta Gohari Sadr (Fall 2023 – Present)&lt;/li>
+&lt;li>Sarfaroz Yunusov (Fall 2023 – Present)&lt;/li>
+&lt;li>Abhishek Kumar (Fall 2023 – Summer 2024, &lt;em>Graduated&lt;/em>)&lt;/li>
+&lt;/ul>
+&lt;h4 id="undergraduate-researchers">Undergraduate Researchers&lt;/h4>
+&lt;ul>
+&lt;li>Tyler Mcdonald (Summer 2023 – Present, &lt;em>NSERC Undergraduate Student Research Awardee&lt;/em>)&lt;/li>
+&lt;li>Sangmitra Madhusudhan (Summer 2024 - Present, &lt;em>Brock Co-op Program&lt;/em>)&lt;/li>
+&lt;li>Skye Reid (Summer 2024)&lt;/li>
+&lt;li>QiQi Gao (Summer 2022 – Summer 2023)&lt;/li>
+&lt;/ul>
+&lt;h4 id="summer-researchers-mitacs-globalink-interns">Summer Researchers (Mitacs Globalink Interns)&lt;/h4>
+&lt;ul>
+&lt;li>Ghofrane Faidi (Summer 2024)&lt;/li>
+&lt;li>Angel Loredo (Summer 2024)&lt;/li>
+&lt;li>Harsh Lalai (Summer 2024)&lt;/li>
+&lt;/ul>
+&lt;h1 id="research">Research&lt;/h1>
+&lt;p>The primary research objective of the Brock NLP lab is to create &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools that can understand, reason, and produce human-like texts. Our research encompasses multiple facets of AI, including bias detection and mitigation, reasoning and benchmarking of Large Language Models (LLMs), and machine interpretability.&lt;/p>
+&lt;h3 id="1-bias-detection-and-mitigation-in-llms">1. Bias Detection and Mitigation in LLMs&lt;/h3>
+&lt;p>We focus on developing subtle measures to evaluate representative and affinity bias in Large Language Models. Our research aims to create more equitable AI systems by identifying and addressing hidden biases.&lt;/p>
+&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Kumar, A., Yunusov, S., Emami, A. Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
+&lt;li>Morabito, R., Kabbara, J., Emami, A. Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-reasoning-and-benchmarking-llms">2. Reasoning and Benchmarking LLMs&lt;/h3>
+&lt;p>Our work in this area involves creating innovative challenges and datasets to test the reasoning capabilities of Large Language Models, with a particular focus on the Winograd Schema Challenge.&lt;/p>
+&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Park, B., Janecek, M., Li, Y., Emami, A. Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
+&lt;li>Sun, J.H., &amp;amp; Emami, A. EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC 2024)&lt;/li>
+&lt;li>Zahraei, Pardis Sadat, &amp;amp; Emami, A. WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-machine-interpretability">3. Machine Interpretability&lt;/h3>
+&lt;p>We investigate the inner workings of Large Language Models, focusing on their confidence-probability alignment and other aspects of their decision-making processes.&lt;/p>
+&lt;p>&lt;strong>Related paper:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
+&lt;/ul>
+&lt;h1 id="join-us">Join Us&lt;/h1>
+&lt;p>We are recruiting new graduate students for Fall, 2024&lt;/p>
+&lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
+&lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;font color="blue">Computer Science&lt;/font>) and PhD (&lt;font color="blue">Intelligent Systems and Data Science&lt;/font>) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title>Services</title><link>/lab/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/lab/lab/</guid><description>
+&lt;hr>
+&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
+&lt;h1 id="lab-members">Lab Members&lt;/h1>
+&lt;h4 id="director">Director&lt;/h4>
+&lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
+&lt;h4 id="msc-students">MSc Students&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Robert Morabito (2022-2023, Undergraduate; 2024-Present, MSc)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kaige Chen (Fall 2024 – Present)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kazi Nishat Anwar (Fall 2024 – Present)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikta Gohari Sadr (Fall 2023 – Present)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sarfaroz Yunusov (Fall 2023 – Present)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhishek Kumar (Fall 2023 – Summer 2024, &lt;em>Graduated&lt;/em>)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="undergraduate-researchers">Undergraduate Researchers&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Tyler Mcdonald (Summer 2023 – Present, &lt;em>NSERC Undergraduate Student Research Awardee&lt;/em>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sangmitra Madhusudhan (Summer 2024 - Present, &lt;em>Brock Co-op Program&lt;/em>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Skye Reid (Summer 2024)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>QiQi Gao (Summer 2022 – Summer 2023)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="summer-researchers-mitacs-globalink-interns">Summer Researchers (Mitacs Globalink Interns)&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Ghofrane Faidi (Summer 2024)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Angel Loredo (Summer 2024)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Harsh Lalai (Summer 2024)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="research">Research&lt;/h1>
+&lt;p>The primary research objective of the Brock NLP lab is to create &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools that can understand, reason, and produce human-like texts. Our research encompasses multiple facets of AI, including bias detection and mitigation, reasoning and benchmarking of Large Language Models (LLMs), and machine interpretability.&lt;/p>
+&lt;h3 id="1-bias-detection-and-mitigation-in-llms">1. Bias Detection and Mitigation in LLMs&lt;/h3>
+&lt;p>We focus on developing subtle measures to evaluate representative and affinity bias in Large Language Models. Our research aims to create more equitable AI systems by identifying and addressing hidden biases.&lt;/p>
+&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Kumar, A., Yunusov, S., Emami, A. Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Morabito, R., Kabbara, J., Emami, A. Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-reasoning-and-benchmarking-llms">2. Reasoning and Benchmarking LLMs&lt;/h3>
+&lt;p>Our work in this area involves creating innovative challenges and datasets to test the reasoning capabilities of Large Language Models, with a particular focus on the Winograd Schema Challenge.&lt;/p>
+&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Park, B., Janecek, M., Li, Y., Emami, A. Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sun, J.H., &amp;amp; Emami, A. EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC 2024)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zahraei, Pardis Sadat, &amp;amp; Emami, A. WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-machine-interpretability">3. Machine Interpretability&lt;/h3>
+&lt;p>We investigate the inner workings of Large Language Models, focusing on their confidence-probability alignment and other aspects of their decision-making processes.&lt;/p>
+&lt;p>&lt;strong>Related paper:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
+&lt;/ul>
+&lt;h1 id="join-us">Join Us&lt;/h1>
+&lt;p>We are recruiting new graduate students for Fall, 2024&lt;/p>
+&lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
+&lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;font color="blue">Computer Science&lt;/font>) and PhD (&lt;font color="blue">Intelligent Systems and Data Science&lt;/font>) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item></channel></rss>

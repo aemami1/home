@@ -1,0 +1,287 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Wowchemy 5.3.0 for Hugo"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap"><link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload='this.media="all"'><meta name=author content="Ali Emami"><meta name=description content="How to set up a personal website with Hugo Academic and auto-deploy to GitHub Pages"><link rel=alternate hreflang=en-us href=../../blog/getting-started-with-hugo-academic-and-github-pages/><meta name=theme-color content="#1565c0"><script src=../../js/mathjax-config.js></script>
+<link rel=stylesheet href=../../css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin=anonymous media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css crossorigin=anonymous title=hl-light media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css crossorigin=anonymous title=hl-dark media=print onload='this.media="all"' disabled><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css integrity crossorigin=anonymous media=print onload='this.media="all"'><script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
+<link rel=stylesheet href=../../css/wowchemy.63638f5ebe2af2c45dadecbd6a6c3fa9.css><link rel=manifest href=../../manifest.webmanifest><link rel=icon type=image/png href=../../media/icon_hub05b52ab82f3a21a579fbc0d60846eaf_6477_32x32_fill_lanczos_center_3.png><link rel=apple-touch-icon type=image/png href=../../media/icon_hub05b52ab82f3a21a579fbc0d60846eaf_6477_180x180_fill_lanczos_center_3.png><link rel=canonical href=../../blog/getting-started-with-hugo-academic-and-github-pages/><meta property="twitter:card" content="summary_large_image"><meta property="og:site_name" content="Ali Emami"><meta property="og:url" content="/blog/getting-started-with-hugo-academic-and-github-pages/"><meta property="og:title" content="Getting Started With Hugo Academic and Github Pages | Ali Emami"><meta property="og:description" content="How to set up a personal website with Hugo Academic and auto-deploy to GitHub Pages"><meta property="og:image" content="/blog/getting-started-with-hugo-academic-and-github-pages/featured.png"><meta property="twitter:image" content="/blog/getting-started-with-hugo-academic-and-github-pages/featured.png"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2020-07-12T06:51:13+00:00"><meta property="article:modified_time" content="2024-06-29T05:35:59-04:00"><title>Getting Started With Hugo Academic and Github Pages | Ali Emami</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=94f77c3ef183421a39f57970df6535ba><script src=../../js/wowchemy-init.min.6619cc29fe1a874b6ea1a0359aab5cfb.js></script><aside class=search-modal id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><div class=page-header><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container-xl><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=../../>Ali Emami</a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=../../>Ali Emami</a></div><div class="navbar-collapse main-menu-item collapse justify-content-start" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=../../#about><span>Home</span></a></li><li class=nav-item><a class=nav-link href=../../news/newslist><span>News</span></a></li><li class=nav-item><a class=nav-link href=../../lab/lablist><span>Lab</span></a></li><li class=nav-item><a class=nav-link href=../../publication><span>Publications</span></a></li><li class=nav-item><a class=nav-link href=../../teaching/teachinglist><span>Teachings</span></a></li><li class=nav-item><a class=nav-link href=../../service/servicelist><span>Services</span></a></li><li class=nav-item><a class=nav-link href=../../talk/talklist><span>Talks</span></a></li><li class=nav-item><a class=nav-link href=../../award/awardlist><span>Awards</span></a></li><li class=nav-item><a class=nav-link href=../../#contact><span>Contact</span></a></li><li class=nav-item><a class=nav-link href=../../uploads/resume.pdf><span>CV</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a></li><li class="nav-item dropdown theme-dropdown"><a href=# class=nav-link data-toggle=dropdown aria-haspopup=true aria-label="Display preferences"><i class="fas fa-moon" aria-hidden=true></i></a><div class=dropdown-menu><a href=# class="dropdown-item js-set-theme-light"><span>Light</span></a>
+<a href=# class="dropdown-item js-set-theme-dark"><span>Dark</span></a>
+<a href=# class="dropdown-item js-set-theme-auto"><span>Automatic</span></a></div></li></ul></div></nav></div><div class=page-body><article class=article><div class="article-container pt-3"><h1>Getting Started With Hugo Academic and Github Pages</h1><div class=article-metadata><span class=article-date>Last updated on
+Jun 29, 2024</span></div></div><div class="article-header article-container featured-image-wrapper mt-4 mb-4" style=max-width:720px;max-height:425px><div style=position:relative><img src=../../blog/getting-started-with-hugo-academic-and-github-pages/featured_hu799ae9c0d552ac163d399c031d87d54e_319193_720x0_resize_lanczos_3.png width=720 height=425 alt class=featured-image></div></div><div class=article-container><div class=article-style><details class="toc-inpage d-print-none" open><summary class=font-weight-bold>Table of Contents</summary><nav id=TableOfContents><ul><li><a href=#1-prerequisites>1. Prerequisites</a></li><li><a href=#2-create-source-repository>2. Create source repository</a></li><li><a href=#3-set-up-initial-website>3. Set up initial website</a></li><li><a href=#4-create-and-set-up-host-repository>4. Create and set up host repository</a></li><li><a href=#5-automatically-publish-changes-in-source-repository-on-your-website>5. Automatically publish changes in source repository on your website</a></li><li><a href=#6-where-to-go-from-here>6. Where to go from here</a></li></ul></nav></details><p>This post describes how one can set up a personal website using the
+<a href=https://sourcethemes.com/academic target=_blank rel=noopener>Hugo Academic</a> theme for the static site generator
+<a href=https://gohugo.io target=_blank rel=noopener>Hugo</a> and publish it automatically with
+<a href=https://pages.github.com target=_blank rel=noopener>GitHub Pages</a>. It is targeted towards readers who have a basic
+understanding of how to use git from the command line and who already have a GitHub account. This
+post is based on Hugo Extended 0.73.0 and Hugo Academic 0.49, which were the respective latest
+releases at the time of writing (July 2020).</p><p>The final goal will be to have two GitHub repositories: a <em>source</em> repository
+that contains the website&rsquo;s unprocessed resources and a <em>host</em> repository that hosts the
+the generated website. We will use <a href=https://docs.github.com/en/actions target=_blank rel=noopener>GitHub Actions</a> to
+automatically deploy from the source to the host repository, i.e., if a change to the website is
+commited and pushed to the source repository, our GitHub Actions setup will auto-generate the actual
+website with Hugo and create a new commit on the host repository.</p><h2 id=1-prerequisites>1. Prerequisites</h2><p>As stated above, you need to have a GitHub account and at least some familiarity with using git from
+the command line. Furthermore, you also need to install Hugo on your machine, such that you
+can build and test your website locally before deploying it.
+The easiest way to set up Hugo is to download and unpack the latest release from the
+<a href=https://github.com/gohugoio/hugo/releases target=_blank rel=noopener>Hugo releases</a> website on GitHub. For more information
+on installing Hugo, refer to the
+<a href=https://gohugo.io/getting-started/installing/ target=_blank rel=noopener>official installation instructions</a>.</p><div class="alert alert-note"><div>Make sure you install the <strong>extended</strong> version of Hugo, which is required to build the Hugo Academic
+theme.</div></div><h2 id=2-create-source-repository>2. Create source repository</h2><p>As a first step, we will create a new source repository on GitHub. It will hold your website&rsquo;s
+unprocessed sources, from which the website&rsquo;s HTML documents will be built. The
+<a href=https://sourcethemes.com/academic/docs/install-locally/ target=_blank rel=noopener>official docs</a> recommend to <em>fork</em> the
+<a href=https://github.com/sourcethemes/academic-kickstart target=_blank rel=noopener>Academic Kickstart repository</a>. However, this
+prevents you from making your source repository <em>private</em>, which is why I decided to take a
+different route and manually duplicate the Academic Kickstart repository to my GitHub account:</p><ol><li><p>Create a new repository on GitHub, e.g., <code>academic-kickstart</code>. You can safely make it private,
+but do <em>not</em> initialize it with at README. In this post, I will call the source repository
+<code>academic-kickstart-demo</code> and it is available
+<a href=https://github.com/sloede/academic-kickstart-demo target=_blank rel=noopener>here</a>.</p></li><li><p>Clone the Academic Kickstart repository from <a href=https://github.com/sourcethemes/academic-kickstart target=_blank rel=noopener>https://github.com/sourcethemes/academic-kickstart</a>,
+replace the URL of <code>origin</code> with your source repository&rsquo;s URL, and push it to GitHub:</p><pre><code class=language-bash>git clone git@github.com:sourcethemes/academic-kickstart.git academic-kickstart-demo
+cd academic-kickstart-demo
+git remote set-url origin git@github.com:sloede/academic-kickstart-demo.git
+git push
+</code></pre><p>Make sure to replace the URL of the source repository with your own!</p></li></ol><h2 id=3-set-up-initial-website>3. Set up initial website</h2><p>Before proceeding to make modifications, you should have a look at the initial state of the website
+and verify that everything works. To do this, you first need to initialize the git submodules by
+running</p><pre><code class=language-bash>git submodule update --init --recursive
+</code></pre><p>This step is required once after you clone your source repository to a new location, as it will
+download necessary files for the Hugo Academic theme to work. Then, you can build your website
+locally by executing <code>hugo</code>, which will generate the website and place all files in the <code>public/</code>
+directory. Alternatively, you can also start a local webserver with</p><pre><code class=language-bash>hugo server
+</code></pre><p>which will build the website and make it available at
+<a href=http://localhost:1313/ target=_blank rel=noopener>http://localhost:1313</a>.
+In this mode Hugo will automatically re-generate your site whenever you change your
+sources, which comes in handy while developing your contents.<figure id=figure-initial-state-of-the-website-before-any-modifications><div class="d-flex justify-content-center"><div class=w-100><img alt="Initial state of the website before any modifications." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_cee1fec8c5d146f08eb5ed5aea0f1209.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_17ed411c746ce66a2d13dc43f84088cf.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_cee1fec8c5d146f08eb5ed5aea0f1209.png width=760 height=431 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>Initial state of the website before any modifications.</figcaption></figure></p><p>Now it is time to set up the initial website. A full description of what to do can be found in the
+official
+<a href=https://sourcethemes.com/academic/docs/get-started target=_blank rel=noopener>Getting Started</a>
+guide. The most important files to configure your website are the following:</p><ul><li><code>config/_default/config.toml</code>: Overall website configuration.</li><li><code>config/_default/params.toml</code>: Parameters for individual features.</li><li><code>config/_default/menus.toml</code>: Configure main navigation bar.</li><li><code>content/authors/admin/_index.md</code>: Details about the main user (you!).</li></ul><p>Due to extensive inline documentation, all files are more or less self-explaining. The <code>content/</code>
+subfolder contains all <em>user-editable</em> source files from which the website is built. For the initial
+setup, disable all sections on the main homepage for which you do not have created your own content
+yet by either deleting them from <code>content/home</code> or by moving them to a different folder.</p><p>Here is a short todo list to help you set up initially. To see the respective changes in the
+<code>academic-kickstart-demo</code> repository, click on the linked git commit:</p><ol><li>Edit <code>config/_default/config.toml</code> and change <code>title</code> to your website&rsquo;s title
+(<a href=https://github.com/sloede/academic-kickstart-demo/commit/bd6e4e1 target=_blank rel=noopener>diff</a>).</li><li>Edit <code>config/_default/params.toml</code> and make the following modifications
+(<a href=https://github.com/sloede/academic-kickstart-demo/commit/04d0844 target=_blank rel=noopener>diff</a>):<ul><li>Disable <code>edit_page</code> by commenting it out (prepend with <code>#</code>).</li><li>Edit the contact details like <code>email</code>, <code>phone</code> etc. Everything you do not need, you can just
+comment out by prepending a <code>#</code> symbol.</li><li>Disable showing a map by setting <code>engine</code> to <code>0</code> in the <code>[map]</code> section.</li></ul></li><li>Disable unused widgets on the homepage by executing<pre><code class=language-bash>git mv content/home content/home-unused
+mkdir content/home
+git mv content/home-unused/index.md content/home/
+git mv content/home-unused/about.md content/home/
+git mv content/home-unused/contact.md content/home/
+</code></pre>and edit <code>config/_default/menus.toml</code> and comment out the entries for <code>Posts</code>, <code>Projects</code>, and
+<code>Publications</code>
+(<a href=https://github.com/sloede/academic-kickstart-demo/commit/bfb8dac target=_blank rel=noopener>diff</a>).</li><li>Update the main user
+(<a href=https://github.com/sloede/academic-kickstart-demo/commit/6feeb96 target=_blank rel=noopener>diff</a>):<ul><li>Rename the folder <code>content/author/admin</code> to your name, replacing spaces by dashes and keeping
+everything lowercase:<pre><code class=language-bash>git mv content/authors/admin content/authors/carl-friedrich-gauss
+</code></pre></li><li>Edit <code>content/authors/carl-friedrich-gauss/_index.md</code> and enter your information. Most
+importantly, change the username under <code>authors:</code> from <code>admin</code> to your new username (= folder
+name under <code>content/authors/</code>), e.g., <code>carl-friedrich-gauss</code>.</li><li>Edit <code>content/home/about.md</code> and change <code>author</code> from <code>admin</code> to your new username.</li></ul></li></ol><p>Use <code>hugo</code>/<code>hugo server</code> to verify that everything is set up correctly (even if most useful content
+is still missing) and <code>git push</code> the source repository to GitHub.</p><h2 id=4-create-and-set-up-host-repository>4. Create and set up host repository</h2><p><a href=https://pages.github.com target=_blank rel=noopener>GitHub Pages</a> allows you to host static websites on GitHub, which is
+ideal for websites generated with a static site generator such as Hugo. For each project (=
+repository) you have on GitHub, the corresponding GitHub pages website will be available under</p><pre><code>https://YOUR-GITHUB-USERNAME.github.com/YOUR-PROJECT-NAME
+</code></pre><p>For the special project name
+<code>YOUR-GITHUB-USERNAME.github.com</code>, the website will be served directly under</p><pre><code>https://YOUR-GITHUB-USERNAME.github.com
+</code></pre><p>That is, without the project name suffix. For example, for
+my GitHub user account <a href=https://github.com/sloede target=_blank rel=noopener>sloede</a>, the special project name is
+<code>sloede.github.com</code> and the website is available under <a href=https://sloede.github.com target=_blank rel=noopener>https://sloede.github.com</a> (this will actually
+redirect you to this website).</p><p>In this tutorial, we will use <code>academic-pages-demo</code> as the host repository name, since my canonical
+repository name <code>sloede.github.com</code> is obviously already taken. Go to GitHub and create a new
+repository, in my case
+<a href=https://github.com/sloede/academic-pages-demo target=_blank rel=noopener>academic-pages-demo</a>.
+As per the
+<a href=https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site target=_blank rel=noopener>documentation</a>,
+your host repository needs to be <em>public</em> unless you are on a GitHub Pro account. This time, also
+tick the box to initialize the repository with a README for testing purposes. On your newly created
+host repository site, go to <em>Settings</em>, scroll down to the <em>GitHub Pages</em> section and select <em>master
+branch</em> as your website source. Please note that in my case the URL differs from what you will see
+since I have already set up a
+<a href=https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site target=_blank rel=noopener>custom domain for my GitHub Pages</a>.<figure id=figure-github-pages-settings-to-select-which-branch-to-serve-as-a-website><div class="d-flex justify-content-center"><div class=w-100><img alt="GitHub Pages settings to select which branch to serve as a website." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_a5f4240357345067c6ad4e0dd9991471.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_00e2fd17333b1a71e53d4b29ea529e11.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_a5f4240357345067c6ad4e0dd9991471.png width=760 height=218 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>GitHub Pages settings to select which branch to serve as a website.</figcaption></figure></p><div class="alert alert-note"><div><p>It is also advisable to tick the box <em>Enforce HTTPS</em>, since SSL-encrypted website connections are
+the norm nowadays.</p><figure><div class="d-flex justify-content-center"><div class=w-100><img alt srcset="/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_73400ff2f52272e958c1fd1fbd06a6b0.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_3a8990929d19b73ae37299dbc9d3b0dc.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_73400ff2f52272e958c1fd1fbd06a6b0.png width=726 height=155 loading=lazy data-zoomable></div></div></figure></div></div><p>Now your host repository&rsquo;s content (currently only the README file) will be available online and you can make sure that everything works by clicking on the link in the green box:<figure id=figure-initial-github-pages-website-showing-the-readme-file><div class="d-flex justify-content-center"><div class=w-100><img alt="Initial GitHub Pages website showing the README file." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_098c049b1deab4833d03b7b6f542b457.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_dc204d30d8fe737239d5fd03b91ef908.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_098c049b1deab4833d03b7b6f542b457.png width=693 height=204 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>Initial GitHub Pages website showing the README file.</figcaption></figure></p><p>Before we proceed to auto-deploy your website, we will quickly verify that the GitHub Pages
+displays the Hugo Academic website properly. To do this, perform the following steps:</p><ol><li>Delete the existing <code>public/</code> folder in your local clone of the source repository and clone your
+host repository as the <code>public/</code> subfolder:<pre><code class=language-bash>rm -rf public/
+git clone git@github.com:sloede/academic-pages-demo.git public
+</code></pre></li><li>Rebuild website:<pre><code class=language-bash>hugo
+</code></pre></li><li>Remove the <code>README.md</code> file (as otherwise your website will not be shown), add all files in
+<code>public/</code> to git, and commit & push:<pre><code class=language-bash>cd public
+git rm README.md
+git add .
+git ci -m 'Initial commit of Hugo Academic website'
+git push
+cd ..
+</code></pre></li></ol><p>When you go to the GitHub Pages URL of your host repository, the website should now look something
+like <a href=https://academic-pages-demo.lakemper.eu target=_blank rel=noopener>this</a>:<figure id=figure-github-pages-website-showing-hugo-academic-website><div class="d-flex justify-content-center"><div class=w-100><img alt="GitHub Pages website showing Hugo Academic website." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_375a66df42ce1c0075db50089d4182ed.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_32330dd4f91cfed6c4cdeb623940121f.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_375a66df42ce1c0075db50089d4182ed.png width=760 height=324 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>GitHub Pages website showing Hugo Academic website.</figcaption></figure></p><p>Congratulations, your initial website is now online! To avoid accidental manual commits to the host
+repository, especially after we have set up automatic deployment in the next section, delete the
+<code>.git</code> folder from the <code>public/</code> subdirectory:</p><pre><code class=language-bash>rm -rf public/.git
+</code></pre><h2 id=5-automatically-publish-changes-in-source-repository-on-your-website>5. Automatically publish changes in source repository on your website</h2><p>As the last step, we will enable the automatic deployment from your source repository to your host
+repository. That is, whenever you push changes to your website to the source repository, we want to
+automatically update the host repository - and thus the actual website - as well. Since we created
+two separate repositories for the website&rsquo;s sources and its processed files, we first need to create
+a <em>deploy key</em> to allow the source repository to automatically update the host repository.
+Following the instructions for creating a deploy key at
+<a href=https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key target=_blank rel=noopener>https://github.com/peaceiris/actions-gh-pages</a>,
+you need to perform the following steps:</p><ol><li>Generate an SSH key pair by executing<pre><code class=language-bash>ssh-keygen -t rsa -b 4096 -C &quot;$(git config user.email)&quot; -f gh-pages -N &quot;&quot;
+</code></pre>This will create two files: the <em>public</em> key <code>gh-pages.pub</code> and the <em>private</em> key <code>gh-pages</code>.</li><li>Go to the repository settings of the <em>source</em> repository (here: <code>academic-kickstart-demo</code>), go to
+<em>Secrets</em>, and add a new secret with the name <code>ACTIONS_DEPLOY_KEY</code> (spelled exactly like this)
+and the contents of your secret key file <code>gh-pages</code> as the value:<figure id=figure-add-ssh-secret-key-as-new-secret-actions_deploy_key-to-source-repository><div class="d-flex justify-content-center"><div class=w-100><img alt="Add SSH secret key as new secret `ACTIONS_DEPLOY_KEY` to source repository." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_47bdb05f3d21f53132e3dce3adafed82.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_7bb1bdb0ff22d31a6442f45a537e26ca.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_47bdb05f3d21f53132e3dce3adafed82.png width=760 height=405 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>Add SSH secret key as new secret <code>ACTIONS_DEPLOY_KEY</code> to source repository.</figcaption></figure></li><li>Go to the repository settings of the <em>host</em> repository (here: <code>academic-pages-demo</code>), go to
+<em>Deploy Keys</em>, and add a new deploy key with the title
+<code>ACTIONS_DEPLOY_KEY (academic-kickstart-demo)</code> and the contents of your public key file
+<code>gh-pages.pub</code> as the value. Make sure that the box for <em>Allow write access</em> is checked, as
+otherwise the source repository will not be able to update the host repository:<figure id=figure-add-ssh-public-key-as-new-deploy-key-to-host-repository><div class="d-flex justify-content-center"><div class=w-100><img alt="Add SSH public key as new deploy key to host repository." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_a0c22aa8012b873dbe14711cba930d6e.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_143e15e289ea2279b543dcb9124e038e.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_a0c22aa8012b873dbe14711cba930d6e.png width=760 height=397 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>Add SSH public key as new deploy key to host repository.</figcaption></figure>Unlike for the newly added secret in the source repository, the exact title of the deploy key is
+not relevant for the automated deployment to work, but I recommend a descriptive name that
+reveals its purpose.</li><li>After you have added the secret and the deploy key to the source and host repositories, you
+should delete the SSH key files, as their contents will not be needed
+again (and in case of the secret key, it is a security issue to leave it around):<pre><code class=language-bash>rm gh-pages gh-pages.pub
+</code></pre></li></ol><p>With the deploy key in place, we can proceed to automatically update the host repository
+whenever a commit is pushed to the source repository. For this purpose, we will use
+<a href=https://docs.github.com/en/actions target=_blank rel=noopener>GitHub Actions</a> and create a workflow file that checks out the
+source repository, builds the website using Hugo, and adds the generated files to a new commit to
+the host repository.</p><p>Go to your local clone of the source repository and create the GitHub Actions workflows
+directory:</p><pre><code class=language-bash>mkdir -p .github/workflows
+</code></pre><p>Next, create a new workflow file in <code>.github/workflows</code>, e.g., <code>.github/workflows/GitHubPages.yml</code>,
+with the following content:</p><pre><code class=language-yaml>name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          # fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.73.0'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
+          publish_branch: master  # deploying branch
+          cname: academic-pages-demo.lakemper.eu
+          allow_empty_commit: true
+          external_repository: sloede/academic-pages-demo
+</code></pre><p>Here, I will briefly explain each part of the file so you know what it does:</p><ul><li>Set name of this workflow to identify it on GitHub.<pre><code class=language-yaml>name: GitHub Pages
+</code></pre></li><li>Execute this workflow whenever someone pushes to <code>master</code>:<pre><code class=language-yaml>on:
+  push:
+    branches:
+      - master
+</code></pre></li><li>Run a <code>deploy</code> job with a number of steps to execute (will be described
+below). Execute the job on a virtual machine running Ubuntu 20.04.<pre><code class=language-yaml>jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+    [...]
+</code></pre>A list of available virtual machines can be found in the
+<a href=https://docs.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners target=_blank rel=noopener>GitHub documentation</a>.
+I recommend to use a machine as close as possible to your personal system to avoid surprises.</li><li>Check out the source repository using one of the GitHub-provided &ldquo;actions&rdquo;,
+which is just a fancy term for a script specifically written to be run in
+GitHub workflows.<pre><code class=language-yaml>- uses: actions/checkout@v2
+  with:
+    submodules: true  # Fetch Hugo themes (true OR recursive)
+    # fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+</code></pre></li><li>Download and install Hugo using the
+<a href=https://github.com/peaceiris/actions-hugo target=_blank rel=noopener>peaceiris/actions-hugo</a>
+action. The extended version of Hugo is required for the Hugo Academic theme
+to work, and I recommend to use the same Hugo version number as you use locally.<pre><code class=language-yaml>- name: Setup Hugo
+  uses: peaceiris/actions-hugo@v2
+  with:
+    hugo-version: '0.73.0'
+    extended: true
+</code></pre></li><li>Build the website and minify, i.e., try to reduce the website file size. By
+default, Hugo will place the resulting files in the <code>public/</code> subdirectory.<pre><code class=language-yaml>- name: Build
+  run: hugo --minify
+</code></pre></li><li>Deploy the built website to your host repository using the
+<a href=https://github.com/peaceiris/actions-gh-pages target=_blank rel=noopener>peaceiris/actions-gh-pages</a>
+action. The value of <code>deploy_key</code> <em>must</em> match the secret key name you
+used before, here it is called <code>ACTIONS_DEPLOY_KEY</code>. The <code>publish_dir</code> must match the
+directory to which <code>hugo</code> writes its generated files (default: <code>public/</code>). The
+<code>publish_branch</code> is the same branch that you selected
+<a href=#4-create-and-set-up-host-repository>above</a>
+when you set up the host repository. <code>cname</code> should be set to the custom
+domain name you serve your GitHub Pages from, and can be omitted if no custom
+domain is configured. With <code>allow_empty_commit</code>, any push to the source
+repository will trigger a new commit to the host repository, even if there
+were no user-visible changes. The <code>external_repository</code> must be the name of
+your host repository on GitHub, i.e., its web URL without the <code>https://github.com/</code> part.<pre><code class=language-yaml>- name: Deploy
+  uses: peaceiris/actions-gh-pages@v3
+  with:
+    deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+    publish_dir: ./public
+    publish_branch: master  # deploying branch
+    cname: academic-pages-demo.lakemper.eu
+    allow_empty_commit: true
+    external_repository: sloede/academic-pages-demo
+</code></pre></li></ul><p>Once the workflow file is in place, add, commit & push it to the source
+repository:</p><pre><code class=language-bash>git add .github/workflows/GitHubPages.yml
+git ci -m 'Add workflow to automatically deploy website'
+git push
+</code></pre><p>The corresponding commit to the
+<a href=https://github.com/sloede/academic-kickstart-demo target=_blank rel=noopener><code>academic-kickstart-demo</code></a>
+repository can be found
+<a href=https://github.com/sloede/academic-kickstart-demo/commit/fe68148 target=_blank rel=noopener>here</a>.
+You can verify that the workflow succeeded by going to your source repository
+website on GitHub - next to the latest commit info should be a small green
+checkmark:<figure id=figure-this-workflow-succeeded-without-errors><div class="d-flex justify-content-center"><div class=w-100><img alt="This workflow succeeded without errors." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_84a16f9f42666fbdb6560f186c933354.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_88c2bc3791b6eeceb68571e79f41d9e9.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_84a16f9f42666fbdb6560f186c933354.png width=760 height=231 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>This workflow succeeded without errors.</figcaption></figure>If you see a small brown circle instead of the checkmark, your action is still
+running. If the workflow indicator is a red cross, however, it means that
+something went wrong.</p><p>Similarly, you can check the host repository for a
+<a href=https://github.com/sloede/academic-pages-demo/commit/870a110 target=_blank rel=noopener>new
+commit</a>,
+which will reference the commit to the source repository from which the current
+website was built:<figure id=figure-automatically-created-commit-on-the-host-repository><div class="d-flex justify-content-center"><div class=w-100><img alt="Automatically created commit on the host repository." srcset="/blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_9c5165ff28cf4962387728e8a7e2889f.png 400w,
+/blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_615f593a412bcb03a5f20029180e08cb.png 760w,
+/blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_1200x1200_fit_lanczos_3.png 1200w" src=../../blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_9c5165ff28cf4962387728e8a7e2889f.png width=760 height=149 loading=lazy data-zoomable></div></div><figcaption data-pre=Figure&nbsp; data-post=:&nbsp; class=numbered>Automatically created commit on the host repository.</figcaption></figure></p><h2 id=6-where-to-go-from-here>6. Where to go from here</h2><p>If everything went smoothly, you now have your own website online, generated
+from the Hugo Academic theme and auto-deployed to GitHub Pages. Your immediate
+next steps should be to update your user information (such that the dummy text
+provided by the <code>academic-kickstart</code> repository can be thrown out). Then,
+you can successively build up your personal website by either following the
+Hugo Academic documentation or by just experimenting. Always remember to only
+ever commit to the source repository directly, since manual commits to the host
+repository will be overwritten by the next automatic deployment.</p><p>Once your basic site is up and running, you can consider more advanced steps such as
+<a href>configuring a custom domain</a>,
+adding support for <a href=https://utteranc.es target=_blank rel=noopener>comments</a> as described
+<a href=https://mscipio.github.io/post/utterances-comment-engine/ target=_blank rel=noopener>here</a>,
+or
+<a href=https://sourcethemes.com/academic/docs/customization/#custom-theme target=_blank rel=noopener>customizing the theme</a>.</p></div><div class=share-box><ul class=share><li><a href="https://twitter.com/intent/tweet?url=../../blog/getting-started-with-hugo-academic-and-github-pages/&amp;text=Getting%20Started%20With%20Hugo%20Academic%20and%20Github%20Pages" target=_blank rel=noopener class=share-btn-twitter aria-label=twitter><i class="fab fa-twitter"></i></a></li><li><a href="https://www.facebook.com/sharer.php?u=/blog/getting-started-with-hugo-academic-and-github-pages/&amp;t=Getting%20Started%20With%20Hugo%20Academic%20and%20Github%20Pages" target=_blank rel=noopener class=share-btn-facebook aria-label=facebook><i class="fab fa-facebook"></i></a></li><li><a href="mailto:?subject=Getting%20Started%20With%20Hugo%20Academic%20and%20Github%20Pages&amp;body=/blog/getting-started-with-hugo-academic-and-github-pages/" target=_blank rel=noopener class=share-btn-email aria-label=envelope><i class="fas fa-envelope"></i></a></li><li><a href="https://www.linkedin.com/shareArticle?url=../../blog/getting-started-with-hugo-academic-and-github-pages/&amp;title=Getting%20Started%20With%20Hugo%20Academic%20and%20Github%20Pages" target=_blank rel=noopener class=share-btn-linkedin aria-label=linkedin-in><i class="fab fa-linkedin-in"></i></a></li><li><a href="whatsapp://send?text=Getting%20Started%20With%20Hugo%20Academic%20and%20Github%20Pages%20/blog/getting-started-with-hugo-academic-and-github-pages/" target=_blank rel=noopener class=share-btn-whatsapp aria-label=whatsapp><i class="fab fa-whatsapp"></i></a></li><li><a href="https://service.weibo.com/share/share.php?url=../../blog/getting-started-with-hugo-academic-and-github-pages/&amp;title=Getting%20Started%20With%20Hugo%20Academic%20and%20Github%20Pages" target=_blank rel=noopener class=share-btn-weibo aria-label=weibo><i class="fab fa-weibo"></i></a></li></ul></div><div class="media author-card content-widget-hr"><img class="avatar mr-3 avatar-circle" src=../../authors/admin/avatar_hua671b572d0b4f27c4c18758adae57251_694671_270x270_fill_q75_lanczos_center.jpg alt="Ali Emami"><div class=media-body><h5 class=card-title>Ali Emami</h5><h6 class=card-subtitle>Assistant Professor</h6><p class=card-text>Ali Emami is an assistant professor of computer science at Brock Uniersity. His research interests include natural language processing, machine learning, and artificial intelligence. He leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.</p><ul class=network-icon aria-hidden=true><li><a href=../../aemami@brocku.ca><i class="fas fa-envelope"></i></a></li><li><a href="https://scholar.google.ca/citations?user=Pjdq8cUAAAAJ&amp;hl=en" target=_blank rel=noopener><i class="ai ai-google-scholar"></i></a></li><li><a href=https://www.linkedin.com/in/ali-emami-226b30280/ target=_blank rel=noopener><i class="fab fa-linkedin"></i></a></li></ul></div></div></div></article></div><div class=page-footer><div class=container><footer class=site-footer><p class=powered-by><a href=../../terms/></a></p><p class=powered-by>© 2024 Ali Emami</p><p class=powered-by>Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-themes target=_blank rel=noopener>open source</a> website builder that empowers creators.</p></footer></div></div><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code class="tex hljs"></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i> Copy</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i> Download</a><div id=modal-error></div></div></div></div></div><script src=../../js/vendor-bundle.min.5a3a4e7cbc7b4e121b2d29312cf8ad59.js></script>
+<script src=https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/cpp.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/julia.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js integrity crossorigin=anonymous></script>
+<script id=search-hit-fuse-template type=text/x-template>
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script><script src=https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin=anonymous></script>
+<script src=../../en/js/wowchemy.min.44f54723226744971bcdd9c0ca685057.js></script></body></html>
