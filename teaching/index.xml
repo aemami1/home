@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teachings | Ali Emami</title><link>/teaching/</link><atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teachings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Teachings</title><link>/teaching/</link></image><item><title/><link>/teaching/teachinglist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/teachinglist/</guid><description>&lt;ul>
 &lt;li>
-&lt;p>[Winter 2023 &amp;amp; 2024] COSC 5P84/4P84 - &lt;strong>Introduction to Natural Language Processing&lt;/strong>
-A theoretical and methodological introduction to the computational modelling of natural language, including techniques and algorithms, formalisms, and applications. Topics include computational morphology, lexical and compositional semantics, syntactic parsing, language modelling, summarization, machine translation, and coreference resolution. The course integrates various machine learning techniques.&lt;/p>
+&lt;p>[Winter 2023 &amp;amp; 2024] COSC 5P84/4P84 - &lt;strong>Introduction to Natural Language Processing&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Winter 2023 &amp;amp; 2024] COSC 1P03 - &lt;strong>Data Structures and Abstraction&lt;/strong>
-An introduction to data abstraction and information hiding methodologies. Discusses fundamental dynamic data structures of Computer Science: stacks, queues, and lists. Continues discussions of Java programming language features that support abstraction.&lt;/p>
+&lt;p>[Winter 2023 &amp;amp; 2024] COSC 1P03 - &lt;strong>Data Structures and Abstraction&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Fall 2021 &amp;amp; 2022] COSC 2P89 - &lt;strong>Internet Technologies&lt;/strong>
-Discusses major principles, algorithms, languages, and technologies underlying web development. Provides practical hands-on experience through projects.&lt;/p>
+&lt;p>[Fall 2021 &amp;amp; 2022] COSC 2P89 - &lt;strong>Internet Technologies&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Winter 2022] COSC 2P05 - &lt;strong>Programming Languages&lt;/strong>
-Covers fundamental concepts of programming languages including syntax, semantics, program translation, virtual machines, control, data types, multi-threading, exception handling, and abstraction mechanisms. Introduction to programming paradigms including imperative, applicative, logic, and object-oriented.&lt;/p>
+&lt;p>[Winter 2022] COSC 2P05 - &lt;strong>Programming Languages&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Teachings</title><link>/teaching/teachings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/teachings/</guid><description>
 &lt;hr>
 &lt;ul>
 &lt;li>
 &lt;p>[Winter 2023 &amp;amp; 2024] COSC 5P84/4P84 - &lt;strong>Introduction to Natural Language Processing&lt;/strong>&lt;/p>
-&lt;p>A theoretical and methodological introduction to the computational modelling of natural language, including techniques and algorithms, formalisms, and applications. Topics include computational morphology, lexical and compositional semantics, syntactic parsing, language modelling, summarization, machine translation, and coreference resolution. The course integrates various machine learning techniques.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>[Winter 2023 &amp;amp; 2024] COSC 1P03 - &lt;strong>Data Structures and Abstraction&lt;/strong>&lt;/p>
-&lt;p>An introduction to data abstraction and information hiding methodologies. Discusses fundamental dynamic data structures of Computer Science: stacks, queues, and lists. Continues discussions of Java programming language features that support abstraction.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>[Fall 2021 &amp;amp; 2022] COSC 2P89 - &lt;strong>Internet Technologies&lt;/strong>&lt;/p>
-&lt;p>Discusses major principles, algorithms, languages, and technologies underlying web development. Provides practical hands-on experience through projects.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>[Winter 2022] COSC 2P05 - &lt;strong>Programming Languages&lt;/strong>&lt;/p>
-&lt;p>Covers fundamental concepts of programming languages including syntax, semantics, program translation, virtual machines, control, data types, multi-threading, exception handling, and abstraction mechanisms. Introduction to programming paradigms including imperative, applicative, logic, and object-oriented.&lt;/p>
 &lt;/li>
 &lt;/ul></description></item></channel></rss>
