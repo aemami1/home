@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Ali Emami" # Website name
-baseurl: '' # Website URL
+baseurl: 'https://aemami.ca/' # Website URL
 copyright: "&copy; {year} Ali Emami" # Footer text, e.g. '© {year} Me'
 relativeURLs: true
 canonifyURLs: false
