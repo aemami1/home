@@ -1,17 +1,30 @@
-name: Build and Deploy
+name: Deploy Hugo to GitHub Pages
+
 on:
   push:
     branches:
-      - main  # Adjust if your default branch is named differently
+      - main  # Set this to the branch from which you want to deploy
+
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.112.0'
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+    - uses: actions/checkout@v2
+      with:
+        submodules: true  # Fetch Hugo themes (if you're using a submodule)
+        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.116.0'
+        extended: true
+
+    - name: Build
+      run: hugo --minify
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        publish_dir: ./public
