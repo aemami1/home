@@ -27,7 +27,7 @@ education:
     - course: MSc in Computer Science
       institution: McGill University, Canada
       year: 2016
-    - course: BSc in Joing Physics & Computer Science
+    - course: BSc in Joint Physics & Computer Science
       institution: McGill University, Canada
       year: 2014
 superuser: true
