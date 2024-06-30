@@ -7,6 +7,12 @@ date: '2023-01-01'
 publishDate: '2024-06-28T23:12:02.236276Z'
 publication_types:
 - '1'
+abstract: 'In this paper, we study the viability of the deployment of language models towards non-playable character (NPC) scripts, by introducing a novel pipeline for the automatic construction of NPC scripts using Transformer-based believable scripts for a variety of game genres and specifications. In addition, we propose a self-diagnosis method inspired by previous work to develop language models, tailored specifically to desirable NPC qualities such as coherency, believability, and degree of repetition. Finally, we propose a new benchmark, called The Turing Quest, which we use to show that the pipeline, when applied to GPT-3, can generate for a variety of game genres and contexts, NPC scripts that can fool judges in thinking they have been written by humans. We believe that these findings can greatly benefit both the gaming industry and its global community of users, since many current games continue to base their NPCs on manually-curated scripts that are resource-demanding and may curb the immersiveness and enjoyment of the user.'
 publication: '*Proceedings of the 61st Annual Meeting of the Association for Computational
-  Linguistics (Volume 4: Student Research Workshop)*'
+  Linguistics (Volume 4: Student Research Workshop)* **(ACL 2023)**'
+links: 
+- name: ACL Anthology
+  url: https://aclanthology.org/2023.acl-srw.17/
+- name: Code
+  url: https://github.com/FieryAced/-NPC-Dialogue-Generation
 ---
