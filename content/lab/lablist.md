@@ -4,7 +4,7 @@ show_date: false
 ---
 
 ## Welcome to Brock NLP Lab! 
-
+{{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
 # Lab Members 
 
 #### Director 
@@ -31,28 +31,48 @@ Ali Emami, Assistant Professor of Computer Science
 
 # Research 
 
-The primary research objective of the Brock NLP lab is to create **trustworthy, controllable, and safe** natural language processing tools that can understand, reason, and produce human-like texts. Our research encompasses multiple facets of AI, including bias detection and mitigation, reasoning and benchmarking of Large Language Models (LLMs), and machine interpretability.
+The Brock NLP lab is dedicated to developing **trustworthy, controllable, and safe** natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
 
-### 1. Bias Detection and Mitigation in LLMs
-We focus on developing subtle measures to evaluate representative and affinity bias in Large Language Models. Our research aims to create more equitable AI systems by identifying and addressing hidden biases.
+### 1. Bias Detection and Mitigation in Large Language Models (LLMs)
 
-**Related papers:**
-- Kumar, A., Yunusov, S., Emami, A. Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)
-- Morabito, R., Kabbara, J., Emami, A. Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.
 
-### 2. Reasoning and Benchmarking LLMs
-Our work in this area involves creating innovative challenges and datasets to test the reasoning capabilities of Large Language Models, with a particular focus on the Winograd Schema Challenge.
+**Key Contributions:**
+- Introduced the Representative Bias Score (RBS) and Affinity Bias Score (ABS) to measure subtle biases in LLMs.
+- Developed the Creativity-Oriented Generation Suite (CoGS) for detecting biases in open-ended tasks.
+- Proposed a protocol for measuring the consistency of debiasing techniques in language models.
 
-**Related papers:**
-- Park, B., Janecek, M., Li, Y., Emami, A. Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)
-- Sun, J.H., & Emami, A. EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC 2024)
-- Zahraei, Pardis Sadat, & Emami, A. WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)
+**Recent Publications:**
+- Kumar, A., Yunusov, S., Emami, A. (2024). Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In *Proceedings of ACL 2024*.
+- Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In *Findings of ACL 2023*.
 
-### 3. Machine Interpretability
-We investigate the inner workings of Large Language Models, focusing on their confidence-probability alignment and other aspects of their decision-making processes.
+### 2. Reasoning and Benchmarking of LLMs
 
-**Related paper:**
-- Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).
+
+**Key Contributions:**
+- Developed WinoVis, a novel dataset for probing text-to-image models on pronoun disambiguation in multimodal contexts.
+- Created EvoGrad, an open-source platform for dynamic WSC datasets using a human-in-the-loop approach.
+- Introduced WSC+, an enhanced version of the WSC using a Tree-of-Experts approach.
+
+**Recent Publications:**
+- Park, B., Janecek, M., Li, Y., Emami, A. (2024). Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In *Proceedings of ACL 2024*.
+- Sun, J.H., & Emami, A. (2024). EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In *Proceedings of COLING-LREC 2024*.
+- Zahraei, P.S., & Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In *Proceedings of EACL 2024*.
+
+### 3. Machine Interpretability and Confidence Analysis
+
+We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.
+
+**Key Contributions:**
+- Introduced the concept of Confidence-Probability Alignment in LLMs.
+- Developed novel prompting techniques to encourage model introspection and self-evaluation.
+- Proposed a framework for assessing model stability in dynamic tasks through the error depth metric.
+
+**Recent Publication:**
+- Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In *Proceedings of ACL 2024*.
+
+We are dedicated to advancing the development of more reliable, unbiased, and interpretable language models, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.
 
 # Join Us
 

@@ -12,5 +12,4 @@ header:
   image: ''
 ---
 
-
 {{< readfromfile "/content/lab/lablist.md" 1000 >}} 
