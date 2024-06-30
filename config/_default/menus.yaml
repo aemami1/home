@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '/publication'
     weight: 30
-  - name: Teachings
+  - name: Courses
     url: '/teaching/teachinglist'
     weight: 50
   - name: Services
