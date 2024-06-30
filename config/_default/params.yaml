@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: forest
 day_night: true
 font: ''
 font_size: M
@@ -13,8 +13,8 @@ font_size: M
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
+local_business_type: 'University'
+org_name: 'Brock University'
 description: ''
 twitter: ''
 
