@@ -582,6 +582,12 @@ or
 &lt;li>[2015&amp;ndash;2017] Fonds de Recherche Santé Quebec (FRSQ) Master&amp;rsquo;s Scholarship, $15,000 (each year)&lt;/li>
 &lt;li>[2015] NSERC Canada Graduate Scholarships-Master&amp;rsquo;s Program, $17,500&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
+&lt;figure id="figure-june-2024-niagara-falls-canada">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+June, 2024, Niagara Falls, Canada
+&lt;/figcaption>&lt;/figure>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -608,28 +614,47 @@ or
 &lt;li>Harsh Lalai (Summer 2024)&lt;/li>
 &lt;/ul>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The primary research objective of the Brock NLP lab is to create &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools that can understand, reason, and produce human-like texts. Our research encompasses multiple facets of AI, including bias detection and mitigation, reasoning and benchmarking of Large Language Models (LLMs), and machine interpretability.&lt;/p>
-&lt;h3 id="1-bias-detection-and-mitigation-in-llms">1. Bias Detection and Mitigation in LLMs&lt;/h3>
-&lt;p>We focus on developing subtle measures to evaluate representative and affinity bias in Large Language Models. Our research aims to create more equitable AI systems by identifying and addressing hidden biases.&lt;/p>
-&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
+&lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Kumar, A., Yunusov, S., Emami, A. Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
-&lt;li>Morabito, R., Kabbara, J., Emami, A. Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)&lt;/li>
+&lt;li>Introduced the Representative Bias Score (RBS) and Affinity Bias Score (ABS) to measure subtle biases in LLMs.&lt;/li>
+&lt;li>Developed the Creativity-Oriented Generation Suite (CoGS) for detecting biases in open-ended tasks.&lt;/li>
+&lt;li>Proposed a protocol for measuring the consistency of debiasing techniques in language models.&lt;/li>
 &lt;/ul>
-&lt;h3 id="2-reasoning-and-benchmarking-llms">2. Reasoning and Benchmarking LLMs&lt;/h3>
-&lt;p>Our work in this area involves creating innovative challenges and datasets to test the reasoning capabilities of Large Language Models, with a particular focus on the Winograd Schema Challenge.&lt;/p>
-&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Recent Publications:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Park, B., Janecek, M., Li, Y., Emami, A. Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
-&lt;li>Sun, J.H., &amp;amp; Emami, A. EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC 2024)&lt;/li>
-&lt;li>Zahraei, Pardis Sadat, &amp;amp; Emami, A. WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)&lt;/li>
+&lt;li>Kumar, A., Yunusov, S., Emami, A. (2024). Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/li>
+&lt;li>Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In &lt;em>Findings of ACL 2023&lt;/em>.&lt;/li>
 &lt;/ul>
-&lt;h3 id="3-machine-interpretability">3. Machine Interpretability&lt;/h3>
-&lt;p>We investigate the inner workings of Large Language Models, focusing on their confidence-probability alignment and other aspects of their decision-making processes.&lt;/p>
-&lt;p>&lt;strong>Related paper:&lt;/strong>&lt;/p>
+&lt;h3 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h3>
+&lt;p>We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
+&lt;li>Developed WinoVis, a novel dataset for probing text-to-image models on pronoun disambiguation in multimodal contexts.&lt;/li>
+&lt;li>Created EvoGrad, an open-source platform for dynamic WSC datasets using a human-in-the-loop approach.&lt;/li>
+&lt;li>Introduced WSC+, an enhanced version of the WSC using a Tree-of-Experts approach.&lt;/li>
 &lt;/ul>
+&lt;p>&lt;strong>Recent Publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Park, B., Janecek, M., Li, Y., Emami, A. (2024). Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/li>
+&lt;li>Sun, J.H., &amp;amp; Emami, A. (2024). EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In &lt;em>Proceedings of COLING-LREC 2024&lt;/em>.&lt;/li>
+&lt;li>Zahraei, P.S., &amp;amp; Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In &lt;em>Proceedings of EACL 2024&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h3>
+&lt;p>We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Introduced the concept of Confidence-Probability Alignment in LLMs.&lt;/li>
+&lt;li>Developed novel prompting techniques to encourage model introspection and self-evaluation.&lt;/li>
+&lt;li>Proposed a framework for assessing model stability in dynamic tasks through the error depth metric.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Recent Publication:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;p>We are dedicated to advancing the development of more reliable, unbiased, and interpretable language models, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.&lt;/p>
 &lt;h1 id="join-us">Join Us&lt;/h1>
 &lt;p>We are recruiting new graduate students for Fall, 2024&lt;/p>
 &lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
@@ -876,6 +901,12 @@ or
 &lt;/ul></description></item><item><title>Services</title><link>https://aemami.ca/lab/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lab/</guid><description>
 &lt;hr>
 &lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
+&lt;figure id="figure-june-2024-niagara-falls-canada">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+June, 2024, Niagara Falls, Canada
+&lt;/figcaption>&lt;/figure>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -928,38 +959,75 @@ or
 &lt;/li>
 &lt;/ul>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The primary research objective of the Brock NLP lab is to create &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools that can understand, reason, and produce human-like texts. Our research encompasses multiple facets of AI, including bias detection and mitigation, reasoning and benchmarking of Large Language Models (LLMs), and machine interpretability.&lt;/p>
-&lt;h3 id="1-bias-detection-and-mitigation-in-llms">1. Bias Detection and Mitigation in LLMs&lt;/h3>
-&lt;p>We focus on developing subtle measures to evaluate representative and affinity bias in Large Language Models. Our research aims to create more equitable AI systems by identifying and addressing hidden biases.&lt;/p>
-&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
+&lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>Kumar, A., Yunusov, S., Emami, A. Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/p>
+&lt;p>Introduced the Representative Bias Score (RBS) and Affinity Bias Score (ABS) to measure subtle biases in LLMs.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Morabito, R., Kabbara, J., Emami, A. Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)&lt;/p>
+&lt;p>Developed the Creativity-Oriented Generation Suite (CoGS) for detecting biases in open-ended tasks.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proposed a protocol for measuring the consistency of debiasing techniques in language models.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="2-reasoning-and-benchmarking-llms">2. Reasoning and Benchmarking LLMs&lt;/h3>
-&lt;p>Our work in this area involves creating innovative challenges and datasets to test the reasoning capabilities of Large Language Models, with a particular focus on the Winograd Schema Challenge.&lt;/p>
-&lt;p>&lt;strong>Related papers:&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Recent Publications:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>Park, B., Janecek, M., Li, Y., Emami, A. Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/p>
+&lt;p>Kumar, A., Yunusov, S., Emami, A. (2024). Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sun, J.H., &amp;amp; Emami, A. EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC 2024)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Zahraei, Pardis Sadat, &amp;amp; Emami, A. WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)&lt;/p>
+&lt;p>Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In &lt;em>Findings of ACL 2023&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="3-machine-interpretability">3. Machine Interpretability&lt;/h3>
-&lt;p>We investigate the inner workings of Large Language Models, focusing on their confidence-probability alignment and other aspects of their decision-making processes.&lt;/p>
-&lt;p>&lt;strong>Related paper:&lt;/strong>&lt;/p>
+&lt;h3 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h3>
+&lt;p>We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2024)&lt;/li>
+&lt;li>
+&lt;p>Developed WinoVis, a novel dataset for probing text-to-image models on pronoun disambiguation in multimodal contexts.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Created EvoGrad, an open-source platform for dynamic WSC datasets using a human-in-the-loop approach.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Introduced WSC+, an enhanced version of the WSC using a Tree-of-Experts approach.&lt;/p>
+&lt;/li>
 &lt;/ul>
+&lt;p>&lt;strong>Recent Publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Park, B., Janecek, M., Li, Y., Emami, A. (2024). Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sun, J.H., &amp;amp; Emami, A. (2024). EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In &lt;em>Proceedings of COLING-LREC 2024&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zahraei, P.S., &amp;amp; Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In &lt;em>Proceedings of EACL 2024&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h3>
+&lt;p>We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Introduced the concept of Confidence-Probability Alignment in LLMs.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Developed novel prompting techniques to encourage model introspection and self-evaluation.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proposed a framework for assessing model stability in dynamic tasks through the error depth metric.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Recent Publication:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;p>We are dedicated to advancing the development of more reliable, unbiased, and interpretable language models, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.&lt;/p>
 &lt;h1 id="join-us">Join Us&lt;/h1>
 &lt;p>We are recruiting new graduate students for Fall, 2024&lt;/p>
 &lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
