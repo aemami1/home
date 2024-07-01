@@ -42,8 +42,9 @@ I received my PhD in Computer Science in 2021 from [McGill University](http://cs
 
 {{< icon name="graduation-cap" pack="fas" >}} [PhD Thesis](https://escholarship.mcgill.ca/concern/theses/pz50h2225) | 
 <a href="/uploads/resume.pdf" download="Ali_Emami_Resume.pdf" target="_blank">
-  <i class="fas fa-file-pdf"></i> Download CV
+  <i class="fas fa-file-pdf" style="color: black !important;"></i> Download CV
 </a>
+
 
 
 
