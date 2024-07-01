@@ -13,6 +13,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=Pjdq8cUAAAAJ&hl=en
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://escholarship.mcgill.ca/concern/theses/pz50h2225
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ali-emami-226b30280/
@@ -44,10 +50,6 @@ I'm an Assistant Professor at the Department of Computer Science at Brock Univer
 
 I received my PhD in Computer Science in 2021 from [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). My PhD research was at the intersection of Natural Language Inference (NLI) and common-sense reasoning in AI Systems.
 
-{{< icon name="graduation-cap" pack="fas" >}} [PhD Thesis](https://escholarship.mcgill.ca/concern/theses/pz50h2225) | 
-<a href="/uploads/resume.pdf" download="Ali_Emami_Resume.pdf" target="_blank">
-  <i class="fas fa-file-pdf" style="color: black !important;"></i> Download CV
-</a>
 
 
 
