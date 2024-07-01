@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ali Emami</title><link>https://aemami.ca/</link><atom:link href="https://aemami.ca/index.xml" rel="self" type="application/rss+xml"/><description>Ali Emami</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Ali Emami</title><link>https://aemami.ca/</link></image><item><title>Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models</title><link>https://aemami.ca/publication/kumar-2024-confidence/</link><pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/kumar-2024-confidence/</guid><description>&lt;p>This paper has been accepted for publication at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.&lt;/p></description></item><item><title>Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge</title><link>https://aemami.ca/publication/park-2024-winovis/</link><pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/park-2024-winovis/</guid><description>&lt;p>This paper has been accepted for publication at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.&lt;/p></description></item><item><title>Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models</title><link>https://aemami.ca/publication/kumar-2024-subtle/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/kumar-2024-subtle/</guid><description>&lt;p>This paper has been accepted for presentation at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.&lt;/p></description></item><item><title>EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries</title><link>https://aemami.ca/publication/sun-2024-evo/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/sun-2024-evo/</guid><description/></item><item><title>WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts</title><link>https://aemami.ca/publication/zahraei-2024-wsc/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/zahraei-2024-wsc/</guid><description/></item><item><title>Natural Language Processing: Current Methods and Challenges</title><link>https://aemami.ca/publication/emami-2023-challenge/</link><pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/emami-2023-challenge/</guid><description/></item><item><title>Debiasing should be good and bad: Measuring the consistency of debiasing techniques in language models</title><link>https://aemami.ca/publication/morabito-2023-debiasing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/morabito-2023-debiasing/</guid><description/></item><item><title>The Turing Quest: Can Transformers Make Good NPCs?</title><link>https://aemami.ca/publication/gao-2023-turing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/gao-2023-turing/</guid><description/></item><item><title>Interpreting docstrings without using common sense: the private science of very large language models</title><link>https://aemami.ca/publication/abramson-2021-interp/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/abramson-2021-interp/</guid><description/></item><item><title>An application of pseudo-log-likelihoods to natural language scoring</title><link>https://aemami.ca/publication/abramson-2022-application/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/abramson-2022-application/</guid><description/></item><item><title>ADEPT: An Adjective-Dependent Plausibility Task</title><link>https://aemami.ca/publication/emami-2021-adept/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/emami-2021-adept/</guid><description/></item><item><title>Predicting irregularities in arrival times for transit buses with recurrent neural networks using GPS coordinates and weather data</title><link>https://aemami.ca/publication/alam-2021-predicting/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/alam-2021-predicting/</guid><description/></item><item><title>Getting Started With Hugo Academic and Github Pages</title><link>https://aemami.ca/blog/getting-started-with-hugo-academic-and-github-pages/</link><pubDate>Sun, 12 Jul 2020 06:51:13 +0000</pubDate><guid>https://aemami.ca/blog/getting-started-with-hugo-academic-and-github-pages/</guid><description>&lt;details class="toc-inpage d-print-none " open>
-&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
-&lt;nav id="TableOfContents">
-&lt;ul>
-&lt;li>&lt;a href="#1-prerequisites">1. Prerequisites&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#2-create-source-repository">2. Create source repository&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#3-set-up-initial-website">3. Set up initial website&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#4-create-and-set-up-host-repository">4. Create and set up host repository&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#5-automatically-publish-changes-in-source-repository-on-your-website">5. Automatically publish changes in source repository on your website&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#6-where-to-go-from-here">6. Where to go from here&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/nav>
-&lt;/details>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ali Emami</title><link>https://aemami.ca/</link><atom:link href="https://aemami.ca/index.xml" rel="self" type="application/rss+xml"/><description>Ali Emami</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Ali Emami</title><link>https://aemami.ca/</link></image><item><title>Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models</title><link>https://aemami.ca/publication/kumar-2024-confidence/</link><pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/kumar-2024-confidence/</guid><description>&lt;p>This paper has been accepted for publication at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.&lt;/p></description></item><item><title>Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge</title><link>https://aemami.ca/publication/park-2024-winovis/</link><pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/park-2024-winovis/</guid><description>&lt;p>This paper has been accepted for publication at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.&lt;/p></description></item><item><title>Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models</title><link>https://aemami.ca/publication/kumar-2024-subtle/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/kumar-2024-subtle/</guid><description>&lt;p>This paper has been accepted for presentation at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.&lt;/p></description></item><item><title>EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries</title><link>https://aemami.ca/publication/sun-2024-evo/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/sun-2024-evo/</guid><description/></item><item><title>WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts</title><link>https://aemami.ca/publication/zahraei-2024-wsc/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/zahraei-2024-wsc/</guid><description/></item><item><title>Natural Language Processing: Current Methods and Challenges</title><link>https://aemami.ca/publication/emami-2023-challenge/</link><pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/emami-2023-challenge/</guid><description/></item><item><title>Debiasing should be good and bad: Measuring the consistency of debiasing techniques in language models</title><link>https://aemami.ca/publication/morabito-2023-debiasing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/morabito-2023-debiasing/</guid><description/></item><item><title>The Turing Quest: Can Transformers Make Good NPCs?</title><link>https://aemami.ca/publication/gao-2023-turing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/gao-2023-turing/</guid><description/></item><item><title>Interpreting docstrings without using common sense: the private science of very large language models</title><link>https://aemami.ca/publication/abramson-2021-interp/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/abramson-2021-interp/</guid><description/></item><item><title>An application of pseudo-log-likelihoods to natural language scoring</title><link>https://aemami.ca/publication/abramson-2022-application/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/abramson-2022-application/</guid><description/></item><item><title>ADEPT: An Adjective-Dependent Plausibility Task</title><link>https://aemami.ca/publication/emami-2021-adept/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/emami-2021-adept/</guid><description/></item><item><title>Predicting irregularities in arrival times for transit buses with recurrent neural networks using GPS coordinates and weather data</title><link>https://aemami.ca/publication/alam-2021-predicting/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://aemami.ca/publication/alam-2021-predicting/</guid><description/></item><item><title>Getting Started With Hugo Academic and Github Pages</title><link>https://aemami.ca/blog/getting-started-with-hugo-academic-and-github-pages/</link><pubDate>Sun, 12 Jul 2020 06:51:13 +0000</pubDate><guid>https://aemami.ca/blog/getting-started-with-hugo-academic-and-github-pages/</guid><description>&lt;!-- raw HTML omitted -->
 &lt;p>This post describes how one can set up a personal website using the
 &lt;a href="https://sourcethemes.com/academic" target="_blank" rel="noopener">Hugo Academic&lt;/a> theme for the static site generator
 &lt;a href="https://gohugo.io" target="_blank" rel="noopener">Hugo&lt;/a> and publish it automatically with
@@ -32,12 +20,7 @@ The easiest way to set up Hugo is to download and unpack the latest release from
 &lt;a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Hugo releases&lt;/a> website on GitHub. For more information
 on installing Hugo, refer to the
 &lt;a href="https://gohugo.io/getting-started/installing/" target="_blank" rel="noopener">official installation instructions&lt;/a>.&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-Make sure you install the &lt;strong>extended&lt;/strong> version of Hugo, which is required to build the Hugo Academic
-theme.
-&lt;/div>
-&lt;/div>
+&lt;!-- raw HTML omitted -->
 &lt;h2 id="2-create-source-repository">2. Create source repository&lt;/h2>
 &lt;p>As a first step, we will create a new source repository on GitHub. It will hold your website&amp;rsquo;s
 unprocessed sources, from which the website&amp;rsquo;s HTML documents will be built. The
@@ -55,33 +38,31 @@ but do &lt;em>not&lt;/em> initialize it with at README. In this post, I will cal
 &lt;li>
 &lt;p>Clone the Academic Kickstart repository from &lt;a href="https://github.com/sourcethemes/academic-kickstart" target="_blank" rel="noopener">https://github.com/sourcethemes/academic-kickstart&lt;/a>,
 replace the URL of &lt;code>origin&lt;/code> with your source repository&amp;rsquo;s URL, and push it to GitHub:&lt;/p>
-&lt;pre>&lt;code class="language-bash">git clone git@github.com:sourcethemes/academic-kickstart.git academic-kickstart-demo
-cd academic-kickstart-demo
-git remote set-url origin git@github.com:sloede/academic-kickstart-demo.git
-git push
-&lt;/code>&lt;/pre>
-&lt;p>Make sure to replace the URL of the source repository with your own!&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git clone git@github.com:sourcethemes/academic-kickstart.git academic-kickstart-demo
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd academic-kickstart-demo
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git remote set-url origin git@github.com:sloede/academic-kickstart-demo.git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git push
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Make sure to replace the URL of the source repository with your own!&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="3-set-up-initial-website">3. Set up initial website&lt;/h2>
 &lt;p>Before proceeding to make modifications, you should have a look at the initial state of the website
 and verify that everything works. To do this, you first need to initialize the git submodules by
 running&lt;/p>
-&lt;pre>&lt;code class="language-bash">git submodule update --init --recursive
-&lt;/code>&lt;/pre>
-&lt;p>This step is required once after you clone your source repository to a new location, as it will
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git submodule update --init --recursive
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This step is required once after you clone your source repository to a new location, as it will
 download necessary files for the Hugo Academic theme to work. Then, you can build your website
 locally by executing &lt;code>hugo&lt;/code>, which will generate the website and place all files in the &lt;code>public/&lt;/code>
 directory. Alternatively, you can also start a local webserver with&lt;/p>
-&lt;pre>&lt;code class="language-bash">hugo server
-&lt;/code>&lt;/pre>
-&lt;p>which will build the website and make it available at
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo server
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>which will build the website and make it available at
 &lt;a href="http://localhost:1313/" target="_blank" rel="noopener">http://localhost:1313&lt;/a>.
 In this mode Hugo will automatically re-generate your site whenever you change your
 sources, which comes in handy while developing your contents.
 &lt;figure id="figure-initial-state-of-the-website-before-any-modifications">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Initial state of the website before any modifications." srcset="
+&lt;div class="w-100" >
+&lt;img alt="Initial state of the website before any modifications." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_cee1fec8c5d146f08eb5ed5aea0f1209.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_17ed411c746ce66a2d13dc43f84088cf.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/initial_homepage_hufce4a0b110bb33ff4bc6877baede8907_168657_1200x1200_fit_lanczos_3.png 1200w"
@@ -121,13 +102,12 @@ comment out by prepending a &lt;code>#&lt;/code> symbol.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Disable unused widgets on the homepage by executing
-&lt;pre>&lt;code class="language-bash">git mv content/home content/home-unused
-mkdir content/home
-git mv content/home-unused/index.md content/home/
-git mv content/home-unused/about.md content/home/
-git mv content/home-unused/contact.md content/home/
-&lt;/code>&lt;/pre>
-and edit &lt;code>config/_default/menus.toml&lt;/code> and comment out the entries for &lt;code>Posts&lt;/code>, &lt;code>Projects&lt;/code>, and
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git mv content/home content/home-unused
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mkdir content/home
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git mv content/home-unused/index.md content/home/
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git mv content/home-unused/about.md content/home/
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git mv content/home-unused/contact.md content/home/
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>and edit &lt;code>config/_default/menus.toml&lt;/code> and comment out the entries for &lt;code>Posts&lt;/code>, &lt;code>Projects&lt;/code>, and
 &lt;code>Publications&lt;/code>
 (&lt;a href="https://github.com/sloede/academic-kickstart-demo/commit/bfb8dac" target="_blank" rel="noopener">diff&lt;/a>).&lt;/li>
 &lt;li>Update the main user
@@ -135,9 +115,8 @@ and edit &lt;code>config/_default/menus.toml&lt;/code> and comment out the entri
 &lt;ul>
 &lt;li>Rename the folder &lt;code>content/author/admin&lt;/code> to your name, replacing spaces by dashes and keeping
 everything lowercase:
-&lt;pre>&lt;code class="language-bash">git mv content/authors/admin content/authors/carl-friedrich-gauss
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git mv content/authors/admin content/authors/carl-friedrich-gauss
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Edit &lt;code>content/authors/carl-friedrich-gauss/_index.md&lt;/code> and enter your information. Most
 importantly, change the username under &lt;code>authors:&lt;/code> from &lt;code>admin&lt;/code> to your new username (= folder
 name under &lt;code>content/authors/&lt;/code>), e.g., &lt;code>carl-friedrich-gauss&lt;/code>.&lt;/li>
@@ -151,13 +130,11 @@ is still missing) and &lt;code>git push&lt;/code> the source repository to GitHu
 &lt;p>&lt;a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages&lt;/a> allows you to host static websites on GitHub, which is
 ideal for websites generated with a static site generator such as Hugo. For each project (=
 repository) you have on GitHub, the corresponding GitHub pages website will be available under&lt;/p>
-&lt;pre>&lt;code>https://YOUR-GITHUB-USERNAME.github.com/YOUR-PROJECT-NAME
-&lt;/code>&lt;/pre>
-&lt;p>For the special project name
+&lt;pre tabindex="0">&lt;code>https://YOUR-GITHUB-USERNAME.github.com/YOUR-PROJECT-NAME
+&lt;/code>&lt;/pre>&lt;p>For the special project name
 &lt;code>YOUR-GITHUB-USERNAME.github.com&lt;/code>, the website will be served directly under&lt;/p>
-&lt;pre>&lt;code>https://YOUR-GITHUB-USERNAME.github.com
-&lt;/code>&lt;/pre>
-&lt;p>That is, without the project name suffix. For example, for
+&lt;pre tabindex="0">&lt;code>https://YOUR-GITHUB-USERNAME.github.com
+&lt;/code>&lt;/pre>&lt;p>That is, without the project name suffix. For example, for
 my GitHub user account &lt;a href="https://github.com/sloede" target="_blank" rel="noopener">sloede&lt;/a>, the special project name is
 &lt;code>sloede.github.com&lt;/code> and the website is available under &lt;a href="https://sloede.github.com" target="_blank" rel="noopener">https://sloede.github.com&lt;/a> (this will actually
 redirect you to this website).&lt;/p>
@@ -175,7 +152,8 @@ since I have already set up a
 &lt;a href="https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site" target="_blank" rel="noopener">custom domain for my GitHub Pages&lt;/a>.
 &lt;figure id="figure-github-pages-settings-to-select-which-branch-to-serve-as-a-website">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="GitHub Pages settings to select which branch to serve as a website." srcset="
+&lt;div class="w-100" >
+&lt;img alt="GitHub Pages settings to select which branch to serve as a website." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_a5f4240357345067c6ad4e0dd9991471.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_00e2fd17333b1a71e53d4b29ea529e11.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/github_pages_settings_source_hu499f34155f136072c6501524a9e48601_49157_1200x1200_fit_lanczos_3.png 1200w"
@@ -186,27 +164,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
 GitHub Pages settings to select which branch to serve as a website.
 &lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-&lt;p>It is also advisable to tick the box &lt;em>Enforce HTTPS&lt;/em>, since SSL-encrypted website connections are
-the norm nowadays.&lt;/p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_73400ff2f52272e958c1fd1fbd06a6b0.png 400w,
-/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_3a8990929d19b73ae37299dbc9d3b0dc.png 760w,
-/blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_1200x1200_fit_lanczos_3.png 1200w"
-src="./blog/getting-started-with-hugo-academic-and-github-pages/github_pages_enforce_https_huec6568b41bcf1d318da1bdb16e434791_20006_73400ff2f52272e958c1fd1fbd06a6b0.png"
-width="726"
-height="155"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/div>
-&lt;/div>
+&lt;!-- raw HTML omitted -->
 &lt;p>Now your host repository&amp;rsquo;s content (currently only the README file) will be available online and you can make sure that everything works by clicking on the link in the green box:
 &lt;figure id="figure-initial-github-pages-website-showing-the-readme-file">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Initial GitHub Pages website showing the README file." srcset="
+&lt;div class="w-100" >
+&lt;img alt="Initial GitHub Pages website showing the README file." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_098c049b1deab4833d03b7b6f542b457.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_dc204d30d8fe737239d5fd03b91ef908.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/initial_github_pages_hu474dad2e7a8657c924d3badf497b4393_11863_1200x1200_fit_lanczos_3.png 1200w"
@@ -222,30 +185,28 @@ displays the Hugo Academic website properly. To do this, perform the following s
 &lt;ol>
 &lt;li>Delete the existing &lt;code>public/&lt;/code> folder in your local clone of the source repository and clone your
 host repository as the &lt;code>public/&lt;/code> subfolder:
-&lt;pre>&lt;code class="language-bash">rm -rf public/
-git clone git@github.com:sloede/academic-pages-demo.git public
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>rm -rf public/
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git clone git@github.com:sloede/academic-pages-demo.git public
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Rebuild website:
-&lt;pre>&lt;code class="language-bash">hugo
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Remove the &lt;code>README.md&lt;/code> file (as otherwise your website will not be shown), add all files in
 &lt;code>public/&lt;/code> to git, and commit &amp;amp; push:
-&lt;pre>&lt;code class="language-bash">cd public
-git rm README.md
-git add .
-git ci -m 'Initial commit of Hugo Academic website'
-git push
-cd ..
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>cd public
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git rm README.md
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git add .
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git ci -m &lt;span style="color:#e6db74">&amp;#39;Initial commit of Hugo Academic website&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git push
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd ..
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ol>
 &lt;p>When you go to the GitHub Pages URL of your host repository, the website should now look something
 like &lt;a href="https://academic-pages-demo.lakemper.eu" target="_blank" rel="noopener">this&lt;/a>:
 &lt;figure id="figure-github-pages-website-showing-hugo-academic-website">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="GitHub Pages website showing Hugo Academic website." srcset="
+&lt;div class="w-100" >
+&lt;img alt="GitHub Pages website showing Hugo Academic website." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_375a66df42ce1c0075db50089d4182ed.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_32330dd4f91cfed6c4cdeb623940121f.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/academic_on_github_pages_huc5383c85856286f320d3850d36cd10bf_180892_1200x1200_fit_lanczos_3.png 1200w"
@@ -259,9 +220,8 @@ GitHub Pages website showing Hugo Academic website.
 &lt;p>Congratulations, your initial website is now online! To avoid accidental manual commits to the host
 repository, especially after we have set up automatic deployment in the next section, delete the
 &lt;code>.git&lt;/code> folder from the &lt;code>public/&lt;/code> subdirectory:&lt;/p>
-&lt;pre>&lt;code class="language-bash">rm -rf public/.git
-&lt;/code>&lt;/pre>
-&lt;h2 id="5-automatically-publish-changes-in-source-repository-on-your-website">5. Automatically publish changes in source repository on your website&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>rm -rf public/.git
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="5-automatically-publish-changes-in-source-repository-on-your-website">5. Automatically publish changes in source repository on your website&lt;/h2>
 &lt;p>As the last step, we will enable the automatic deployment from your source repository to your host
 repository. That is, whenever you push changes to your website to the source repository, we want to
 automatically update the host repository - and thus the actual website - as well. Since we created
@@ -272,15 +232,15 @@ Following the instructions for creating a deploy key at
 you need to perform the following steps:&lt;/p>
 &lt;ol>
 &lt;li>Generate an SSH key pair by executing
-&lt;pre>&lt;code class="language-bash">ssh-keygen -t rsa -b 4096 -C &amp;quot;$(git config user.email)&amp;quot; -f gh-pages -N &amp;quot;&amp;quot;
-&lt;/code>&lt;/pre>
-This will create two files: the &lt;em>public&lt;/em> key &lt;code>gh-pages.pub&lt;/code> and the &lt;em>private&lt;/em> key &lt;code>gh-pages&lt;/code>.&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>ssh-keygen -t rsa -b &lt;span style="color:#ae81ff">4096&lt;/span> -C &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>git config user.email&lt;span style="color:#66d9ef">)&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> -f gh-pages -N &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>This will create two files: the &lt;em>public&lt;/em> key &lt;code>gh-pages.pub&lt;/code> and the &lt;em>private&lt;/em> key &lt;code>gh-pages&lt;/code>.&lt;/li>
 &lt;li>Go to the repository settings of the &lt;em>source&lt;/em> repository (here: &lt;code>academic-kickstart-demo&lt;/code>), go to
 &lt;em>Secrets&lt;/em>, and add a new secret with the name &lt;code>ACTIONS_DEPLOY_KEY&lt;/code> (spelled exactly like this)
 and the contents of your secret key file &lt;code>gh-pages&lt;/code> as the value:
 &lt;figure id="figure-add-ssh-secret-key-as-new-secret-actions_deploy_key-to-source-repository">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Add SSH secret key as new secret `ACTIONS_DEPLOY_KEY` to source repository." srcset="
+&lt;div class="w-100" >
+&lt;img alt="Add SSH secret key as new secret `ACTIONS_DEPLOY_KEY` to source repository." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_47bdb05f3d21f53132e3dce3adafed82.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_7bb1bdb0ff22d31a6442f45a537e26ca.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/source_repo_secret_hu22aafb3b5448dbbea12114568a49f8a5_211001_1200x1200_fit_lanczos_3.png 1200w"
@@ -298,7 +258,8 @@ Add SSH secret key as new secret &lt;code>ACTIONS_DEPLOY_KEY&lt;/code> to source
 otherwise the source repository will not be able to update the host repository:
 &lt;figure id="figure-add-ssh-public-key-as-new-deploy-key-to-host-repository">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Add SSH public key as new deploy key to host repository." srcset="
+&lt;div class="w-100" >
+&lt;img alt="Add SSH public key as new deploy key to host repository." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_a0c22aa8012b873dbe14711cba930d6e.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_143e15e289ea2279b543dcb9124e038e.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/host_repo_deploy_key_hu5c0cb3b0c10ad444d35d197287364e03_246828_1200x1200_fit_lanczos_3.png 1200w"
@@ -315,9 +276,8 @@ reveals its purpose.&lt;/li>
 &lt;li>After you have added the secret and the deploy key to the source and host repositories, you
 should delete the SSH key files, as their contents will not be needed
 again (and in case of the secret key, it is a security issue to leave it around):
-&lt;pre>&lt;code class="language-bash">rm gh-pages gh-pages.pub
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>rm gh-pages gh-pages.pub
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ol>
 &lt;p>With the deploy key in place, we can proceed to automatically update the host repository
 whenever a commit is pushed to the source repository. For this purpose, we will use
@@ -326,90 +286,87 @@ source repository, builds the website using Hugo, and adds the generated files t
 the host repository.&lt;/p>
 &lt;p>Go to your local clone of the source repository and create the GitHub Actions workflows
 directory:&lt;/p>
-&lt;pre>&lt;code class="language-bash">mkdir -p .github/workflows
-&lt;/code>&lt;/pre>
-&lt;p>Next, create a new workflow file in &lt;code>.github/workflows&lt;/code>, e.g., &lt;code>.github/workflows/GitHubPages.yml&lt;/code>,
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>mkdir -p .github/workflows
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Next, create a new workflow file in &lt;code>.github/workflows&lt;/code>, e.g., &lt;code>.github/workflows/GitHubPages.yml&lt;/code>,
 with the following content:&lt;/p>
-&lt;pre>&lt;code class="language-yaml">name: GitHub Pages
-on:
-push:
-branches:
-- master
-jobs:
-deploy:
-runs-on: ubuntu-20.04
-steps:
-- uses: actions/checkout@v2
-with:
-submodules: true # Fetch Hugo themes (true OR recursive)
-# fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-- name: Setup Hugo
-uses: peaceiris/actions-hugo@v2
-with:
-hugo-version: '0.73.0'
-extended: true
-- name: Build
-run: hugo --minify
-- name: Deploy
-uses: peaceiris/actions-gh-pages@v3
-with:
-deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-publish_dir: ./public
-publish_branch: master # deploying branch
-cname: academic-pages-demo.lakemper.eu
-allow_empty_commit: true
-external_repository: sloede/academic-pages-demo
-&lt;/code>&lt;/pre>
-&lt;p>Here, I will briefly explain each part of the file so you know what it does:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">GitHub Pages&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">on&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">push&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">branches&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">master&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">jobs&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">deploy&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">runs-on&lt;/span>: &lt;span style="color:#ae81ff">ubuntu-20.04&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">steps&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">uses&lt;/span>: &lt;span style="color:#ae81ff">actions/checkout@v2&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">with&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">submodules&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span> &lt;span style="color:#75715e"># Fetch Hugo themes (true OR recursive)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Setup Hugo&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">uses&lt;/span>: &lt;span style="color:#ae81ff">peaceiris/actions-hugo@v2&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">with&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">hugo-version&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;0.73.0&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">extended&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Build&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">run&lt;/span>: &lt;span style="color:#ae81ff">hugo --minify&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Deploy&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">uses&lt;/span>: &lt;span style="color:#ae81ff">peaceiris/actions-gh-pages@v3&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">with&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">deploy_key&lt;/span>: &lt;span style="color:#ae81ff">${{ secrets.ACTIONS_DEPLOY_KEY }}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">publish_dir&lt;/span>: &lt;span style="color:#ae81ff">./public&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">publish_branch&lt;/span>: &lt;span style="color:#ae81ff">master &lt;/span> &lt;span style="color:#75715e"># deploying branch&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">cname&lt;/span>: &lt;span style="color:#ae81ff">academic-pages-demo.lakemper.eu&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">allow_empty_commit&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">external_repository&lt;/span>: &lt;span style="color:#ae81ff">sloede/academic-pages-demo&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Here, I will briefly explain each part of the file so you know what it does:&lt;/p>
 &lt;ul>
 &lt;li>Set name of this workflow to identify it on GitHub.
-&lt;pre>&lt;code class="language-yaml">name: GitHub Pages
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">GitHub Pages&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Execute this workflow whenever someone pushes to &lt;code>master&lt;/code>:
-&lt;pre>&lt;code class="language-yaml">on:
-push:
-branches:
-- master
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">on&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">push&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">branches&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">master&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Run a &lt;code>deploy&lt;/code> job with a number of steps to execute (will be described
 below). Execute the job on a virtual machine running Ubuntu 20.04.
-&lt;pre>&lt;code class="language-yaml">jobs:
-deploy:
-runs-on: ubuntu-20.04
-steps:
-[...]
-&lt;/code>&lt;/pre>
-A list of available virtual machines can be found in the
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">jobs&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">deploy&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">runs-on&lt;/span>: &lt;span style="color:#ae81ff">ubuntu-20.04&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">steps&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> [&lt;span style="color:#ae81ff">...]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>A list of available virtual machines can be found in the
 &lt;a href="https://docs.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners" target="_blank" rel="noopener">GitHub documentation&lt;/a>.
 I recommend to use a machine as close as possible to your personal system to avoid surprises.&lt;/li>
 &lt;li>Check out the source repository using one of the GitHub-provided &amp;ldquo;actions&amp;rdquo;,
 which is just a fancy term for a script specifically written to be run in
 GitHub workflows.
-&lt;pre>&lt;code class="language-yaml">- uses: actions/checkout@v2
-with:
-submodules: true # Fetch Hugo themes (true OR recursive)
-# fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>- &lt;span style="color:#f92672">uses&lt;/span>: &lt;span style="color:#ae81ff">actions/checkout@v2&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">with&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">submodules&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span> &lt;span style="color:#75715e"># Fetch Hugo themes (true OR recursive)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Download and install Hugo using the
 &lt;a href="https://github.com/peaceiris/actions-hugo" target="_blank" rel="noopener">peaceiris/actions-hugo&lt;/a>
 action. The extended version of Hugo is required for the Hugo Academic theme
 to work, and I recommend to use the same Hugo version number as you use locally.
-&lt;pre>&lt;code class="language-yaml">- name: Setup Hugo
-uses: peaceiris/actions-hugo@v2
-with:
-hugo-version: '0.73.0'
-extended: true
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>- &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Setup Hugo&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">uses&lt;/span>: &lt;span style="color:#ae81ff">peaceiris/actions-hugo@v2&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">with&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">hugo-version&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;0.73.0&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">extended&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Build the website and minify, i.e., try to reduce the website file size. By
 default, Hugo will place the resulting files in the &lt;code>public/&lt;/code> subdirectory.
-&lt;pre>&lt;code class="language-yaml">- name: Build
-run: hugo --minify
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>- &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Build&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">run&lt;/span>: &lt;span style="color:#ae81ff">hugo --minify&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Deploy the built website to your host repository using the
 &lt;a href="https://github.com/peaceiris/actions-gh-pages" target="_blank" rel="noopener">peaceiris/actions-gh-pages&lt;/a>
 action. The value of &lt;code>deploy_key&lt;/code> &lt;em>must&lt;/em> match the secret key name you
@@ -423,25 +380,23 @@ domain is configured. With &lt;code>allow_empty_commit&lt;/code>, any push to th
 repository will trigger a new commit to the host repository, even if there
 were no user-visible changes. The &lt;code>external_repository&lt;/code> must be the name of
 your host repository on GitHub, i.e., its web URL without the &lt;code>https://github.com/&lt;/code> part.
-&lt;pre>&lt;code class="language-yaml">- name: Deploy
-uses: peaceiris/actions-gh-pages@v3
-with:
-deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-publish_dir: ./public
-publish_branch: master # deploying branch
-cname: academic-pages-demo.lakemper.eu
-allow_empty_commit: true
-external_repository: sloede/academic-pages-demo
-&lt;/code>&lt;/pre>
-&lt;/li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>- &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Deploy&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">uses&lt;/span>: &lt;span style="color:#ae81ff">peaceiris/actions-gh-pages@v3&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">with&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">deploy_key&lt;/span>: &lt;span style="color:#ae81ff">${{ secrets.ACTIONS_DEPLOY_KEY }}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">publish_dir&lt;/span>: &lt;span style="color:#ae81ff">./public&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">publish_branch&lt;/span>: &lt;span style="color:#ae81ff">master &lt;/span> &lt;span style="color:#75715e"># deploying branch&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">cname&lt;/span>: &lt;span style="color:#ae81ff">academic-pages-demo.lakemper.eu&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">allow_empty_commit&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">external_repository&lt;/span>: &lt;span style="color:#ae81ff">sloede/academic-pages-demo&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ul>
 &lt;p>Once the workflow file is in place, add, commit &amp;amp; push it to the source
 repository:&lt;/p>
-&lt;pre>&lt;code class="language-bash">git add .github/workflows/GitHubPages.yml
-git ci -m 'Add workflow to automatically deploy website'
-git push
-&lt;/code>&lt;/pre>
-&lt;p>The corresponding commit to the
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git add .github/workflows/GitHubPages.yml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git ci -m &lt;span style="color:#e6db74">&amp;#39;Add workflow to automatically deploy website&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git push
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The corresponding commit to the
 &lt;a href="https://github.com/sloede/academic-kickstart-demo" target="_blank" rel="noopener">&lt;code>academic-kickstart-demo&lt;/code>&lt;/a>
 repository can be found
 &lt;a href="https://github.com/sloede/academic-kickstart-demo/commit/fe68148" target="_blank" rel="noopener">here&lt;/a>.
@@ -450,7 +405,8 @@ website on GitHub - next to the latest commit info should be a small green
 checkmark:
 &lt;figure id="figure-this-workflow-succeeded-without-errors">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="This workflow succeeded without errors." srcset="
+&lt;div class="w-100" >
+&lt;img alt="This workflow succeeded without errors." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_84a16f9f42666fbdb6560f186c933354.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_88c2bc3791b6eeceb68571e79f41d9e9.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/source_repo_auto_deploy_success_hucf0db0832d39694c693519afb0e30a6b_87250_1200x1200_fit_lanczos_3.png 1200w"
@@ -471,7 +427,8 @@ which will reference the commit to the source repository from which the current
 website was built:
 &lt;figure id="figure-automatically-created-commit-on-the-host-repository">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Automatically created commit on the host repository." srcset="
+&lt;div class="w-100" >
+&lt;img alt="Automatically created commit on the host repository." srcset="
 /blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_9c5165ff28cf4962387728e8a7e2889f.png 400w,
 /blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_615f593a412bcb03a5f20029180e08cb.png 760w,
 /blog/getting-started-with-hugo-academic-and-github-pages/host_repo_auto_deploy_commit_hu2af1848bcfb94666b71440a9c2ce0352_85605_1200x1200_fit_lanczos_3.png 1200w"
@@ -658,7 +615,7 @@ June, 2024, Niagara Falls, Canada
 &lt;h1 id="join-us">Join Us&lt;/h1>
 &lt;p>We are recruiting new graduate students for Fall, 2024&lt;/p>
 &lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
-&lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;font color="blue">Computer Science&lt;/font>) and PhD (&lt;font color="blue">Intelligent Systems and Data Science&lt;/font>) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title/><link>https://aemami.ca/news/newslist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/news/newslist/</guid><description>&lt;ul>
+&lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;!-- raw HTML omitted -->Computer Science&lt;!-- raw HTML omitted -->) and PhD (&lt;!-- raw HTML omitted -->Intelligent Systems and Data Science&lt;!-- raw HTML omitted -->) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title/><link>https://aemami.ca/news/newslist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/news/newslist/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>[06/2024] Honored to receive the &lt;a href="https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/" target="_blank" rel="noopener">2024 Faculty of Mathematics and Science Excellence in Teaching Award&lt;/a>.&lt;/p>
 &lt;/li>
@@ -1031,7 +988,7 @@ June, 2024, Niagara Falls, Canada
 &lt;h1 id="join-us">Join Us&lt;/h1>
 &lt;p>We are recruiting new graduate students for Fall, 2024&lt;/p>
 &lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
-&lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;font color="blue">Computer Science&lt;/font>) and PhD (&lt;font color="blue">Intelligent Systems and Data Science&lt;/font>) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title>Services</title><link>https://aemami.ca/service/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/service/services/</guid><description>
+&lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;!-- raw HTML omitted -->Computer Science&lt;!-- raw HTML omitted -->) and PhD (&lt;!-- raw HTML omitted -->Intelligent Systems and Data Science&lt;!-- raw HTML omitted -->) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title>Services</title><link>https://aemami.ca/service/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/service/services/</guid><description>
 &lt;hr>
 &lt;h3 id="conference-area-chair">Conference Area Chair&lt;/h3>
 &lt;ul>
