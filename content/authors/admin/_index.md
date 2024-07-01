@@ -16,6 +16,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ali-emami-226b30280/
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/_aliemami
+    label: Follow me on X
 organizations:
   - name: Brock University, Canada
     url: https://brocku.ca/
