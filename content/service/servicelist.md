@@ -18,7 +18,7 @@ show_date: false
 ### Internal Service
 - **2024**: 
     - **Hardware/Software Planning Committee Chair**, Department of Computer Science, Brock University (July 2024 -- Present)
-    - **Undergraduate Thesis Program Chair**, Department of Computer Science, Brock University (July 2024 -- Present)
+    - **Undergraduate Thesis Program Coordinator**, Department of Computer Science, Brock University (July 2024 -- Present)
     - **Joint AI BSc + BA Artificial Intelligence Program Vice Chair**, Department of Computer Science, Brock University  (July 2023 -- Present)
     - **AI Advisory Committee Member**, Brock University (June 2023 -- Present)
     - **Inclusion, Diversity, Equitability, and Accessibility (IDEA) Lead Member**, Faculty of Math and Sciences, Brock University (June 2023 -- Present)
