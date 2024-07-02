@@ -1,77 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services | Ali Emami</title><link>https://aemami.ca/service/</link><atom:link href="https://aemami.ca/service/index.xml" rel="self" type="application/rss+xml"/><description>Services</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Services</title><link>https://aemami.ca/service/</link></image><item><title/><link>https://aemami.ca/service/servicelist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/service/servicelist/</guid><description>&lt;h3 id="conference-area-chair">Conference Area Chair&lt;/h3>
 &lt;ul>
-&lt;li>ACL Rolling Review June 2024, Area Chair (8 papers)&lt;/li>
+&lt;li>&lt;strong>2024&lt;/strong>: ACL Rolling Review June 2024, Area Chair (8 papers)&lt;/li>
 &lt;/ul>
 &lt;h3 id="conference-reviewer">Conference Reviewer&lt;/h3>
 &lt;ul>
-&lt;li>The 1st Conference on Language modeling (COLM 2024), 3 papers&lt;/li>
-&lt;li>ACL Rolling Review October 2023, December 2023, February 2024 &amp;amp; April 2024, 16 papers&lt;/li>
-&lt;li>ACL 2021, 3 papers&lt;/li>
-&lt;li>ACL SRW 2019, 3 papers&lt;/li>
+&lt;li>&lt;strong>2024&lt;/strong>: April 2024 ARR, The 1st Conference on Language modeling (COLM 2024), 6 papers&lt;/li>
+&lt;li>&lt;strong>2023&lt;/strong>: EACL 2023 (ARR), NAACL 2023 (ARR), ACL 2024 (ARR), , 13 papers&lt;/li>
+&lt;li>&lt;strong>2021&lt;/strong>: ACL 2021, 3 papers&lt;/li>
+&lt;li>&lt;strong>2019&lt;/strong>: ACL SRW 2019, 3 papers&lt;/li>
 &lt;/ul>
 &lt;h3 id="conference-organization">Conference Organization&lt;/h3>
 &lt;ul>
-&lt;li>EMNLP-IJCNLP 2019 Workshop on Commonsense Inference in Natural Language Processing, Program Committee (PC) member&lt;/li>
+&lt;li>&lt;strong>2019&lt;/strong>: EMNLP-IJCNLP 2019 Workshop on Commonsense Inference in Natural Language Processing, Program Committee (PC) member&lt;/li>
 &lt;/ul>
 &lt;h3 id="internal-service">Internal Service&lt;/h3>
 &lt;ul>
-&lt;li>Hardware/Software Planning Committee Chair, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/li>
-&lt;li>Undergraduate Thesis Program Chair, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/li>
-&lt;li>Joint AI BSc + BA Artificial Intelligence Program Vice Chair, Department of Computer Science, Brock University (July 2023 &amp;ndash; Present)&lt;/li>
-&lt;li>AI Advisory Committee Member, Brock University (June 2023 &amp;ndash; Present)&lt;/li>
-&lt;li>Inclusion, Diversity, Equitability, and Accessibility (IDEA) Lead Member, Faculty of Math and Sciences, Brock University (June 2023 &amp;ndash; Present)&lt;/li>
-&lt;li>Curriculum Committee Member, Department of Computer Science, Brock University (July 2023 &amp;ndash; July 2024)&lt;/li>
-&lt;li>AI-Day Organizer, Department of Computer Science, Brock University (July 2023)&lt;/li>
-&lt;li>Hardware/Software Planning Committee Member, Department of Computer Science, Brock University (July 2022 &amp;ndash; June 2024)&lt;/li>
+&lt;li>&lt;strong>2024&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Hardware/Software Planning Committee Chair&lt;/strong>, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/li>
+&lt;li>&lt;strong>Undergraduate Thesis Program Chair&lt;/strong>, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/li>
+&lt;li>&lt;strong>Joint AI BSc + BA Artificial Intelligence Program Vice Chair&lt;/strong>, Department of Computer Science, Brock University (July 2023 &amp;ndash; Present)&lt;/li>
+&lt;li>&lt;strong>AI Advisory Committee Member&lt;/strong>, Brock University (June 2023 &amp;ndash; Present)&lt;/li>
+&lt;li>&lt;strong>Inclusion, Diversity, Equitability, and Accessibility (IDEA) Lead Member&lt;/strong>, Faculty of Math and Sciences, Brock University (June 2023 &amp;ndash; Present)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>2023&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>AI-Day Organizer&lt;/strong>, Department of Computer Science, Brock University (July 2023)&lt;/li>
+&lt;li>&lt;strong>Curriculum Committee Member&lt;/strong>, Department of Computer Science, Brock University (July 2023 &amp;ndash; July 2024)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>2022&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Hardware/Software Planning Committee Member&lt;/strong>, Department of Computer Science, Brock University (July 2022 &amp;ndash; June 2024)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="professional-development-and-outreach">Professional Development and Outreach&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>2024&lt;/strong>:
+Developer and Facilitator at Brock University Professional and Continuing Studies (April 2024-Present) &lt;a href="https://brocku.ca/brock-news/2024/03/brock-pcs-launches-ai-programming-for-business-professionals/" target="_blank" rel="noopener">[Details]&lt;/a>
+&lt;ul>
+&lt;li>Workshops:
+&lt;ul>
+&lt;li>&lt;strong>C-Suite: What you need to know about AI for your business&lt;/strong> – A half-day workshop designed for business leaders to understand AI&amp;rsquo;s impact and potential in the corporate world.&lt;/li>
+&lt;li>&lt;strong>Exploring large language models: Beyond ChatGPT&lt;/strong> – Focuses on practical applications of LLMs in various industries.&lt;/li>
+&lt;li>&lt;strong>AI Essentials&lt;/strong> – A six-week micro-credential course aimed at professionals new to the AI field.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul></description></item><item><title>Services</title><link>https://aemami.ca/service/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/service/services/</guid><description>
 &lt;hr>
 &lt;h3 id="conference-area-chair">Conference Area Chair&lt;/h3>
 &lt;ul>
-&lt;li>ACL Rolling Review June 2024, Area Chair (8 papers)&lt;/li>
+&lt;li>&lt;strong>2024&lt;/strong>: ACL Rolling Review June 2024, Area Chair (8 papers)&lt;/li>
 &lt;/ul>
 &lt;h3 id="conference-reviewer">Conference Reviewer&lt;/h3>
 &lt;ul>
 &lt;li>
-&lt;p>The 1st Conference on Language modeling (COLM 2024), 3 papers&lt;/p>
+&lt;p>&lt;strong>2024&lt;/strong>: April 2024 ARR, The 1st Conference on Language modeling (COLM 2024), 6 papers&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>ACL Rolling Review October 2023, December 2023, February 2024 &amp;amp; April 2024, 16 papers&lt;/p>
+&lt;p>&lt;strong>2023&lt;/strong>: EACL 2023 (ARR), NAACL 2023 (ARR), ACL 2024 (ARR), , 13 papers&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>ACL 2021, 3 papers&lt;/p>
+&lt;p>&lt;strong>2021&lt;/strong>: ACL 2021, 3 papers&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>ACL SRW 2019, 3 papers&lt;/p>
+&lt;p>&lt;strong>2019&lt;/strong>: ACL SRW 2019, 3 papers&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="conference-organization">Conference Organization&lt;/h3>
 &lt;ul>
-&lt;li>EMNLP-IJCNLP 2019 Workshop on Commonsense Inference in Natural Language Processing, Program Committee (PC) member&lt;/li>
+&lt;li>&lt;strong>2019&lt;/strong>: EMNLP-IJCNLP 2019 Workshop on Commonsense Inference in Natural Language Processing, Program Committee (PC) member&lt;/li>
 &lt;/ul>
 &lt;h3 id="internal-service">Internal Service&lt;/h3>
 &lt;ul>
 &lt;li>
-&lt;p>Hardware/Software Planning Committee Chair, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/p>
+&lt;p>&lt;strong>2024&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Hardware/Software Planning Committee Chair&lt;/strong>, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Undergraduate Thesis Program Chair, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/p>
+&lt;p>&lt;strong>Undergraduate Thesis Program Chair&lt;/strong>, Department of Computer Science, Brock University (July 2024 &amp;ndash; Present)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Joint AI BSc + BA Artificial Intelligence Program Vice Chair, Department of Computer Science, Brock University (July 2023 &amp;ndash; Present)&lt;/p>
+&lt;p>&lt;strong>Joint AI BSc + BA Artificial Intelligence Program Vice Chair&lt;/strong>, Department of Computer Science, Brock University (July 2023 &amp;ndash; Present)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>AI Advisory Committee Member, Brock University (June 2023 &amp;ndash; Present)&lt;/p>
+&lt;p>&lt;strong>AI Advisory Committee Member&lt;/strong>, Brock University (June 2023 &amp;ndash; Present)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Inclusion, Diversity, Equitability, and Accessibility (IDEA) Lead Member, Faculty of Math and Sciences, Brock University (June 2023 &amp;ndash; Present)&lt;/p>
+&lt;p>&lt;strong>Inclusion, Diversity, Equitability, and Accessibility (IDEA) Lead Member&lt;/strong>, Faculty of Math and Sciences, Brock University (June 2023 &amp;ndash; Present)&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>Curriculum Committee Member, Department of Computer Science, Brock University (July 2023 &amp;ndash; July 2024)&lt;/p>
+&lt;p>&lt;strong>2023&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>AI-Day Organizer&lt;/strong>, Department of Computer Science, Brock University (July 2023)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>AI-Day Organizer, Department of Computer Science, Brock University (July 2023)&lt;/p>
+&lt;p>&lt;strong>Curriculum Committee Member&lt;/strong>, Department of Computer Science, Brock University (July 2023 &amp;ndash; July 2024)&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>Hardware/Software Planning Committee Member, Department of Computer Science, Brock University (July 2022 &amp;ndash; June 2024)&lt;/p>
+&lt;p>&lt;strong>2022&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Hardware/Software Planning Committee Member&lt;/strong>, Department of Computer Science, Brock University (July 2022 &amp;ndash; June 2024)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="professional-development-and-outreach">Professional Development and Outreach&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>2024&lt;/strong>:&lt;/p>
+&lt;p>Developer and Facilitator at Brock University Professional and Continuing Studies (April 2024-Present) &lt;a href="https://brocku.ca/brock-news/2024/03/brock-pcs-launches-ai-programming-for-business-professionals/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Workshops:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>C-Suite: What you need to know about AI for your business&lt;/strong> – A half-day workshop designed for business leaders to understand AI&amp;rsquo;s impact and potential in the corporate world.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Exploring large language models: Beyond ChatGPT&lt;/strong> – Focuses on practical applications of LLMs in various industries.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>AI Essentials&lt;/strong> – A six-week micro-credential course aimed at professionals new to the AI field.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teachings | Ali Emami</title><link>https://aemami.ca/teaching/</link><atom:link href="https://aemami.ca/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teachings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Teachings</title><link>https://aemami.ca/teaching/</link></image><item><title/><link>https://aemami.ca/teaching/teachinglist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/teaching/teachinglist/</guid><description>&lt;ul>
 &lt;li>
-&lt;p>[Winter 2023 &amp;amp; 2024] COSC 5P84/4P84 - &lt;strong>Introduction to Natural Language Processing&lt;/strong>&lt;/p>
+&lt;p>[Winter 2024] &lt;strong>Introduction to Natural Language Processing (COSC 4P84)&lt;/strong> - An advanced course covering algorithms and recent advances in NLP. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Winter 2023 &amp;amp; 2024] COSC 1P03 - &lt;strong>Data Structures and Abstraction&lt;/strong>&lt;/p>
+&lt;p>[Winter 2025] &lt;strong>Essentials of Artificial Intelligence (COSC 1P73)&lt;/strong> - Overview of AI principles, ML models, and their real-world applications. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Fall 2021 &amp;amp; 2022] COSC 2P89 - &lt;strong>Internet Technologies&lt;/strong>&lt;/p>
+&lt;p>[Winter 2023, Winter 2025] &lt;strong>Natural Language Processing (COSC 5P84)&lt;/strong> - Focuses on deep learning models for NLP and their application. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Winter 2022] COSC 2P05 - &lt;strong>Programming Languages&lt;/strong>&lt;/p>
+&lt;p>[Fall 2023, Fall 2024; Winter 2023, Winter 2024; Winter 2022] &lt;strong>Data Structures and Abstraction (COSC 1P03)&lt;/strong> - Programming and problem-solving using high-level languages, data structures such as arrays, and linked lists, and abstraction.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[Fall 2021, Fall 2022, Fall 2023] &lt;strong>Internet Technologies (COSC 2P89)&lt;/strong> - The essential technologies and protocols for web and internet development.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[Winter 2022] &lt;strong>Programming Languages (COSC 2P05)&lt;/strong> - Examination of various programming paradigms and their implications.&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Teachings</title><link>https://aemami.ca/teaching/teachings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/teaching/teachings/</guid><description>
 &lt;hr>
 &lt;ul>
 &lt;li>
-&lt;p>[Winter 2023 &amp;amp; 2024] COSC 5P84/4P84 - &lt;strong>Introduction to Natural Language Processing&lt;/strong>&lt;/p>
+&lt;p>[Winter 2024] &lt;strong>Introduction to Natural Language Processing (COSC 4P84)&lt;/strong> - An advanced course covering algorithms and recent advances in NLP. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Winter 2023 &amp;amp; 2024] COSC 1P03 - &lt;strong>Data Structures and Abstraction&lt;/strong>&lt;/p>
+&lt;p>[Winter 2025] &lt;strong>Essentials of Artificial Intelligence (COSC 1P73)&lt;/strong> - Overview of AI principles, ML models, and their real-world applications. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Fall 2021 &amp;amp; 2022] COSC 2P89 - &lt;strong>Internet Technologies&lt;/strong>&lt;/p>
+&lt;p>[Winter 2023, Winter 2025] &lt;strong>Natural Language Processing (COSC 5P84)&lt;/strong> - Focuses on deep learning models for NLP and their application. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[Winter 2022] COSC 2P05 - &lt;strong>Programming Languages&lt;/strong>&lt;/p>
+&lt;p>[Fall 2023, Fall 2024; Winter 2023, Winter 2024; Winter 2022] &lt;strong>Data Structures and Abstraction (COSC 1P03)&lt;/strong> - Programming and problem-solving using high-level languages, data structures such as arrays, and linked lists, and abstraction.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[Fall 2021, Fall 2022, Fall 2023] &lt;strong>Internet Technologies (COSC 2P89)&lt;/strong> - The essential technologies and protocols for web and internet development.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[Winter 2022] &lt;strong>Programming Languages (COSC 2P05)&lt;/strong> - Examination of various programming paradigms and their implications.&lt;/p>
 &lt;/li>
 &lt;/ul></description></item></channel></rss>
