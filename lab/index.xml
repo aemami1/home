@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labs | Ali Emami</title><link>https://aemami.ca/lab/</link><atom:link href="https://aemami.ca/lab/index.xml" rel="self" type="application/rss+xml"/><description>Labs</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Labs</title><link>https://aemami.ca/lab/</link></image><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
-&lt;figure id="figure-june-2024-niagara-falls-canada">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-June, 2024, Niagara Falls, Canada
-&lt;/figcaption>&lt;/figure>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -30,6 +24,12 @@ June, 2024, Niagara Falls, Canada
 &lt;li>Angel Loredo (Summer 2024)&lt;/li>
 &lt;li>Harsh Lalai (Summer 2024)&lt;/li>
 &lt;/ul>
+&lt;figure id="figure-june-2024-niagara-falls-canada">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+June, 2024, Niagara Falls, Canada
+&lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
 &lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
@@ -114,12 +114,6 @@ Flow diagram illustrating the process of extracting and comparing the Internal C
 &lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;!-- raw HTML omitted -->Computer Science&lt;!-- raw HTML omitted -->) and PhD (&lt;!-- raw HTML omitted -->Intelligent Systems and Data Science&lt;!-- raw HTML omitted -->) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title>Services</title><link>https://aemami.ca/lab/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lab/</guid><description>
 &lt;hr>
 &lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
-&lt;figure id="figure-june-2024-niagara-falls-canada">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-June, 2024, Niagara Falls, Canada
-&lt;/figcaption>&lt;/figure>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -171,6 +165,12 @@ June, 2024, Niagara Falls, Canada
 &lt;p>Harsh Lalai (Summer 2024)&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;figure id="figure-june-2024-niagara-falls-canada">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+June, 2024, Niagara Falls, Canada
+&lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
 &lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>

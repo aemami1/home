@@ -541,12 +541,6 @@ or
 &lt;li>NSERC Canada Graduate Scholarships-Master&amp;rsquo;s Program, $17,500 (each year)&lt;/li>
 &lt;li>Fonds de Recherche Santé Quebec (FRSQ) Master&amp;rsquo;s Scholarship, $15,000 (each year)&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
-&lt;figure id="figure-june-2024-niagara-falls-canada">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-June, 2024, Niagara Falls, Canada
-&lt;/figcaption>&lt;/figure>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -572,6 +566,12 @@ June, 2024, Niagara Falls, Canada
 &lt;li>Angel Loredo (Summer 2024)&lt;/li>
 &lt;li>Harsh Lalai (Summer 2024)&lt;/li>
 &lt;/ul>
+&lt;figure id="figure-june-2024-niagara-falls-canada">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+June, 2024, Niagara Falls, Canada
+&lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
 &lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
@@ -770,95 +770,31 @@ Developer and Facilitator at Brock University Professional and Continuing Studie
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title/><link>https://aemami.ca/talk/talklist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/talk/talklist/</guid><description>&lt;h2 id="invited-talks">Invited talks&lt;/h2>
+&lt;p>&lt;strong>2024&lt;/strong>:&lt;/p>
 &lt;ul>
-&lt;li>
-&lt;p>[11/2024] &lt;strong>In Search of Digital Truth&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Feature Presentation&lt;/em>, First Ontario Performing Arts Centre &lt;a href="https://issuu.com/firstontpac/docs/2425-brochure-firstontario-pac" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>In Search of Digital Truth&lt;/strong>. Feature Presentation, First Ontario Performing Arts Centre, November. &lt;a href="https://issuu.com/firstontpac/docs/2425-brochure-firstontario-pac" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Large Language Models: Society&amp;rsquo;s Silent Mirrors&lt;/strong>. Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series, March. &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[03/2024] &lt;strong>Large Language Models: Society&amp;rsquo;s Silent Mirrors&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>2023&lt;/strong>:&lt;/p>
 &lt;ul>
-&lt;li>&lt;em>Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series&lt;/em> &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Language Models at Scale: Big Models, Bigger Questions&lt;/strong>. Expert Panelist, Brock University&amp;rsquo;s Annual AI Day Event, November. &lt;a href="https://research.cosc.brocku.ca/AIDay/panel" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Research Talk&lt;/strong>. AI integration seminar, SKEMA AI School for Business, August.&lt;/li>
+&lt;li>&lt;strong>Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&lt;/strong>. Research Talk, MIT Media Lab, April.&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[11/2023] &lt;strong>Language Models at Scale: Big Models, Bigger Questions&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>2022&lt;/strong>:&lt;/p>
 &lt;ul>
-&lt;li>&lt;em>Expert Panelist, Brock University&amp;rsquo;s Annual AI Day Event&lt;/em> &lt;a href="https://research.cosc.brocku.ca/AIDay/panel" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Role of Basic Sciences for Sustainable Development&lt;/strong>. Keynote Talk, COMSTECH - OIC Standing Committee on Scientific and Technological Cooperation, October. &lt;a href="https://brocku.ca/brock-news/2022/11/math-and-science-delegation-expands-global-reach-in-pakistan/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Research Talk&lt;/strong>. AI integration seminar, SKEMA AI School for Business, July.&lt;/li>
+&lt;li>&lt;strong>Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&lt;/strong> Masterclass, SKEMA AI School for Business, May. &lt;a href="https://alumni.skema.edu/en/agenda/networking-breakfast-2703" target="_blank" rel="noopener">[Details]&lt;/a> &lt;a href="https://www.youtube.com/watch?v=vf1m-R3twOc&amp;amp;ab_channel=SKEMABusinessSchoolTV" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[08/2023] &lt;strong>Research Talk&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>2021&lt;/strong>: &lt;strong>Towards Interpretable, Ethical, and Generalizable NLP Models&lt;/strong>. Graduate Seminar COMP-5111, Lakehead University, October. &lt;a href="https://x.com/cs_lakehead/status/1451676347760271369?lang=en" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>2020&lt;/strong>: &lt;strong>Oral presentation&lt;/strong>. 28th International Conference on Computational Linguistics (COLING), December.&lt;/p>
+&lt;p>&lt;strong>2019&lt;/strong>:&lt;/p>
 &lt;ul>
-&lt;li>&lt;em>AI integration seminar, SKEMA AI School for Business&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Oral presentation&lt;/strong>. 57th Annual Meeting of the Association for Computational Linguistics (ACL), July.&lt;/li>
+&lt;li>&lt;strong>Keynote speaker&lt;/strong>. Annual Microsoft Research and Mila Collaborative Research Workshop, October.&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[04/2023] &lt;strong>Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Research Talk, MIT Media Lab&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2022] &lt;strong>Role of Basic Sciences for Sustainable Development&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Keynote Talk, COMSTECH - OIC Standing Committee on Scientific and Technological Cooperation&lt;/em> &lt;a href="https://brocku.ca/brock-news/2022/11/math-and-science-delegation-expands-global-reach-in-pakistan/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2022] &lt;strong>Research Talk&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>AI integration seminar, SKEMA AI School for Business&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[05/2022] &lt;strong>Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Masterclass, SKEMA AI School for Business&lt;/em> &lt;a href="https://alumni.skema.edu/en/agenda/networking-breakfast-2703" target="_blank" rel="noopener">[Details]&lt;/a> &lt;a href="https://www.youtube.com/watch?v=vf1m-R3twOc&amp;amp;ab_channel=SKEMABusinessSchoolTV" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2021] &lt;strong>Towards Interpretable, Ethical, and Generalizable NLP Models&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Graduate Seminar COMP-5111, Lakehead University&lt;/em> &lt;a href="https://x.com/cs_lakehead/status/1451676347760271369?lang=en" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[12/2020] &lt;strong>Oral presentation&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>28th International Conference on Computational Linguistics (COLING)&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2019] &lt;strong>Oral presentation&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>57th Annual Meeting of the Association for Computational Linguistics (ACL)&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2019] &lt;strong>Keynote speaker&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Annual Microsoft Research and Mila Collaborative Research Workshop&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[06/2018] &lt;strong>Oral presentation&lt;/strong> (awarded &lt;a href="https://x.com/naacl_srw_2018/status/1003050917787136005" target="_blank" rel="noopener">best paper&lt;/a>)&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop&lt;/em> &lt;a href="https://aclanthology.org/N18-4004.mp4" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="guest-lectures">Guest Lectures&lt;/h2>
-&lt;ul>
-&lt;li>[2017 &amp;ndash; 2020] &lt;strong>Artificial Intelligence &amp;amp; Machine Learning courses, McGill University&lt;/strong>
-&lt;ul>
-&lt;li>January 2020 &amp;amp; April 2019: Search Algorithms, Introduction to Artificial Intelligence&lt;/li>
-&lt;li>October 2017: A brief survey of methods for feature construction and selection, Applied Machine Learning&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://aemami.ca/teaching/teachinglist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/teaching/teachinglist/</guid><description>&lt;ul>
+&lt;p>&lt;strong>2018&lt;/strong>: &lt;strong>Oral presentation&lt;/strong> (awarded &lt;a href="https://x.com/naacl_srw_2018/status/1003050917787136005" target="_blank" rel="noopener">best paper&lt;/a>). 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop, June. &lt;a href="https://aclanthology.org/N18-4004.mp4" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/p></description></item><item><title/><link>https://aemami.ca/teaching/teachinglist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/teaching/teachinglist/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>[Winter 2024] &lt;strong>Introduction to Natural Language Processing (COSC 4P84)&lt;/strong> - An advanced course covering algorithms and recent advances in NLP. &lt;strong>New course introduced by me.&lt;/strong>&lt;/p>
 &lt;/li>
@@ -911,12 +847,6 @@ Developer and Facilitator at Brock University Professional and Continuing Studie
 &lt;/ul></description></item><item><title>Services</title><link>https://aemami.ca/lab/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lab/</guid><description>
 &lt;hr>
 &lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
-&lt;figure id="figure-june-2024-niagara-falls-canada">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-June, 2024, Niagara Falls, Canada
-&lt;/figcaption>&lt;/figure>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -968,6 +898,12 @@ June, 2024, Niagara Falls, Canada
 &lt;p>Harsh Lalai (Summer 2024)&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;figure id="figure-june-2024-niagara-falls-canada">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./uploads/group.jpg" alt="June, 2024, Niagara Falls, Canada" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+June, 2024, Niagara Falls, Canada
+&lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
 &lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
@@ -1167,100 +1103,51 @@ Flow diagram illustrating the process of extracting and comparing the Internal C
 &lt;/ul></description></item><item><title>Talks</title><link>https://aemami.ca/talk/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/talk/talks/</guid><description>
 &lt;hr>
 &lt;h2 id="invited-talks">Invited talks&lt;/h2>
+&lt;p>&lt;strong>2024&lt;/strong>:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>[11/2024] &lt;strong>In Search of Digital Truth&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Feature Presentation&lt;/em>, First Ontario Performing Arts Centre &lt;a href="https://issuu.com/firstontpac/docs/2425-brochure-firstontario-pac" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;p>&lt;strong>In Search of Digital Truth&lt;/strong>. Feature Presentation, First Ontario Performing Arts Centre, November. &lt;a href="https://issuu.com/firstontpac/docs/2425-brochure-firstontario-pac" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[03/2024] &lt;strong>Large Language Models: Society&amp;rsquo;s Silent Mirrors&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series&lt;/em> &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[11/2023] &lt;strong>Language Models at Scale: Big Models, Bigger Questions&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Expert Panelist, Brock University&amp;rsquo;s Annual AI Day Event&lt;/em> &lt;a href="https://research.cosc.brocku.ca/AIDay/panel" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[08/2023] &lt;strong>Research Talk&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>AI integration seminar, SKEMA AI School for Business&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[04/2023] &lt;strong>Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Research Talk, MIT Media Lab&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2022] &lt;strong>Role of Basic Sciences for Sustainable Development&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Keynote Talk, COMSTECH - OIC Standing Committee on Scientific and Technological Cooperation&lt;/em> &lt;a href="https://brocku.ca/brock-news/2022/11/math-and-science-delegation-expands-global-reach-in-pakistan/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2022] &lt;strong>Research Talk&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>AI integration seminar, SKEMA AI School for Business&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[05/2022] &lt;strong>Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Masterclass, SKEMA AI School for Business&lt;/em> &lt;a href="https://alumni.skema.edu/en/agenda/networking-breakfast-2703" target="_blank" rel="noopener">[Details]&lt;/a> &lt;a href="https://www.youtube.com/watch?v=vf1m-R3twOc&amp;amp;ab_channel=SKEMABusinessSchoolTV" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2021] &lt;strong>Towards Interpretable, Ethical, and Generalizable NLP Models&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Graduate Seminar COMP-5111, Lakehead University&lt;/em> &lt;a href="https://x.com/cs_lakehead/status/1451676347760271369?lang=en" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[12/2020] &lt;strong>Oral presentation&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>28th International Conference on Computational Linguistics (COLING)&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2019] &lt;strong>Oral presentation&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>57th Annual Meeting of the Association for Computational Linguistics (ACL)&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2019] &lt;strong>Keynote speaker&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>Annual Microsoft Research and Mila Collaborative Research Workshop&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>[06/2018] &lt;strong>Oral presentation&lt;/strong> (awarded &lt;a href="https://x.com/naacl_srw_2018/status/1003050917787136005" target="_blank" rel="noopener">best paper&lt;/a>)&lt;/p>
-&lt;ul>
-&lt;li>&lt;em>2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop&lt;/em> &lt;a href="https://aclanthology.org/N18-4004.mp4" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;p>&lt;strong>Large Language Models: Society&amp;rsquo;s Silent Mirrors&lt;/strong>. Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series, March. &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="guest-lectures">Guest Lectures&lt;/h2>
+&lt;p>&lt;strong>2023&lt;/strong>:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>[2017 &amp;ndash; 2020] &lt;strong>Artificial Intelligence &amp;amp; Machine Learning courses, McGill University&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>January 2020 &amp;amp; April 2019: Search Algorithms, Introduction to Artificial Intelligence&lt;/p>
+&lt;p>&lt;strong>Language Models at Scale: Big Models, Bigger Questions&lt;/strong>. Expert Panelist, Brock University&amp;rsquo;s Annual AI Day Event, November. &lt;a href="https://research.cosc.brocku.ca/AIDay/panel" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>October 2017: A brief survey of methods for feature construction and selection, Applied Machine Learning&lt;/p>
+&lt;p>&lt;strong>Research Talk&lt;/strong>. AI integration seminar, SKEMA AI School for Business, August.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&lt;/strong>. Research Talk, MIT Media Lab, April.&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;p>&lt;strong>2022&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Role of Basic Sciences for Sustainable Development&lt;/strong>. Keynote Talk, COMSTECH - OIC Standing Committee on Scientific and Technological Cooperation, October. &lt;a href="https://brocku.ca/brock-news/2022/11/math-and-science-delegation-expands-global-reach-in-pakistan/" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Teachings</title><link>https://aemami.ca/teaching/teachings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/teaching/teachings/</guid><description>
+&lt;li>
+&lt;p>&lt;strong>Research Talk&lt;/strong>. AI integration seminar, SKEMA AI School for Business, July.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&lt;/strong> Masterclass, SKEMA AI School for Business, May. &lt;a href="https://alumni.skema.edu/en/agenda/networking-breakfast-2703" target="_blank" rel="noopener">[Details]&lt;/a> &lt;a href="https://www.youtube.com/watch?v=vf1m-R3twOc&amp;amp;ab_channel=SKEMABusinessSchoolTV" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2021&lt;/strong>: &lt;strong>Towards Interpretable, Ethical, and Generalizable NLP Models&lt;/strong>. Graduate Seminar COMP-5111, Lakehead University, October. &lt;a href="https://x.com/cs_lakehead/status/1451676347760271369?lang=en" target="_blank" rel="noopener">[Details]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>2020&lt;/strong>: &lt;strong>Oral presentation&lt;/strong>. 28th International Conference on Computational Linguistics (COLING), December.&lt;/p>
+&lt;p>&lt;strong>2019&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Oral presentation&lt;/strong>. 57th Annual Meeting of the Association for Computational Linguistics (ACL), July.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Keynote speaker&lt;/strong>. Annual Microsoft Research and Mila Collaborative Research Workshop, October.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2018&lt;/strong>: &lt;strong>Oral presentation&lt;/strong> (awarded &lt;a href="https://x.com/naacl_srw_2018/status/1003050917787136005" target="_blank" rel="noopener">best paper&lt;/a>). 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop, June. &lt;a href="https://aclanthology.org/N18-4004.mp4" target="_blank" rel="noopener">[Video]&lt;/a>&lt;/p></description></item><item><title>Teachings</title><link>https://aemami.ca/teaching/teachings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/teaching/teachings/</guid><description>
 &lt;hr>
 &lt;ul>
 &lt;li>
