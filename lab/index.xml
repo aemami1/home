@@ -31,9 +31,21 @@ June, 2024, Niagara Falls, Canada
 &lt;li>Harsh Lalai (Summer 2024)&lt;/li>
 &lt;/ul>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
+&lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/subtle.png" alt="Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. &lt;a href="../publication/kumar-2024-subtle/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-framework-checklist-comparing-the-consistency-of-recent-debiasing-methods--read-more-about-this-studypublicationmorabito-2023-debiasing">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/debiasing.png" alt="Framework checklist comparing the consistency of recent debiasing methods. [Read more about this study](/publication/morabito-2023-debiasing/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Framework checklist comparing the consistency of recent debiasing methods. &lt;a href="../publication/morabito-2023-debiasing/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
 &lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Introduced the Representative Bias Score (RBS) and Affinity Bias Score (ABS) to measure subtle biases in LLMs.&lt;/li>
@@ -47,6 +59,24 @@ June, 2024, Niagara Falls, Canada
 &lt;/ul>
 &lt;h3 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h3>
 &lt;p>We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).&lt;/p>
+&lt;figure id="figure-a-representative-output-from-stable-diffusion-20-on-a-winovis-instance-the-diffusion-attentive-attribution-maps-daam-clarify-the-models-focus-for-different-terms-and-the-correctness-of-its-interpretation-correctly-identifying-bee-and-flower-but-erroneously-associating-it-with-the-bee-instead-of-the-flower-read-more-about-this-studypublicationpark-2024-winovis">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/winovis.jpg" alt="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. &lt;a href="../publication/park-2024-winovis/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-interface-of-evograd-at-httpswwwevogradcomhttpsevogradcom-read-more-about-this-studypublicationsun-2024-evo">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/evograd.png" alt="Interface of EvoGrad at [https://www.evograd.com/](https://evograd.com). [Read more about this study](/publication/sun-2024-evo/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Interface of EvoGrad at &lt;a href="https://evograd.com" target="_blank" rel="noopener">https://www.evograd.com/&lt;/a>. &lt;a href="../publication/sun-2024-evo/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-overview-of-the-wsc-generation-and-evaluation-processes-on-the-left-the-flowchart-depicts-the-wsc-generation-process-using-a-real-example-generated-by-gpt-4-on-the-right-a-wsc-instance-evaluation-contrasts-the-outcomes-of-standard-prompting-and-our-tree-of-experts-prompting--read-more-about-this-studypublicationzahraei-2024-wsc">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/wsc&amp;#43;.png" alt="Overview of the WSC&amp;#43; generation and evaluation processes. On the left, the flowchart depicts the WSC&amp;#43; generation process, using a real example generated by GPT-4. On the right, a WSC&amp;#43; instance evaluation contrasts the outcomes of standard prompting and our Tree-of-Experts prompting. [Read more about this study](/publication/zahraei-2024-wsc/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Overview of the WSC+ generation and evaluation processes. On the left, the flowchart depicts the WSC+ generation process, using a real example generated by GPT-4. On the right, a WSC+ instance evaluation contrasts the outcomes of standard prompting and our Tree-of-Experts prompting. &lt;a href="../publication/zahraei-2024-wsc/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
 &lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Developed WinoVis, a novel dataset for probing text-to-image models on pronoun disambiguation in multimodal contexts.&lt;/li>
@@ -61,6 +91,12 @@ June, 2024, Niagara Falls, Canada
 &lt;/ul>
 &lt;h3 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h3>
 &lt;p>We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.&lt;/p>
+&lt;figure id="figure-flow-diagram-illustrating-the-process-of-extracting-and-comparing-the-internal-confidence-and-verbalized-certainty-in-an-llm-read-more-about-this-studypublicationkumar-2024-confidence">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/confidence.png" alt="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an LLM. [Read more about this study](/publication/kumar-2024-confidence/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an LLM. &lt;a href="../publication/kumar-2024-confidence/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
 &lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Introduced the concept of Confidence-Probability Alignment in LLMs.&lt;/li>
@@ -136,9 +172,21 @@ June, 2024, Niagara Falls, Canada
 &lt;/li>
 &lt;/ul>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, controllable, and safe&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
+&lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/subtle.png" alt="Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. &lt;a href="../publication/kumar-2024-subtle/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-framework-checklist-comparing-the-consistency-of-recent-debiasing-methods--read-more-about-this-studypublicationmorabito-2023-debiasing">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/debiasing.png" alt="Framework checklist comparing the consistency of recent debiasing methods. [Read more about this study](/publication/morabito-2023-debiasing/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Framework checklist comparing the consistency of recent debiasing methods. &lt;a href="../publication/morabito-2023-debiasing/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
 &lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>
@@ -162,6 +210,24 @@ June, 2024, Niagara Falls, Canada
 &lt;/ul>
 &lt;h3 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h3>
 &lt;p>We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).&lt;/p>
+&lt;figure id="figure-a-representative-output-from-stable-diffusion-20-on-a-winovis-instance-the-diffusion-attentive-attribution-maps-daam-clarify-the-models-focus-for-different-terms-and-the-correctness-of-its-interpretation-correctly-identifying-bee-and-flower-but-erroneously-associating-it-with-the-bee-instead-of-the-flower-read-more-about-this-studypublicationpark-2024-winovis">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/winovis.jpg" alt="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. &lt;a href="../publication/park-2024-winovis/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-interface-of-evograd-at-httpswwwevogradcomhttpsevogradcom-read-more-about-this-studypublicationsun-2024-evo">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/evograd.png" alt="Interface of EvoGrad at [https://www.evograd.com/](https://evograd.com). [Read more about this study](/publication/sun-2024-evo/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Interface of EvoGrad at &lt;a href="https://evograd.com" target="_blank" rel="noopener">https://www.evograd.com/&lt;/a>. &lt;a href="../publication/sun-2024-evo/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-overview-of-the-wsc-generation-and-evaluation-processes-on-the-left-the-flowchart-depicts-the-wsc-generation-process-using-a-real-example-generated-by-gpt-4-on-the-right-a-wsc-instance-evaluation-contrasts-the-outcomes-of-standard-prompting-and-our-tree-of-experts-prompting--read-more-about-this-studypublicationzahraei-2024-wsc">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/wsc&amp;#43;.png" alt="Overview of the WSC&amp;#43; generation and evaluation processes. On the left, the flowchart depicts the WSC&amp;#43; generation process, using a real example generated by GPT-4. On the right, a WSC&amp;#43; instance evaluation contrasts the outcomes of standard prompting and our Tree-of-Experts prompting. [Read more about this study](/publication/zahraei-2024-wsc/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Overview of the WSC+ generation and evaluation processes. On the left, the flowchart depicts the WSC+ generation process, using a real example generated by GPT-4. On the right, a WSC+ instance evaluation contrasts the outcomes of standard prompting and our Tree-of-Experts prompting. &lt;a href="../publication/zahraei-2024-wsc/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
 &lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>
@@ -188,6 +254,12 @@ June, 2024, Niagara Falls, Canada
 &lt;/ul>
 &lt;h3 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h3>
 &lt;p>We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.&lt;/p>
+&lt;figure id="figure-flow-diagram-illustrating-the-process-of-extracting-and-comparing-the-internal-confidence-and-verbalized-certainty-in-an-llm-read-more-about-this-studypublicationkumar-2024-confidence">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../uploads/confidence.png" alt="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an LLM. [Read more about this study](/publication/kumar-2024-confidence/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an LLM. &lt;a href="../publication/kumar-2024-confidence/">Read more about this study&lt;/a>.
+&lt;/figcaption>&lt;/figure>
 &lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>
