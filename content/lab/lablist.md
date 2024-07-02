@@ -4,7 +4,7 @@ show_date: false
 ---
 
 ## Welcome to Brock NLP Lab! 
-{{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
+
 # Lab Members 
 
 #### Director 
@@ -28,6 +28,8 @@ Ali Emami, Assistant Professor of Computer Science
 - Ghofrane Faidi (Summer 2024)
 - Angel Loredo (Summer 2024)
 - Harsh Lalai (Summer 2024)
+
+{{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
 
 # Research 
 
@@ -77,6 +79,7 @@ We create innovative challenges and datasets to rigorously test the reasoning ca
 We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.
 
 {{< figure src="/uploads/confidence.png" caption="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an LLM. [Read more about this study](/publication/kumar-2024-confidence/).">}}
+
 
 **Key Contributions:**
 - Introduced the concept of Confidence-Probability Alignment in LLMs.
