@@ -1,7 +1,7 @@
 ---
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: "Ali Emami is an assistant professor of computer science at Brock Uniersity. His research interests include natural language processing, machine learning, and artificial intelligence. He leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. "
+bio: "Ali Emami is an assistant professor of computer science at Brock Uniersity. His research interests include natural language processing, machine learning, and artificial intelligence. He leads the Natural Language Processing group, which develops natural language understanding and generation systems that are generalizable, interpretable, and fair."
 interests:
   - Natural Language Processing
   - Machine Learning
