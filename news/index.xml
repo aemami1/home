@@ -1,131 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Ali Emami</title><link>https://aemami.ca/news/</link><atom:link href="https://aemami.ca/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://aemami.ca/news/</link></image><item><title>News</title><link>https://aemami.ca/news/news/</link><pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate><guid>https://aemami.ca/news/news/</guid><description>
 &lt;hr>
+&lt;p>&lt;strong>2024&lt;/strong>:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>[06/2024] Honored to receive the &lt;a href="https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/" target="_blank" rel="noopener">2024 Faculty of Mathematics and Science Excellence in Teaching Award&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Honored to receive the &lt;a href="https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/" target="_blank" rel="noopener">2024 Faculty of Mathematics and Science Excellence in Teaching Award&lt;/a>&lt;/strong> (June).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[05/2024] 3 out of 3 submitted papers accepted at the main conference at &lt;a href="https://2024.aclweb.org/" target="_blank" rel="noopener">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, August 11-16)&lt;/a>. Massive congratulations to all collaborators, of which many were undergraduates and first year MSc&amp;rsquo;s! Stay tuned for the paper links.&lt;/p>
+&lt;p>&lt;strong>3 out of 3 submitted papers accepted at the main conference at &lt;a href="https://2024.aclweb.org/" target="_blank" rel="noopener">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, August 11-16)&lt;/a>&lt;/strong>. Massive congratulations to all collaborators, of which many were undergraduates and first year MSc&amp;rsquo;s! Stay tuned for the paper links (May).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[05/2024] Our paper &amp;ldquo;EvoGrad: An open-source platform for Winograd Schema Challenge instances&amp;rdquo; accepted at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024, May 20-25)&lt;/a>. &lt;a href="https://arxiv.org/pdf/2402.13372" target="_blank" rel="noopener">[ArXiv]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Our paper &amp;ldquo;EvoGrad: An open-source platform for Winograd Schema Challenge instances&amp;rdquo; accepted at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024, May 20-25)&lt;/a>&lt;/strong>. &lt;a href="https://arxiv.org/pdf/2402.13372" target="_blank" rel="noopener">[ArXiv]&lt;/a> (May)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[03/2024] Our paper &amp;ldquo;WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts&amp;rdquo; accepted as an Oral Presentation at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL2024, March 17-22)&lt;/a>. &lt;a href="https://aclanthology.org/2024.eacl-long.99.pdf" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://arxiv.org/pdf/2401.17703" target="_blank" rel="noopener">[ArXiv]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Our paper &amp;ldquo;WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts&amp;rdquo; accepted as an Oral Presentation at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL2024, March 17-22)&lt;/a>&lt;/strong>. &lt;a href="https://aclanthology.org/2024.eacl-long.99.pdf" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://arxiv.org/pdf/2401.17703" target="_blank" rel="noopener">[ArXiv]&lt;/a> (March)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[03/2024] Excited to give a talk at the &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series&lt;/a> on Friday, March 8: &amp;ldquo;Large Language Models: Society&amp;rsquo;s Silent Mirrors&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Excited to give a talk at the &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series&lt;/a> on Friday, March 8: &amp;ldquo;Large Language Models: Society&amp;rsquo;s Silent Mirrors&amp;rdquo;&lt;/strong> (March).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2023&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Our paper &amp;ldquo;Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models&amp;rdquo; published at &lt;a href="https://2023.aclweb.org/" target="_blank" rel="noopener">The Findings of ACL 2023&lt;/a>&lt;/strong>. &lt;a href="https://aclanthology.org/2023.findings-acl.280/" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.pdf" target="_blank" rel="noopener">[ArXiv]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.mp4" target="_blank" rel="noopener">[Oral Presentation]&lt;/a> &lt;a href="https://brocku.ca/media-room/2023/10/18/brock-led-research-creates-protocol-to-test-ai-debiasing-methods/" target="_blank" rel="noopener">[News Article]&lt;/a> (January)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[01/2023] Our paper &amp;ldquo;Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models&amp;rdquo; published at &lt;a href="https://2023.aclweb.org/" target="_blank" rel="noopener">The Findings of ACL 2023&lt;/a>. &lt;a href="https://aclanthology.org/2023.findings-acl.280/" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.pdf" target="_blank" rel="noopener">[ArXiv]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.mp4" target="_blank" rel="noopener">[Oral Presentation]&lt;/a> &lt;a href="https://brocku.ca/media-room/2023/10/18/brock-led-research-creates-protocol-to-test-ai-debiasing-methods/" target="_blank" rel="noopener">[News Article]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Published book chapter &amp;ldquo;Natural Language Processing: Current Methods and Challenges&amp;rdquo; in Engineering Mathematics and Artificial Intelligence: Foundations, Methods, and Applications&lt;/strong>. &lt;a href="https://books.google.ca/books?hl=en&amp;amp;lr=&amp;amp;id=0wnHEAAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PP1&amp;amp;dq=Engineering&amp;#43;Mathematics&amp;#43;and&amp;#43;Artificial&amp;#43;Intelligence:&amp;#43;Foundations,&amp;#43;Methods,&amp;#43;and&amp;#43;Applications&amp;amp;ots=wI9mVvzgho&amp;amp;sig=VEQ9epaA9V1KpFUEmpO668A4MR8#v=onepage&amp;amp;q=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications&amp;amp;f=false" target="_blank" rel="noopener">[SpringerLink]&lt;/a> &lt;a href="https://www.amazon.com/Engineering-Mathematics-Artificial-Intelligence-Applications/dp/1032255676#:~:text=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications,offers%20cutting%2Dedge%20AI%20technologies" target="_blank" rel="noopener">[Amazon]&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[2023] Published book chapter &amp;ldquo;Natural Language Processing: Current Methods and Challenges&amp;rdquo; in Engineering Mathematics and Artificial Intelligence: Foundations, Methods, and Applications. &lt;a href="https://books.google.ca/books?hl=en&amp;amp;lr=&amp;amp;id=0wnHEAAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PP1&amp;amp;dq=Engineering&amp;#43;Mathematics&amp;#43;and&amp;#43;Artificial&amp;#43;Intelligence:&amp;#43;Foundations,&amp;#43;Methods,&amp;#43;and&amp;#43;Applications&amp;amp;ots=wI9mVvzgho&amp;amp;sig=VEQ9epaA9V1KpFUEmpO668A4MR8#v=onepage&amp;amp;q=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications&amp;amp;f=false" target="_blank" rel="noopener">[SpringerLink]&lt;/a> &lt;a href="https://www.amazon.com/Engineering-Mathematics-Artificial-Intelligence-Applications/dp/1032255676#:~:text=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications,offers%20cutting%2Dedge%20AI%20technologies" target="_blank" rel="noopener">[Amazon]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Awarded the &lt;a href="https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2023/competition-concours-eng.aspx" target="_blank" rel="noopener">2023 New Frontiers in Research Fund (NFRF) Exploration Grant&lt;/a> ($200,000 two-year support)&lt;/strong>. &lt;a href="https://brocku.ca/brock-news/2023/04/brock-awarded-funding-for-research-on-youth-and-social-media-and-biases-in-health-care/" target="_blank" rel="noopener">[Brock News Article]&lt;/a> (April)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[04/2023] Awarded the &lt;a href="https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2023/competition-concours-eng.aspx" target="_blank" rel="noopener">2023 New Frontiers in Research Fund (NFRF) Exploration Grant&lt;/a> ($200,000 two-year support). &lt;a href="https://brocku.ca/brock-news/2023/04/brock-awarded-funding-for-research-on-youth-and-social-media-and-biases-in-health-care/" target="_blank" rel="noopener">[Brock News Article]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Invited to speak about my research at the SKEMA AI School for Business, during their AI integration seminar&lt;/strong> (August).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[06/2022] Awarded the &lt;a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">2022 NSERC Discovery Grant&lt;/a> ($125,000, five-year support) and &lt;a href="https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/DLS-STVLD_eng.asp" target="_blank" rel="noopener">2022 Discovery Launch Supplement&lt;/a> ($12,500). &lt;a href="https://brocku.ca/brock-news/2022/06/brock-researchers-awarded-more-than-3-million-in-nserc-grants/" target="_blank" rel="noopener">[Brock News Article]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Invited to discuss &amp;ldquo;Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&amp;rdquo; at the &lt;a href="https://www.media.mit.edu/" target="_blank" rel="noopener">MIT Media Lab&lt;/a>&lt;/strong> (May).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2022&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Awarded the &lt;a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">2022 NSERC Discovery Grant&lt;/a> ($125,000, five-year support) and &lt;a href="https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/DLS-STVLD_eng.asp" target="_blank" rel="noopener">2022 Discovery Launch Supplement&lt;/a> ($12,500)&lt;/strong>. &lt;a href="https://brocku.ca/brock-news/2022/06/brock-researchers-awarded-more-than-3-million-in-nserc-grants/" target="_blank" rel="noopener">[Brock News Article]&lt;/a> (June)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[2022] Published &amp;ldquo;Interpreting docstrings without using common sense: the private science of very large language models&amp;rdquo; for &lt;a href="https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot" target="_blank" rel="noopener">Free Software Foundation (FSF): Philosophical and Legal Questions around Copilot, 2022&lt;/a>. &lt;a href="https://static.fsf.org/nosvn/copilot/Interpreting-Docstrings-Without-Common-Sense.pdf" target="_blank" rel="noopener">[FSF]&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Published &amp;ldquo;Interpreting docstrings without using common sense: the private science of very large language models&amp;rdquo; for &lt;a href="https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot" target="_blank" rel="noopener">Free Software Foundation (FSF): Philosophical and Legal Questions around Copilot, 2022&lt;/a>&lt;/strong>. &lt;a href="https://static.fsf.org/nosvn/copilot/Interpreting-Docstrings-Without-Common-Sense.pdf" target="_blank" rel="noopener">[FSF]&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[08/2023] Invited to speak about my research at the SKEMA AI School for Business, during their AI integration seminar.&lt;/p>
+&lt;p>&lt;strong>Keynote speaker at the International Symposium on &amp;ldquo;Role of Basic Sciences for Sustainable Development&amp;rdquo;&lt;/strong> (October).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[05/2023] Invited to discuss &amp;ldquo;Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&amp;rdquo; at the &lt;a href="https://www.media.mit.edu/" target="_blank" rel="noopener">MIT Media Lab&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Delivered insights on AI integration in a seminar at SKEMA AI School for Business&lt;/strong> (July).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[10/2022] Keynote speaker at the International Symposium on &amp;ldquo;Role of Basic Sciences for Sustainable Development&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Masterclass presentation at SKEMA AI School for Business on &amp;ldquo;Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&amp;rdquo;&lt;/strong> (June).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2021&lt;/strong>: &lt;strong>Gave a talk titled &amp;ldquo;Towards Interpretable, Ethical, and Generalizable NLP Models&amp;rdquo; for a graduate seminar at the &lt;a href="https://www.lakeheadu.ca/academics/departments/computer-science" target="_blank" rel="noopener">Department of Computer Science, Lakehead University&lt;/a>, Thunder Bay, Canada&lt;/strong> (October).&lt;/p>
+&lt;p>&lt;strong>2020&lt;/strong>: &lt;strong>Selected for an oral presentation at the &lt;a href="https://coling2020.org/" target="_blank" rel="noopener">28th International Conference on Computational Linguistics (COLING 2020)&lt;/a>&lt;/strong> (December).&lt;/p>
+&lt;p>&lt;strong>2019&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Gave an oral presentation of our research at the &lt;a href="https://2019.aclweb.org/" target="_blank" rel="noopener">57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)&lt;/a>&lt;/strong> (July).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[07/2022] Delivered insights on AI integration in a seminar at SKEMA AI School for Business.&lt;/p>
+&lt;p>&lt;strong>Program Committee member at &lt;a href="https://sites.google.com/view/acl19studentresearchworkshop" target="_blank" rel="noopener">2019 ACL Student Research Workshop (SRW)&lt;/a>&lt;/strong>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[06/2022] Masterclass presentation at SKEMA AI School for Business on &amp;ldquo;Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Keynote at the Annual Microsoft Research and Mila Collaborative Research Workshop&lt;/strong> (October).&lt;/p>
 &lt;/li>
-&lt;li>
-&lt;p>[10/2021] Gave a talk titled &amp;ldquo;Towards Interpretable, Ethical, and Generalizable NLP Models&amp;rdquo; for a graduate seminar at the &lt;a href="https://www.lakeheadu.ca/academics/departments/computer-science" target="_blank" rel="noopener">Department of Computer Science, Lakehead University&lt;/a>, Thunder Bay, Canada.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[12/2020] Selected for an oral presentation at the &lt;a href="https://coling2020.org/" target="_blank" rel="noopener">28th International Conference on Computational Linguistics (COLING 2020)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2019] Gave an oral presentation of our research at the &lt;a href="https://2019.aclweb.org/" target="_blank" rel="noopener">57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[2019] Program Committee member at &lt;a href="https://sites.google.com/view/acl19studentresearchworkshop" target="_blank" rel="noopener">2019 ACL Student Research Workshop (SRW)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2019] Keynote at the Annual Microsoft Research and Mila Collaborative Research Workshop.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[06/2018] Presented our awarded outstanding paper at the &lt;a href="https://naacl2018.org/" target="_blank" rel="noopener">2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL 2018)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://aemami.ca/news/newslist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/news/newslist/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>[06/2024] Honored to receive the &lt;a href="https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/" target="_blank" rel="noopener">2024 Faculty of Mathematics and Science Excellence in Teaching Award&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[05/2024] 3 out of 3 submitted papers accepted at the main conference at &lt;a href="https://2024.aclweb.org/" target="_blank" rel="noopener">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, August 11-16)&lt;/a>. Massive congratulations to all collaborators, of which many were undergraduates and first year MSc&amp;rsquo;s! Stay tuned for the paper links.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[05/2024] Our paper &amp;ldquo;EvoGrad: An open-source platform for Winograd Schema Challenge instances&amp;rdquo; accepted at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024, May 20-25)&lt;/a>. &lt;a href="https://arxiv.org/pdf/2402.13372" target="_blank" rel="noopener">[ArXiv]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[03/2024] Our paper &amp;ldquo;WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts&amp;rdquo; accepted as an Oral Presentation at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL2024, March 17-22)&lt;/a>. &lt;a href="https://aclanthology.org/2024.eacl-long.99.pdf" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://arxiv.org/pdf/2401.17703" target="_blank" rel="noopener">[ArXiv]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[03/2024] Excited to give a talk at the &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series&lt;/a> on Friday, March 8: &amp;ldquo;Large Language Models: Society&amp;rsquo;s Silent Mirrors&amp;rdquo;.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[01/2023] Our paper &amp;ldquo;Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models&amp;rdquo; published at &lt;a href="https://2023.aclweb.org/" target="_blank" rel="noopener">The Findings of ACL 2023&lt;/a>. &lt;a href="https://aclanthology.org/2023.findings-acl.280/" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.pdf" target="_blank" rel="noopener">[ArXiv]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.mp4" target="_blank" rel="noopener">[Oral Presentation]&lt;/a> &lt;a href="https://brocku.ca/media-room/2023/10/18/brock-led-research-creates-protocol-to-test-ai-debiasing-methods/" target="_blank" rel="noopener">[News Article]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[2023] Published book chapter &amp;ldquo;Natural Language Processing: Current Methods and Challenges&amp;rdquo; in Engineering Mathematics and Artificial Intelligence: Foundations, Methods, and Applications. &lt;a href="https://books.google.ca/books?hl=en&amp;amp;lr=&amp;amp;id=0wnHEAAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PP1&amp;amp;dq=Engineering&amp;#43;Mathematics&amp;#43;and&amp;#43;Artificial&amp;#43;Intelligence:&amp;#43;Foundations,&amp;#43;Methods,&amp;#43;and&amp;#43;Applications&amp;amp;ots=wI9mVvzgho&amp;amp;sig=VEQ9epaA9V1KpFUEmpO668A4MR8#v=onepage&amp;amp;q=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications&amp;amp;f=false" target="_blank" rel="noopener">[SpringerLink]&lt;/a> &lt;a href="https://www.amazon.com/Engineering-Mathematics-Artificial-Intelligence-Applications/dp/1032255676#:~:text=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications,offers%20cutting%2Dedge%20AI%20technologies" target="_blank" rel="noopener">[Amazon]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[04/2023] Awarded the &lt;a href="https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2023/competition-concours-eng.aspx" target="_blank" rel="noopener">2023 New Frontiers in Research Fund (NFRF) Exploration Grant&lt;/a> ($200,000 two-year support). &lt;a href="https://brocku.ca/brock-news/2023/04/brock-awarded-funding-for-research-on-youth-and-social-media-and-biases-in-health-care/" target="_blank" rel="noopener">[Brock News Article]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[06/2022] Awarded the &lt;a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">2022 NSERC Discovery Grant&lt;/a> ($125,000, five-year support) and &lt;a href="https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/DLS-STVLD_eng.asp" target="_blank" rel="noopener">2022 Discovery Launch Supplement&lt;/a> ($12,500). &lt;a href="https://brocku.ca/brock-news/2022/06/brock-researchers-awarded-more-than-3-million-in-nserc-grants/" target="_blank" rel="noopener">[Brock News Article]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[2022] Published &amp;ldquo;Interpreting docstrings without using common sense: the private science of very large language models&amp;rdquo; for &lt;a href="https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot" target="_blank" rel="noopener">Free Software Foundation (FSF): Philosophical and Legal Questions around Copilot, 2022&lt;/a>. &lt;a href="https://static.fsf.org/nosvn/copilot/Interpreting-Docstrings-Without-Common-Sense.pdf" target="_blank" rel="noopener">[FSF]&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[08/2023] Invited to speak about my research at the SKEMA AI School for Business, during their AI integration seminar.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[05/2023] Invited to discuss &amp;ldquo;Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&amp;rdquo; at the &lt;a href="https://www.media.mit.edu/" target="_blank" rel="noopener">MIT Media Lab&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2022] Keynote speaker at the International Symposium on &amp;ldquo;Role of Basic Sciences for Sustainable Development&amp;rdquo;.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2022] Delivered insights on AI integration in a seminar at SKEMA AI School for Business.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[06/2022] Masterclass presentation at SKEMA AI School for Business on &amp;ldquo;Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&amp;rdquo;.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2021] Gave a talk titled &amp;ldquo;Towards Interpretable, Ethical, and Generalizable NLP Models&amp;rdquo; for a graduate seminar at the &lt;a href="https://www.lakeheadu.ca/academics/departments/computer-science" target="_blank" rel="noopener">Department of Computer Science, Lakehead University&lt;/a>, Thunder Bay, Canada.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[12/2020] Selected for an oral presentation at the &lt;a href="https://coling2020.org/" target="_blank" rel="noopener">28th International Conference on Computational Linguistics (COLING 2020)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[07/2019] Gave an oral presentation of our research at the &lt;a href="https://2019.aclweb.org/" target="_blank" rel="noopener">57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[2019] Program Committee member at &lt;a href="https://sites.google.com/view/acl19studentresearchworkshop" target="_blank" rel="noopener">2019 ACL Student Research Workshop (SRW)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[10/2019] Keynote at the Annual Microsoft Research and Mila Collaborative Research Workshop.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[06/2018] Presented our awarded outstanding paper at the &lt;a href="https://naacl2018.org/" target="_blank" rel="noopener">2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL 2018)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul>
+&lt;p>&lt;strong>2018&lt;/strong>: &lt;strong>Presented our awarded outstanding paper at the &lt;a href="https://naacl2018.org/" target="_blank" rel="noopener">2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL 2018)&lt;/a>&lt;/strong> (June).&lt;/p></description></item><item><title/><link>https://aemami.ca/news/newslist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/news/newslist/</guid><description>&lt;p>&lt;strong>2024&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Honored to receive the &lt;a href="https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/" target="_blank" rel="noopener">2024 Faculty of Mathematics and Science Excellence in Teaching Award&lt;/a>&lt;/strong> (June).&lt;/li>
+&lt;li>&lt;strong>3 out of 3 submitted papers accepted at the main conference at &lt;a href="https://2024.aclweb.org/" target="_blank" rel="noopener">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, August 11-16)&lt;/a>&lt;/strong>. Massive congratulations to all collaborators, of which many were undergraduates and first year MSc&amp;rsquo;s! Stay tuned for the paper links (May).&lt;/li>
+&lt;li>&lt;strong>Our paper &amp;ldquo;EvoGrad: An open-source platform for Winograd Schema Challenge instances&amp;rdquo; accepted at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024, May 20-25)&lt;/a>&lt;/strong>. &lt;a href="https://arxiv.org/pdf/2402.13372" target="_blank" rel="noopener">[ArXiv]&lt;/a> (May)&lt;/li>
+&lt;li>&lt;strong>Our paper &amp;ldquo;WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts&amp;rdquo; accepted as an Oral Presentation at &lt;a href="https://lrec-coling-2024.org/" target="_blank" rel="noopener">The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL2024, March 17-22)&lt;/a>&lt;/strong>. &lt;a href="https://aclanthology.org/2024.eacl-long.99.pdf" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://arxiv.org/pdf/2401.17703" target="_blank" rel="noopener">[ArXiv]&lt;/a> (March)&lt;/li>
+&lt;li>&lt;strong>Excited to give a talk at the &lt;a href="https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/" target="_blank" rel="noopener">Brock Faculty of Math and Science&amp;rsquo;s Anthropocene Research Colloquium Series&lt;/a> on Friday, March 8: &amp;ldquo;Large Language Models: Society&amp;rsquo;s Silent Mirrors&amp;rdquo;&lt;/strong> (March).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2023&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Our paper &amp;ldquo;Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models&amp;rdquo; published at &lt;a href="https://2023.aclweb.org/" target="_blank" rel="noopener">The Findings of ACL 2023&lt;/a>&lt;/strong>. &lt;a href="https://aclanthology.org/2023.findings-acl.280/" target="_blank" rel="noopener">[ACL-Anthology]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.pdf" target="_blank" rel="noopener">[ArXiv]&lt;/a> &lt;a href="https://aclanthology.org/2023.findings-acl.280.mp4" target="_blank" rel="noopener">[Oral Presentation]&lt;/a> &lt;a href="https://brocku.ca/media-room/2023/10/18/brock-led-research-creates-protocol-to-test-ai-debiasing-methods/" target="_blank" rel="noopener">[News Article]&lt;/a> (January)&lt;/li>
+&lt;li>&lt;strong>Published book chapter &amp;ldquo;Natural Language Processing: Current Methods and Challenges&amp;rdquo; in Engineering Mathematics and Artificial Intelligence: Foundations, Methods, and Applications&lt;/strong>. &lt;a href="https://books.google.ca/books?hl=en&amp;amp;lr=&amp;amp;id=0wnHEAAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PP1&amp;amp;dq=Engineering&amp;#43;Mathematics&amp;#43;and&amp;#43;Artificial&amp;#43;Intelligence:&amp;#43;Foundations,&amp;#43;Methods,&amp;#43;and&amp;#43;Applications&amp;amp;ots=wI9mVvzgho&amp;amp;sig=VEQ9epaA9V1KpFUEmpO668A4MR8#v=onepage&amp;amp;q=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications&amp;amp;f=false" target="_blank" rel="noopener">[SpringerLink]&lt;/a> &lt;a href="https://www.amazon.com/Engineering-Mathematics-Artificial-Intelligence-Applications/dp/1032255676#:~:text=Engineering%20Mathematics%20and%20Artificial%20Intelligence%3A%20Foundations%2C%20Methods%2C%20and%20Applications,offers%20cutting%2Dedge%20AI%20technologies" target="_blank" rel="noopener">[Amazon]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Awarded the &lt;a href="https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2023/competition-concours-eng.aspx" target="_blank" rel="noopener">2023 New Frontiers in Research Fund (NFRF) Exploration Grant&lt;/a> ($200,000 two-year support)&lt;/strong>. &lt;a href="https://brocku.ca/brock-news/2023/04/brock-awarded-funding-for-research-on-youth-and-social-media-and-biases-in-health-care/" target="_blank" rel="noopener">[Brock News Article]&lt;/a> (April)&lt;/li>
+&lt;li>&lt;strong>Invited to speak about my research at the SKEMA AI School for Business, during their AI integration seminar&lt;/strong> (August).&lt;/li>
+&lt;li>&lt;strong>Invited to discuss &amp;ldquo;Navigating the Power and Pitfalls of Pretrained Language Models in the Prompting Era&amp;rdquo; at the &lt;a href="https://www.media.mit.edu/" target="_blank" rel="noopener">MIT Media Lab&lt;/a>&lt;/strong> (May).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2022&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Awarded the &lt;a href="https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGIGP-PSIGP_eng.asp" target="_blank" rel="noopener">2022 NSERC Discovery Grant&lt;/a> ($125,000, five-year support) and &lt;a href="https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/DLS-STVLD_eng.asp" target="_blank" rel="noopener">2022 Discovery Launch Supplement&lt;/a> ($12,500)&lt;/strong>. &lt;a href="https://brocku.ca/brock-news/2022/06/brock-researchers-awarded-more-than-3-million-in-nserc-grants/" target="_blank" rel="noopener">[Brock News Article]&lt;/a> (June)&lt;/li>
+&lt;li>&lt;strong>Published &amp;ldquo;Interpreting docstrings without using common sense: the private science of very large language models&amp;rdquo; for &lt;a href="https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot" target="_blank" rel="noopener">Free Software Foundation (FSF): Philosophical and Legal Questions around Copilot, 2022&lt;/a>&lt;/strong>. &lt;a href="https://static.fsf.org/nosvn/copilot/Interpreting-Docstrings-Without-Common-Sense.pdf" target="_blank" rel="noopener">[FSF]&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Keynote speaker at the International Symposium on &amp;ldquo;Role of Basic Sciences for Sustainable Development&amp;rdquo;&lt;/strong> (October).&lt;/li>
+&lt;li>&lt;strong>Delivered insights on AI integration in a seminar at SKEMA AI School for Business&lt;/strong> (July).&lt;/li>
+&lt;li>&lt;strong>Masterclass presentation at SKEMA AI School for Business on &amp;ldquo;Generalizable, Ethical, and Interpretable Natural Language Processing: Science or Science Fiction?&amp;rdquo;&lt;/strong> (June).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2021&lt;/strong>: &lt;strong>Gave a talk titled &amp;ldquo;Towards Interpretable, Ethical, and Generalizable NLP Models&amp;rdquo; for a graduate seminar at the &lt;a href="https://www.lakeheadu.ca/academics/departments/computer-science" target="_blank" rel="noopener">Department of Computer Science, Lakehead University&lt;/a>, Thunder Bay, Canada&lt;/strong> (October).&lt;/p>
+&lt;p>&lt;strong>2020&lt;/strong>: &lt;strong>Selected for an oral presentation at the &lt;a href="https://coling2020.org/" target="_blank" rel="noopener">28th International Conference on Computational Linguistics (COLING 2020)&lt;/a>&lt;/strong> (December).&lt;/p>
+&lt;p>&lt;strong>2019&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Gave an oral presentation of our research at the &lt;a href="https://2019.aclweb.org/" target="_blank" rel="noopener">57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)&lt;/a>&lt;/strong> (July).&lt;/li>
+&lt;li>&lt;strong>Program Committee member at &lt;a href="https://sites.google.com/view/acl19studentresearchworkshop" target="_blank" rel="noopener">2019 ACL Student Research Workshop (SRW)&lt;/a>&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>Keynote at the Annual Microsoft Research and Mila Collaborative Research Workshop&lt;/strong> (October).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2018&lt;/strong>: &lt;strong>Presented our awarded outstanding paper at the &lt;a href="https://naacl2018.org/" target="_blank" rel="noopener">2018 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL 2018)&lt;/a>&lt;/strong> (June).&lt;/p></description></item></channel></rss>
