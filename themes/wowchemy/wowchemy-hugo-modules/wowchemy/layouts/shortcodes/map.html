@@ -1,0 +1,48 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+
+<!-- JavaScript Libraries -->
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+
+<div class="folium-map" id="map_9f3fcd549824baa231d01b8c91fbf082" style="height: 400px;"></div>
+        
+<script>
+// Create the map
+var map = L.map('map_9f3fcd549824baa231d01b8c91fbf082', {
+    center: [20, 0], // Adjust this center to better fit your map's focus area
+    zoom: 2
+});
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+var locations = [
+    {lat: 35.70746143717422, lng: 51.34695391303935, popup: "Nikta Gohari Sadr"}, 
+    {lat: 19.072572898510337, lng: 72.87790269902361, popup: "Harsh Lalai"},
+    {lat: 43.36129389343648, lng:  -80.30641201651625, popup: "Tyler McDonald"},
+    {lat: 42.9922, lng: -79.2483, popup: "Robert Morabito"},
+    {lat: 23.81324948086691, lng: 90.41422236172856, popup: "Kazi Nishat Anwar"},
+    {lat: 26.283020330537518, lng: 80.4161059621779, popup: "Abhishek Kumar"}, 
+    {lat: 19.436753354471875, lng: -99.14361078026432, popup: "Angel Loredo"}, 
+    {lat: 28.61764032564273, lng: 77.21234851645079, popup: "Sangmitra Madhusudan"}, 
+    {lat: 26.283020330537518, lng: 80.4161059621779, popup: "Abhishek Kumar"}, 
+    {lat: 24.94995291735982, lng: 118.6783729252374, popup: "Kaige Chen"}, 
+    {lat: 43.15951170805985, lng: -79.24680006638461, popup: "Skye Reid"}, 
+    {lat: 37.509975093912196,  lng: 71.59398400486116, popup: "Sarfaroz Yunusov"}, 
+    
+    // Add more locations as needed
+];
+
+locations.forEach(function(location) {
+    L.marker([location.lat, location.lng]).addTo(map)
+      .bindPopup(location.popup);
+});
+
+
+
+</script>

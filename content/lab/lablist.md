@@ -20,7 +20,7 @@ Ali Emami, Assistant Professor of Computer Science
 
 #### Undergraduate Researchers
 - Tyler Mcdonald (Summer 2023 – Present, *NSERC Undergraduate Student Research Awardee*)
-- Sangmitra Madhusudhan (Summer 2024 - Present, *Brock Co-op Program*)
+- Sangmitra Madhusudan (Summer 2024 - Present, *Brock Co-op Program*)
 - Skye Reid (Summer 2024)
 - QiQi Gao (Summer 2022 – Summer 2023)
 
@@ -91,9 +91,9 @@ We investigate the inner workings of LLMs, focusing on their confidence-probabil
 
 We are dedicated to advancing the development of more reliable, unbiased, and interpretable language models, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.
 
-### Map of Student Origins
+#### Map of Student Origins
 
-{{< figure src="/uploads/map.png">}}
+{{< map >}}
 
 # Join Us
 
