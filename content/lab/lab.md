@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Lab"
 draft: false
 draft: false
 share: false
