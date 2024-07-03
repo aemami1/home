@@ -91,7 +91,7 @@ We investigate the inner workings of LLMs, focusing on their confidence-probabil
 
 We are dedicated to advancing the development of more reliable, unbiased, and interpretable language models, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.
 
-#### Map of Student Origins
+# Map of Student Origins
 
 {{< map >}}
 
