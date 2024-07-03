@@ -138,6 +138,7 @@ var locations = [
 {lat: 43.15951170805985, lng: -79.24680006638461, popup: "Skye Reid"},
 {lat: 40.282581046903, lng: 69.62425908465447, popup: "Sarfaroz Yunusov"},
 {lat: 35.671254912545685, lng: 10.10054619792362, popup: "Ghofrane Faidi"},
+{lat: 31.55202232468896, lng: 74.27912805987232, popup: "Me!"},
 ];
 locations.forEach(function(location) {
 L.marker([location.lat, location.lng]).addTo(map)
@@ -343,6 +344,7 @@ var locations = [
 {lat: 43.15951170805985, lng: -79.24680006638461, popup: "Skye Reid"},
 {lat: 40.282581046903, lng: 69.62425908465447, popup: "Sarfaroz Yunusov"},
 {lat: 35.671254912545685, lng: 10.10054619792362, popup: "Ghofrane Faidi"},
+{lat: 31.55202232468896, lng: 74.27912805987232, popup: "Me!"},
 ];
 locations.forEach(function(location) {
 L.marker([location.lat, location.lng]).addTo(map)
