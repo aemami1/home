@@ -1,6 +1,6 @@
 ---
 title: "Recent Courses"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
