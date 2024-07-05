@@ -23,4 +23,3 @@ show_date: false
 
 **2021**:
 - **Internet Technologies (COSC 2P89)**. The essential technologies and protocols for web and internet development. (Fall)
-Add to Conversation
