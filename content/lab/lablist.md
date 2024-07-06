@@ -94,7 +94,7 @@ We are dedicated to advancing the development of more reliable, unbiased, and in
 
 # Research Focus Areas
 
-A fun wordcloud generated from all of our research works!
+A fun word cloud generated from all of our research works!
 
 {{< figure src="/uploads/wordcloud.png" >}}
 
