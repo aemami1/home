@@ -12,4 +12,4 @@ header:
 ---
 
 
-{{< readfromfile "/content/teaching/teachinglist.md" 1000 >}} 
+{{< readfromfile "/content/course/courselist.md" 1000 >}} 

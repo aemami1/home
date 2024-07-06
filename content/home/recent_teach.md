@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent Courses"
-subtitle = "[All Courses>>](/teaching/teachings)"
+subtitle = "[All Courses>>](/course/courselist)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,4 +50,4 @@ subtitle = "[All Courses>>](/teaching/teachings)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/teaching/teachinglist.md" 5 >}} 
+{{< readfromfile "/content/course/courselist.md" 5 >}} 

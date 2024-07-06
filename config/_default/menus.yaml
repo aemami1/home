@@ -17,7 +17,7 @@ main:
     url: '/publication'
     weight: 30
   - name: Courses
-    url: '/teaching/teachinglist'
+    url: '/course/courselist'
     weight: 50
   - name: Services
     url: '/service/servicelist'
