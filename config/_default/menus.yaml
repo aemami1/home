@@ -7,27 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: News
-    url: 'news/newslist'
-    weight: 20
-  - name: Lab
-    url: '/lab/lablist'
+#  - name: News
+#    url: 'news/newslist'
+#    weight: 20
+  - name: Group
+    url: '/group/'
     weight: 30
   - name: Publications
     url: '/publication'
     weight: 30
   - name: Courses
-    url: '/course/courselist'
+    url: '/course/'
     weight: 50
-  - name: Services
-    url: '/service/servicelist'
-    weight: 60
+#  - name: Services
+#    url: '/service/servicelist'
+#    weight: 60
   - name: Talks
-    url: '/talk/talklist'
+    url: '/talk/'
     weight: 70
-  - name: Awards
-    url: '/award/awardlist'
-    weight: 80
+#  - name: Awards
+#    url: '/award/awardlist'
+#    weight: 80
   - name: Contact
     url: '#contact'
     weight: 90

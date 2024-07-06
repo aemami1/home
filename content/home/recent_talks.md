@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Students"
-subtitle = "[Full List>>](/lab/lablist)"
+title = "Recent & Upcoming Talks"
+subtitle = "[All Talks>>](/talk/)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,4 +50,4 @@ subtitle = "[Full List>>](/lab/lablist)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/lab/lablist.md" 15 >}} 
+{{< readfromfile "/content/talk/_index.md" 10 >}} 
