@@ -3,8 +3,6 @@ draft: false
 show_date: false
 ---
 
-## Welcome to Brock NLP Lab! 
-
 # Lab Members 
 
 #### Director 
@@ -33,7 +31,7 @@ Ali Emami, Assistant Professor of Computer Science
 
 # Research 
 
-The Brock NLP lab is dedicated to developing **trustworthy, generalizable, transparent, and fair** natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
+The Brock NLP lab is dedicated to developing **generalizable, transparent, and fair** natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
 
 ### 1. Bias Detection and Mitigation in Large Language Models (LLMs)
 
