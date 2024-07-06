@@ -600,15 +600,21 @@ or
 &lt;/div>&lt;figcaption>
 June, 2024, Niagara Falls, Canada
 &lt;/figcaption>&lt;/figure>
-&lt;h1 id="research">Research&lt;/h1>
+&lt;h1 id="our-mission">Our Mission&lt;/h1>
 &lt;p>The Brock NLP lab is dedicated to developing &lt;strong>generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
-&lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
+&lt;ol>
+&lt;li>Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/li>
+&lt;li>Reasoning and Benchmarking of LLMs&lt;/li>
+&lt;li>Machine Interpretability and Confidence Analysis&lt;/li>
+&lt;/ol>
+&lt;h1 id="research-areas">Research Areas&lt;/h1>
+&lt;h2 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h2>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
 &lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./uploads/subtle.png" alt="Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="./uploads/subtle.png" alt="Proportion of GPT-4&amp;#39;s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/)." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
-Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. &lt;a href="./publication/kumar-2024-subtle/">Read more about this study&lt;/a>.
+Proportion of GPT-4&amp;rsquo;s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. &lt;a href="./publication/kumar-2024-subtle/">Read more about this study&lt;/a>.
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-framework-checklist-comparing-the-consistency-of-recent-debiasing-methods--read-more-about-this-studypublicationmorabito-2023-debiasing">
 &lt;div class="d-flex justify-content-center">
@@ -627,13 +633,13 @@ Framework checklist comparing the consistency of recent debiasing methods. &lt;a
 &lt;li>Kumar, A., Yunusov, S., Emami, A. (2024). Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In &lt;em>Proceedings of ACL 2024&lt;/em>.&lt;/li>
 &lt;li>Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In &lt;em>Findings of ACL 2023&lt;/em>.&lt;/li>
 &lt;/ul>
-&lt;h3 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h3>
+&lt;h2 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h2>
 &lt;p>We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).&lt;/p>
 &lt;figure id="figure-a-representative-output-from-stable-diffusion-20-on-a-winovis-instance-the-diffusion-attentive-attribution-maps-daam-clarify-the-models-focus-for-different-terms-and-the-correctness-of-its-interpretation-correctly-identifying-bee-and-flower-but-erroneously-associating-it-with-the-bee-instead-of-the-flower-read-more-about-this-studypublicationpark-2024-winovis">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./uploads/winovis.jpg" alt="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="./uploads/winovis.jpg" alt="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model&amp;#39;s focus for different terms and the correctness of its interpretation: correctly identifying &amp;#39;bee&amp;#39; and &amp;#39;flower&amp;#39; but erroneously associating &amp;#39;it&amp;#39; with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
-A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. &lt;a href="./publication/park-2024-winovis/">Read more about this study&lt;/a>.
+A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model&amp;rsquo;s focus for different terms and the correctness of its interpretation: correctly identifying &amp;lsquo;bee&amp;rsquo; and &amp;lsquo;flower&amp;rsquo; but erroneously associating &amp;lsquo;it&amp;rsquo; with the bee instead of the flower. &lt;a href="./publication/park-2024-winovis/">Read more about this study&lt;/a>.
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-interface-of-evograd-at-httpswwwevogradcomhttpsevogradcom-read-more-about-this-studypublicationsun-2024-evo">
 &lt;div class="d-flex justify-content-center">
@@ -659,7 +665,7 @@ Overview of the WSC+ generation and evaluation processes. On the left, the flowc
 &lt;li>Sun, J.H., &amp;amp; Emami, A. (2024). EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In &lt;em>Proceedings of COLING-LREC 2024&lt;/em>.&lt;/li>
 &lt;li>Zahraei, P.S., &amp;amp; Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In &lt;em>Proceedings of EACL 2024&lt;/em>.&lt;/li>
 &lt;/ul>
-&lt;h3 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h3>
+&lt;h2 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h2>
 &lt;p>We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.&lt;/p>
 &lt;figure id="figure-flow-diagram-illustrating-the-process-of-extracting-and-comparing-the-internal-confidence-and-verbalized-certainty-in-an-llm-read-more-about-this-studypublicationkumar-2024-confidence">
 &lt;div class="d-flex justify-content-center">
@@ -917,15 +923,27 @@ Developer and Facilitator at Brock University Professional and Continuing Studie
 &lt;/div>&lt;figcaption>
 June, 2024, Niagara Falls, Canada
 &lt;/figcaption>&lt;/figure>
-&lt;h1 id="research">Research&lt;/h1>
+&lt;h1 id="our-mission">Our Mission&lt;/h1>
 &lt;p>The Brock NLP lab is dedicated to developing &lt;strong>generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
-&lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reasoning and Benchmarking of LLMs&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Machine Interpretability and Confidence Analysis&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h1 id="research-areas">Research Areas&lt;/h1>
+&lt;h2 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h2>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
 &lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./uploads/subtle.png" alt="Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="./uploads/subtle.png" alt="Proportion of GPT-4&amp;#39;s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/)." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
-Proportion of GPT-4’s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. &lt;a href="./publication/kumar-2024-subtle/">Read more about this study&lt;/a>.
+Proportion of GPT-4&amp;rsquo;s preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. &lt;a href="./publication/kumar-2024-subtle/">Read more about this study&lt;/a>.
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-framework-checklist-comparing-the-consistency-of-recent-debiasing-methods--read-more-about-this-studypublicationmorabito-2023-debiasing">
 &lt;div class="d-flex justify-content-center">
@@ -954,13 +972,13 @@ Framework checklist comparing the consistency of recent debiasing methods. &lt;a
 &lt;p>Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In &lt;em>Findings of ACL 2023&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h3>
+&lt;h2 id="2-reasoning-and-benchmarking-of-llms">2. Reasoning and Benchmarking of LLMs&lt;/h2>
 &lt;p>We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).&lt;/p>
 &lt;figure id="figure-a-representative-output-from-stable-diffusion-20-on-a-winovis-instance-the-diffusion-attentive-attribution-maps-daam-clarify-the-models-focus-for-different-terms-and-the-correctness-of-its-interpretation-correctly-identifying-bee-and-flower-but-erroneously-associating-it-with-the-bee-instead-of-the-flower-read-more-about-this-studypublicationpark-2024-winovis">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./uploads/winovis.jpg" alt="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="./uploads/winovis.jpg" alt="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model&amp;#39;s focus for different terms and the correctness of its interpretation: correctly identifying &amp;#39;bee&amp;#39; and &amp;#39;flower&amp;#39; but erroneously associating &amp;#39;it&amp;#39; with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
-A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model’s focus for different terms and the correctness of its interpretation: correctly identifying ‘bee’ and ‘flower’ but erroneously associating ‘it’ with the bee instead of the flower. &lt;a href="./publication/park-2024-winovis/">Read more about this study&lt;/a>.
+A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model&amp;rsquo;s focus for different terms and the correctness of its interpretation: correctly identifying &amp;lsquo;bee&amp;rsquo; and &amp;lsquo;flower&amp;rsquo; but erroneously associating &amp;lsquo;it&amp;rsquo; with the bee instead of the flower. &lt;a href="./publication/park-2024-winovis/">Read more about this study&lt;/a>.
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-interface-of-evograd-at-httpswwwevogradcomhttpsevogradcom-read-more-about-this-studypublicationsun-2024-evo">
 &lt;div class="d-flex justify-content-center">
@@ -998,7 +1016,7 @@ Overview of the WSC+ generation and evaluation processes. On the left, the flowc
 &lt;p>Zahraei, P.S., &amp;amp; Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In &lt;em>Proceedings of EACL 2024&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h3>
+&lt;h2 id="3-machine-interpretability-and-confidence-analysis">3. Machine Interpretability and Confidence Analysis&lt;/h2>
 &lt;p>We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.&lt;/p>
 &lt;figure id="figure-flow-diagram-illustrating-the-process-of-extracting-and-comparing-the-internal-confidence-and-verbalized-certainty-in-an-llm-read-more-about-this-studypublicationkumar-2024-confidence">
 &lt;div class="d-flex justify-content-center">
