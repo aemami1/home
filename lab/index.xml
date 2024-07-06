@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labs | Ali Emami</title><link>https://aemami.ca/lab/</link><atom:link href="https://aemami.ca/lab/index.xml" rel="self" type="application/rss+xml"/><description>Labs</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Labs</title><link>https://aemami.ca/lab/</link></image><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
-&lt;h1 id="lab-members">Lab Members&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labs | Ali Emami</title><link>https://aemami.ca/lab/</link><atom:link href="https://aemami.ca/lab/index.xml" rel="self" type="application/rss+xml"/><description>Labs</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Ali Emami</copyright><image><url>https://aemami.ca/media/icon_hu29bb0f8250f761abddc65535b755b381_104744_512x512_fill_lanczos_center_3.png</url><title>Labs</title><link>https://aemami.ca/lab/</link></image><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
 &lt;h4 id="msc-students">MSc Students&lt;/h4>
@@ -31,7 +30,7 @@
 June, 2024, Niagara Falls, Canada
 &lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
 &lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
@@ -150,7 +149,6 @@ L.marker([location.lat, location.lng]).addTo(map)
 &lt;p>&lt;strong>Undergraduates:&lt;/strong> Please don&amp;rsquo;t hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour&amp;rsquo;s thesis.&lt;/p>
 &lt;p>&lt;strong>Graduates:&lt;/strong> M.Sc. (&lt;!-- raw HTML omitted -->Computer Science&lt;!-- raw HTML omitted -->) and PhD (&lt;!-- raw HTML omitted -->Intelligent Systems and Data Science&lt;!-- raw HTML omitted -->) admissions are handled centrally in our department. Please see &lt;a href="https://brocku.ca/graduate-studies/future-students/apply/" target="_blank" rel="noopener">this&lt;/a> page for application instructions.&lt;/p></description></item><item><title>Lab</title><link>https://aemami.ca/lab/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lab/</guid><description>
 &lt;hr>
-&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -209,7 +207,7 @@ L.marker([location.lat, location.lng]).addTo(map)
 June, 2024, Niagara Falls, Canada
 &lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
 &lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">

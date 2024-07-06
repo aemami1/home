@@ -569,8 +569,7 @@ or
 &lt;p>&lt;strong>2021&lt;/strong>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Internet Technologies (COSC 2P89)&lt;/strong>. The essential technologies and protocols for web and internet development. (Fall)&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
-&lt;h1 id="lab-members">Lab Members&lt;/h1>
+&lt;/ul></description></item><item><title/><link>https://aemami.ca/lab/lablist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lablist/</guid><description>&lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
 &lt;h4 id="msc-students">MSc Students&lt;/h4>
@@ -602,7 +601,7 @@ or
 June, 2024, Niagara Falls, Canada
 &lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
 &lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
@@ -861,7 +860,6 @@ Developer and Facilitator at Brock University Professional and Continuing Studie
 &lt;/li>
 &lt;/ul></description></item><item><title>Lab</title><link>https://aemami.ca/lab/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aemami.ca/lab/lab/</guid><description>
 &lt;hr>
-&lt;h2 id="welcome-to-brock-nlp-lab">Welcome to Brock NLP Lab!&lt;/h2>
 &lt;h1 id="lab-members">Lab Members&lt;/h1>
 &lt;h4 id="director">Director&lt;/h4>
 &lt;p>Ali Emami, Assistant Professor of Computer Science&lt;/p>
@@ -920,7 +918,7 @@ Developer and Facilitator at Brock University Professional and Continuing Studie
 June, 2024, Niagara Falls, Canada
 &lt;/figcaption>&lt;/figure>
 &lt;h1 id="research">Research&lt;/h1>
-&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>trustworthy, generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
+&lt;p>The Brock NLP lab is dedicated to developing &lt;strong>generalizable, transparent, and fair&lt;/strong> natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:&lt;/p>
 &lt;h3 id="1-bias-detection-and-mitigation-in-large-language-models-llms">1. Bias Detection and Mitigation in Large Language Models (LLMs)&lt;/h3>
 &lt;p>We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.&lt;/p>
 &lt;figure id="figure-proportion-of-gpt-4s-preferred-responses-for-the-short-poem-task-in-cogs-categorized-by-identity-specific-prompts-with-highlighted-sectors-indicating-a-preference-for-outputs-from-those-identities-read-more-about-this-studypublicationkumar-2024-subtle">
