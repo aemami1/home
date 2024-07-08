@@ -8,7 +8,7 @@ show_date: false
 
 ### Conference Reviewer
 - **2024**: April 2024 ARR, The 1st Conference on Language modeling (COLM 2024), 6 papers
-- **2023**: EACL 2023 (ARR), NAACL 2023 (ARR), ACL 2024 (ARR), , 13 papers
+- **2023**: EACL 2023 (ARR), NAACL 2023 (ARR), ACL 2024 (ARR), 13 papers
 - **2021**: ACL 2021, 3 papers
 - **2019**: ACL SRW 2019, 3 papers
 
