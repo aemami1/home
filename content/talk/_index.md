@@ -6,7 +6,7 @@ show_date: false
 ## Invited talks
 
 **2024**:
-- **In Search of Digital Truth**. Feature Presentation, First Ontario Performing Arts Centre, November. [[Details + Buy your tickets!]](https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-2425PAC09-in-Search-of-Digital-Truth&BOparam::WScontent::loadArticle::context_id=)
+- **In Search of Digital Truth: How Large Language Models are Shaping Our Reality (And How We are Shaping Theirs!)**. Feature Presentation, First Ontario Performing Arts Centre, November. [[Details + Buy your tickets!]](https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-2425PAC09-in-Search-of-Digital-Truth&BOparam::WScontent::loadArticle::context_id=)
 - **Large Language Models: Society's Silent Mirrors**. Brock Faculty of Math and Science's Anthropocene Research Colloquium Series, March. [[Details]](https://brocku.ca/brock-news/2023/11/anthropocene-themed-speaker-series-launches-next-week/)
 
 **2023**:
