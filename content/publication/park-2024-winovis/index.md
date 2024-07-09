@@ -16,6 +16,8 @@ publication: '*Proceedings of the 62nd Annual Meeting of the Association for Com
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2405.16277
+- name: Code
+  url: https://github.com/bpark2/WinoVis
 ---
 
 This paper has been accepted for publication at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.
