@@ -31,34 +31,34 @@ Ali Emami, Assistant Professor of Computer Science
 
 # Our Mission
 
-The Brock NLP lab is dedicated to developing **generalizable, transparent, and fair** natural language processing tools capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
+The Brock NLP lab is dedicated to developing **fair, robust, and reliable** AI systems capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
 
-1. Bias Detection and Mitigation in Large Language Models (LLMs)
-2. Reasoning and Benchmarking of LLMs
-3. Machine Interpretability and Confidence Analysis
+1. Bias Detection and Mitigation in AI Models
+2. Reasoning and Benchmarking of AI Systems
+3. AI Interpretability and Reliability
 
 # Research Areas
 
-## 1. Bias Detection and Mitigation in Large Language Models (LLMs)
+## 1. Bias Detection and Mitigation in AI Models
 
-We develop innovative methods to identify and address subtle biases in LLMs, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.
+We develop innovative methods to identify and address subtle biases in AI models, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.
 
 {{< figure src="/uploads/subtle.png" caption="Proportion of GPT-4's preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/).">}}
 
 {{< figure src="/uploads/debiasing.png" caption="Framework checklist comparing the consistency of recent debiasing methods.  [Read more about this study](/publication/morabito-2023-debiasing/).">}}
 
 **Key Contributions:**
-- Introduced the Representative Bias Score (RBS) and Affinity Bias Score (ABS) to measure subtle biases in LLMs.
+- Introduced the Representative Bias Score (RBS) and Affinity Bias Score (ABS) to measure subtle biases in AI models.
 - Developed the Creativity-Oriented Generation Suite (CoGS) for detecting biases in open-ended tasks.
-- Proposed a protocol for measuring the consistency of debiasing techniques in language models.
+- Proposed a protocol for measuring the consistency of debiasing techniques in AI models.
 
 **Recent Publications:**
 - Kumar, A., Yunusov, S., Emami, A. (2024). Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In *Proceedings of ACL 2024*.
 - Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In *Findings of ACL 2023*.
 
-## 2. Reasoning and Benchmarking of LLMs
+## 2. Reasoning and Benchmarking of AI Systems
 
-We create innovative challenges and datasets to rigorously test the reasoning capabilities of LLMs, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).
+We create innovative challenges and datasets to rigorously test the reasoning capabilities of AI systems, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).
 
 {{< figure src="/uploads/winovis.jpg" caption="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model's focus for different terms and the correctness of its interpretation: correctly identifying 'bee' and 'flower' but erroneously associating 'it' with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." >}}
 
@@ -76,21 +76,21 @@ We create innovative challenges and datasets to rigorously test the reasoning ca
 - Sun, J.H., & Emami, A. (2024). EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In *Proceedings of COLING-LREC 2024*.
 - Zahraei, P.S., & Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In *Proceedings of EACL 2024*.
 
-## 3. Machine Interpretability and Confidence Analysis
+## 3. AI Interpretability and Reliability
 
-We investigate the inner workings of LLMs, focusing on their confidence-probability alignment and decision-making processes to enhance their reliability and interpretability.
+We investigate the inner workings of AI models, focusing on understanding their decision-making processes, biases, and limitations to enhance their reliability, interpretability, and overall performance.
 
-{{< figure src="/uploads/confidence.png" caption="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an LLM. [Read more about this study](/publication/kumar-2024-confidence/).">}}
+{{< figure src="/uploads/confidence.png" caption="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an AI model. [Read more about this study](/publication/kumar-2024-confidence/).">}}
 
 **Key Contributions:**
-- Introduced the concept of Confidence-Probability Alignment in LLMs.
+- Introduced the concept of Confidence-Probability Alignment in AI models.
 - Developed novel prompting techniques to encourage model introspection and self-evaluation.
 - Proposed a framework for assessing model stability in dynamic tasks through the error depth metric.
 
 **Recent Publication:**
 - Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In *Proceedings of ACL 2024*.
 
-We are dedicated to advancing the development of more reliable, unbiased, and interpretable language models, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.
+We are dedicated to advancing the development of more reliable, unbiased, and interpretable AI systems, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.
 
 # Research Focus Areas
 
@@ -100,13 +100,3 @@ A fun word cloud generated from all of our research works!
 
 
 # Map of Student Origins
-
-{{< map >}}
-
-# Join Us
-
-We are recruiting new graduate students for Fall, 2024
-
-**Undergraduates:** Please don't hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour's thesis. 
-
-**Graduates:** M.Sc. (<font color="blue">Computer Science</font>) and PhD (<font color="blue">Intelligent Systems and Data Science</font>) admissions are handled centrally in our department. Please see [this](https://brocku.ca/graduate-studies/future-students/apply/) page for application instructions.
