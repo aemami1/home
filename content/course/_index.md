@@ -4,7 +4,7 @@ show_date: false
 ---
 
 **2025**:
-- **Essentials of Artificial Intelligence (COSC 1P73)**. Overview of AI principles, ML models, and their real-world applications. *New course introduced by me.* (Winter)
+- **Essentials of Artificial Intelligence (COSC 1P71)**. Overview of AI principles, ML models, and their real-world applications. *New course introduced by me.* (Winter)
 - **Natural Language Processing (COSC 5P84)**. Focuses on deep learning models for NLP and their application. *New course introduced by me.* (Winter)
 
 **2024**:
