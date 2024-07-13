@@ -1,7 +1,6 @@
 ---
 draft: false
 show_date: false
-type: "news"  # This line categorizes the content as news
 ---
 
 **2024**:
