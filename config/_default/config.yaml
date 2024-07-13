@@ -6,8 +6,8 @@
 title: "Ali Emami" # Website name
 baseurl: 'https://aemami.ca/' # Website URL
 copyright: "&copy; {year} Ali Emami" # Footer text, e.g. '© {year} Me'
-relativeURLs: true
-canonifyURLs: false
+relativeURLs: false
+canonifyURLs: true
 
 ############################
 ## LANGUAGE
