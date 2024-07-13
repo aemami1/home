@@ -13,3 +13,40 @@
     padding: 20px;
     margin-bottom: 30px;
   }
+
+  a {
+    transition: color 0.3s ease-in-out;
+    &:hover {
+      color: #1a73e8; // Change to your theme color
+    }
+  }
+
+  .avatar {
+    border-radius: 0;
+    clip-path: none;
+    border: 2px solid black;
+    transition: transform 0.3s ease-in-out;  // Add a smooth transition effect
+  
+    &:hover {
+      transform: scale(1.05);  // Slightly increase the size on hover
+    }
+  }
+  
+  /* Stylish button */
+  .btn-stylish {
+    background-color: white;
+    color: $sta-primary;
+    border: 2px solid $sta-primary;
+    padding: 12px 24px;
+    border-radius: 30px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    
+    &:hover {
+      background-color: $sta-primary;
+      color: white;
+    }
+  }
+  
+
+  
