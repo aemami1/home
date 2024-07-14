@@ -98,5 +98,14 @@ A fun word cloud generated from all of our research works!
 
 {{< figure src="/uploads/wordcloud.png" >}}
 
-
 # Map of Student Origins
+
+{{< map >}}
+
+# Join Us
+
+We are recruiting new graduate students for Fall, 2024
+
+**Undergraduates:** Please don't hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour's thesis. 
+
+**Graduates:** M.Sc. (<font color="blue">Computer Science</font>) and PhD (<font color="blue">Intelligent Systems and Data Science</font>) admissions are handled centrally in our department. Please see [this](https://brocku.ca/graduate-studies/future-students/apply/) page for application instructions.
