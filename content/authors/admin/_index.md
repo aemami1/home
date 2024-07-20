@@ -13,9 +13,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=Pjdq8cUAAAAJ&hl=en
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
   - icon: graduation-cap
     icon_pack: fas
     link: https://escholarship.mcgill.ca/concern/theses/pz50h2225
