@@ -92,7 +92,7 @@ We investigate the inner workings of AI models, focusing on understanding their 
 **Recent Publication:**
 - Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In *Proceedings of ACL 2024*.
 
-We are dedicated to advancing the development of more reliable, unbiased, and interpretable AI systems, with our work regularly presented at conferences such as ACL, COLING-LREC, and EACL.
+We are dedicated to advancing the development of more reliable, unbiased, and interpretable AI systems, with our work regularly presented at conferences such as ACL, EMNLP, NAACL, EACL,  COLING-LREC, ICML, and NeurIPS.
 
 # Research Focus Areas
 
