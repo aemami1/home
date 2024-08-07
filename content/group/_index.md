@@ -14,7 +14,6 @@ Ali Emami, Assistant Professor of Computer Science
 - Kazi Nishat Anwar (Fall 2024 – Present)
 - Nikta Gohari Sadr (Fall 2023 – Present)
 - Sarfaroz Yunusov (Fall 2023 – Present)
-- Abhishek Kumar (Fall 2022 – Summer 2024)
 
 #### Undergraduate Researchers
 - Tyler Mcdonald (Summer 2023 – Present, *NSERC Undergraduate Student Research Awardee*)
@@ -26,6 +25,9 @@ Ali Emami, Assistant Professor of Computer Science
 - Ghofrane Faidi (Summer 2024)
 - Angel Loredo (Summer 2024)
 - Harsh Lalai (Summer 2024)
+
+#### Alumni
+- Abhishek Kumar, M.Sc.
 
 {{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
 
