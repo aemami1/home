@@ -31,6 +31,8 @@ Ali Emami, Assistant Professor of Computer Science
 
 {{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
 
+{{< figure src="/uploads/acl_pic.jpg" caption="August, 2024, ACL 2024, Bangkok" >}}
+
 # Our Mission
 
 The Brock NLP lab is dedicated to developing **fair, robust, and reliable** AI systems capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
