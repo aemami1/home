@@ -4,6 +4,7 @@ show_date: false
 ---
 
 **2024**:
+- Our 2 papers have been accepted for publication at the main conference at **[The 2024 Conference on Empirical Methods in Natural Language Processing](https://2024.emnlp.org/)**. Almost all co-authors were undergrads. Way to go! Stay tuned for paper links.
 - I've been invited to give a talk at the **FirstOntario Performing Arts Centre**, titled **In Search of Digital Truth: How Large Language Models are Shaping Our Reality (And How We are Shaping Theirs!)**, Friday, November 1, at 7 PM. [[Details + Buy your tickets!]](https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-2425PAC09-in-Search-of-Digital-Truth&BOparam::WScontent::loadArticle::context_id=)
 - Honored to receive the [2024 Faculty of Mathematics and Science Excellence in Teaching Award](https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/) (June).
 - **3 out of 3 submitted papers accepted at the main conference at [The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, August 11-16)](https://2024.aclweb.org/)**. Massive congratulations to all collaborators, of which many were undergraduates and first year MSc's! Stay tuned for the paper links (May).
