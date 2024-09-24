@@ -10,8 +10,8 @@ abstract: 'Knowledge distillation allows smaller neural networks to emulate the 
 publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational
   Linguistics (Student Research Workshop)* **(ACL SRW 2024)**'
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2024.acl-srw.35/
 - name: Code
   url: https://github.com/traceofthought/trace-of-thought-prompting/
 ---
-
-This paper has been accepted for publication at the ACL 2024 Student Research Workshop, to be held in August 2024. The ACL Anthology link will be available after the conference.

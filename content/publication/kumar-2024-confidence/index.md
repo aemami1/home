@@ -14,10 +14,10 @@ abstract: "As the use of Large Language Models (LLMs) becomes more widespread, u
 publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics **(ACL 2024)***'
 #publication_short: 'ACL 2024'
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2024.acl-long.20/
 - name: Arxiv
   url: https://arxiv.org/abs/2405.16282
 - name: Code
   url: https://github.com/akkeshav/confidence_probability_alignment
 ---
-
-This paper has been accepted for publication at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.

@@ -12,10 +12,10 @@ abstract: "Research on Large Language Models (LLMs) has often neglected subtle b
 publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics **(ACL 2024)***'
 #publication_short: 'ACL 2024'
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2024.acl-long.23/
 - name: Arxiv
   url: https://arxiv.org/abs/2405.14555
 - name: Code
   url: https://github.com/akkeshav/subtleBias
 ---
-
-This paper has been accepted for presentation at the ACL 2024 Main Conference, to be held in August 2024. The ACL Anthology link will be available after the conference.
