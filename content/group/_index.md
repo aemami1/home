@@ -9,7 +9,7 @@ show_date: false
 Ali Emami, Assistant Professor of Computer Science
 
 #### MSc Students 
-- Robert Morabito (2022-2023, Undergraduate; 2024-Present, MSc)
+- Robert Morabito (2022-2023, Undergraduate; 2024 – Present, MSc)
 - Kaige Chen (Fall 2024 – Present)
 - Kazi Nishat Anwar (Fall 2024 – Present)
 - Nikta Gohari Sadr (Fall 2023 – Present)
@@ -27,7 +27,7 @@ Ali Emami, Assistant Professor of Computer Science
 - Harsh Lalai (Summer 2024)
 
 #### Alumni
-- Abhishek Kumar, M.Sc.
+- Abhishek Kumar, M.Sc. (Full Stack Data Systems Specialist at [360 Energy Inc.](https://www.360energy.net), 2024 – Present)
 
 {{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
 
