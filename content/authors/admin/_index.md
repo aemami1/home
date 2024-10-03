@@ -5,7 +5,10 @@ bio: "Ali Emami is an assistant professor of computer science at Brock Uniersity
 interests:
   - Natural Language Processing
   - Machine Learning
-  - Artificial Intelligence
+  - Ethics, Bias, and Fairness
+  - Natural Language Understanding
+  - Interpretability and Reliability
+  - Computational Social Science
 social:
   - icon: envelope
     icon_pack: fas
