@@ -7,7 +7,7 @@ interests:
   - Machine Learning
   - Ethics, Bias, and Fairness
   - Natural Language Understanding
-  - Interpretability and Reliability
+  - AI Interpretability and Reliability
   - Computational Social Science
 social:
   - icon: envelope
