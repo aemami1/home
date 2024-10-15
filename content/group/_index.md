@@ -47,6 +47,8 @@ The Brock NLP lab is is working on developing **fair, robust, and reliable** AI 
 
 We're working on identifying and mitigating several forms of biases in AI models. We're finding recently that the very recognition and classification of what is "toxic" or "biased" is quite tricky and culturally/temporally-bound. It is now time more than ever to collaborate with experts from beyond the field (e.g., Psychology, Anthropology, Philosophy) to tackle these problems!
 
+{{< figure src="/uploads/stoppicmorabito.png" caption="A glimpse at our latest dataset, that pits language models against increasingly and more explicitly problematic content. We find that LLMs and humans tend to disagree with what is acceptable and what is not! [Read more about this study](/publication/morabito2024stopbenchmarkinglargelanguage/).">}}
+
 {{< figure src="/uploads/subtle.png" caption="Proportion of GPT-4's preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/).">}}
 
 {{< figure src="/uploads/debiasing.png" caption="Framework checklist comparing the consistency of recent debiasing methods.  [Read more about this study](/publication/morabito-2023-debiasing/).">}}
@@ -63,6 +65,8 @@ We're working on identifying and mitigating several forms of biases in AI models
 ## 2. Reasoning and Benchmarking of AI Systems
 
 We're looking to test, harness, and push the boundaries of reasoning capabilities of AI systems. At the same time, we believe in this artificial "intelligence" as more of a *means* than an *end*. AI applied towards diversifying storytelling education, multilingual/multicultural representation, and precise language understanding are example of some of these means!
+
+{{< figure src="/uploads/mirrorstories.png" caption="We find that LLMs are able to create personalized stories that reflect diverse identities, and we show that readers prefer them over generalized stories (whether human-written or LLM generated). Impressively, they were even better at conveying intended morals and were more engaging to readers -- this might just revolutionize how we create inclusive literature! [Read more about this study](/publication/yunusov2024mirrorstoriesreflectingdiversitypersonalized).">}}
 
 {{< figure src="/uploads/evograd.png" caption="Interface of EvoGrad at [https://www.evograd.com/](https://evograd.com). [Read more about this study](/publication/sun-2024-evo/)." >}}
 
