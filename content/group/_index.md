@@ -49,9 +49,9 @@ We're working on identifying and mitigating several forms of biases in AI models
 
 {{< figure src="/uploads/stoppicmorabito.png" caption="A glimpse at our latest dataset, that pits language models against increasingly and more explicitly problematic content. We find that LLMs and humans tend to disagree with what is acceptable and what is not! [Read more about this study](/publication/morabito2024stopbenchmarkinglargelanguage/).">}}
 
-{{< figure src="/uploads/subtle.png" caption="Our work on *subtle bias* reveals a glaring extent of in popular LLMs like GPT-4 -- above is the  Proportion of GPT-4's preferred responses for the short poem task in our task suit, **CoGS**, with highlighted sectors indicating a preference for outputs from those identities. The results are alarming! [Read more about this study](/publication/kumar-2024-subtle/).">}}
+{{< figure src="/uploads/subtle.png" caption="Our work on *subtle bias* reveals a glaring extent of it in popular LLMs like GPT-4 -- above is the proportion of GPT-4's preferred responses for the short poem task in our task suit, **CoGS**, with highlighted sectors indicating a preference for outputs from those identities. The results are alarming! [Read more about this study](/publication/kumar-2024-subtle/).">}}
 
-{{< figure src="/uploads/debiasing.png" caption="Framework checklist comparing the consistency of recent debiasing methods.  [Read more about this study](/publication/morabito-2023-debiasing/).">}}
+{{< figure src="/uploads/debiasing.png" caption="Debiasing shouldn't always lead to *good* outcomes if the bias specifications are negative. For example, given a debiasing method that is developed to reduce toxicity in LMs, if the definition of toxicity used by the debiasing method is *reversed*, would the debiasing results also be reversed?, Apparently not always!! [Read more about this study](/publication/morabito-2023-debiasing/).">}}
 
 
 **Recent Publications:**
