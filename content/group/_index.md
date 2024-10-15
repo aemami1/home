@@ -85,7 +85,7 @@ We're working on probing the inner workings of AI models (frustratingly blackbox
 
 **Recent Publication:**
 
-- - Park, B., Janecek, M., Li, Y., Ezzati-Jivan, N., Emami, A. (2024). Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In *Proceedings of ACL 2024*.
+- Park, B., Janecek, M., Li, Y., Ezzati-Jivan, N., Emami, A. (2024). Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In *Proceedings of ACL 2024*.
 
 - Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In *Proceedings of ACL 2024*.
 
