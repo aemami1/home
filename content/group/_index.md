@@ -45,7 +45,7 @@ The Brock NLP lab is is working on developing **fair, robust, and reliable** AI 
 
 ## 1. Bias Detection and Mitigation in AI Models
 
-We're working on identifying and mitigating several forms of biases in AI models. We're finding recently that the very recognition and classification of what is "toxic" or "biased" is very tricky and culturally/temporally-bound. It is now time more than ever to collaborate with experts from beyond the field (e.g., Psychology, Anthropology, Philosophy) to tackle these problems!
+We're working on identifying and mitigating several forms of biases in AI models. We're finding recently that the very recognition and classification of what is "toxic" or "biased" is quite tricky and culturally/temporally-bound. It is now time more than ever to collaborate with experts from beyond the field (e.g., Psychology, Anthropology, Philosophy) to tackle these problems!
 
 {{< figure src="/uploads/subtle.png" caption="Proportion of GPT-4's preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/).">}}
 
@@ -62,9 +62,7 @@ We're working on identifying and mitigating several forms of biases in AI models
 
 ## 2. Reasoning and Benchmarking of AI Systems
 
-We're looking to test and push the boundaries of reasoning capabilities of AI systems.
-
-{{< figure src="/uploads/winovis.jpg" caption="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model's focus for different terms and the correctness of its interpretation: correctly identifying 'bee' and 'flower' but erroneously associating 'it' with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." >}}
+We're looking to test, harness, and push the boundaries of reasoning capabilities of AI systems. At the same time, we believe in this artificial "intelligence" as more of a *means* than an *end*. AI applied towards diversifying storytelling education, multilingual/multicultural representation, and precise language understanding are example of some of these means!
 
 {{< figure src="/uploads/evograd.png" caption="Interface of EvoGrad at [https://www.evograd.com/](https://evograd.com). [Read more about this study](/publication/sun-2024-evo/)." >}}
 
@@ -83,6 +81,8 @@ We're looking to test and push the boundaries of reasoning capabilities of AI sy
 ## 3. AI Interpretability and Reliability
 
 We're working on probing the inner workings of AI models (frustratingly blackbox as they are!), focusing on understanding their decision-making processes, biases, and limitations to enhance their reliability, interpretability, and overall performance.
+
+{{< figure src="/uploads/winovis.jpg" caption="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model's focus for different terms and the correctness of its interpretation: correctly identifying 'bee' and 'flower' but erroneously associating 'it' with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." >}}
 
 {{< figure src="/uploads/confidence.png" caption="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an AI model. [Read more about this study](/publication/kumar-2024-confidence/).">}}
 
