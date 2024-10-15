@@ -35,7 +35,7 @@ Ali Emami, Assistant Professor of Computer Science
 
 # Our Mission
 
-The Brock NLP lab is dedicated to developing **fair, robust, and reliable** AI systems capable of understanding, reasoning, and producing human-like text. Our research spans multiple facets of AI, with a particular focus on three key areas:
+The Brock NLP lab is is working on developing **fair, robust, and reliable** AI systems. Our research focuses on three key areas:
 
 1. Bias Detection and Mitigation in AI Models
 2. Reasoning and Benchmarking of AI Systems
@@ -45,7 +45,7 @@ The Brock NLP lab is dedicated to developing **fair, robust, and reliable** AI s
 
 ## 1. Bias Detection and Mitigation in AI Models
 
-We develop innovative methods to identify and address subtle biases in AI models, aiming to create more equitable AI systems. Our work introduces novel metrics and evaluation frameworks to measure representative and affinity biases that often go unnoticed.
+We're working on identifying and mitigating several forms of biases in AI models. We're finding recently that the very recognition and classification of what is "toxic" or "biased" is very tricky and culturally/temporally-bound. It is now time more than ever to collaborate with experts from beyond the field (e.g., Psychology, Anthropology, Philosophy) to tackle these problems!
 
 {{< figure src="/uploads/subtle.png" caption="Proportion of GPT-4's preferred responses for the short poem task in CoGS, categorized by identity-specific prompts, with highlighted sectors indicating a preference for outputs from those identities. [Read more about this study](/publication/kumar-2024-subtle/).">}}
 
@@ -62,7 +62,7 @@ We develop innovative methods to identify and address subtle biases in AI models
 
 ## 2. Reasoning and Benchmarking of AI Systems
 
-We create innovative challenges and datasets to rigorously test the reasoning capabilities of AI systems, with a particular focus on enhancing and expanding the Winograd Schema Challenge (WSC).
+We're looking to test and push the boundaries of reasoning capabilities of AI systems.
 
 {{< figure src="/uploads/winovis.jpg" caption="A representative output from Stable Diffusion 2.0 on a WINOVIS instance. The Diffusion Attentive Attribution Maps (DAAM) clarify the model's focus for different terms and the correctness of its interpretation: correctly identifying 'bee' and 'flower' but erroneously associating 'it' with the bee instead of the flower. [Read more about this study](/publication/park-2024-winovis/)." >}}
 
@@ -82,7 +82,7 @@ We create innovative challenges and datasets to rigorously test the reasoning ca
 
 ## 3. AI Interpretability and Reliability
 
-We investigate the inner workings of AI models, focusing on understanding their decision-making processes, biases, and limitations to enhance their reliability, interpretability, and overall performance.
+We're working on probing the inner workings of AI models (frustratingly blackbox as they are!), focusing on understanding their decision-making processes, biases, and limitations to enhance their reliability, interpretability, and overall performance.
 
 {{< figure src="/uploads/confidence.png" caption="Flow diagram illustrating the process of extracting and comparing the Internal Confidence and Verbalized Certainty in an AI model. [Read more about this study](/publication/kumar-2024-confidence/).">}}
 
@@ -94,7 +94,7 @@ We investigate the inner workings of AI models, focusing on understanding their 
 **Recent Publication:**
 - Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In *Proceedings of ACL 2024*.
 
-We are dedicated to advancing the development of more reliable, unbiased, and interpretable AI systems, with our work regularly presented at conferences such as ACL, EMNLP, NAACL, EACL,  COLING-LREC, ICML, and NeurIPS.
+Our our work is regularly presented at conferences such as ACL, EMNLP, NAACL, EACL,  COLING-LREC, ICML, and NeurIPS.
 
 # Research Focus Areas
 
