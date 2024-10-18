@@ -17,7 +17,8 @@ Ali Emami, Assistant Professor of Computer Science
 
 #### Undergraduate Researchers
 - Tyler Mcdonald (Summer 2023 – Present, *NSERC Undergraduate Student Research Awardee*)
-- Sangmitra Madhusudan (Summer 2024 - Present, *Brock Co-op Program*)
+- Sangmitra Madhusudan (Summer 2024 - Present)
+- Anthony Colisimo (Summer 2024 - Present)
 - Skye Reid (Summer 2024)
 - QiQi Gao (Summer 2022 – Summer 2023)
 
