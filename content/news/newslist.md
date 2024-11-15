@@ -4,6 +4,7 @@ show_date: false
 ---
 
 **2024**:
+- Honoured to have recieved the **[EMNLP 2024 Social Impact Paper Award](https://x.com/emnlpmeeting/status/1857174596962906305)**.
 - Our paper, [STOP! Benchmarking Large Language Models with Sensitivity Testing on Offensive Progressions](/publication/morabito2024stopbenchmarkinglargelanguage) has been selected for **Oral Presentation** at **[EMNLP 2024](https://2024.emnlp.org/)**.
 - Our 2 papers have been accepted for publication at the main conference at **[The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024, November 12-16)](https://2024.emnlp.org/)**. Almost all co-authors were undergrads. Way to go! Stay tuned for paper links.
 - I've been invited to give a talk at the **FirstOntario Performing Arts Centre**, titled **In Search of Digital Truth: How Large Language Models are Shaping Our Reality (And How We are Shaping Theirs!)**, Friday, November 1, at 7 PM. [[Details + Get your tickets!]](https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-2425PAC09-in-Search-of-Digital-Truth&BOparam::WScontent::loadArticle::context_id=)

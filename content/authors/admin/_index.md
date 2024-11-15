@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?user=Pjdq8cUAAAAJ&hl=en
+    link: https://scholar.google.ca/citations?hl=en&user=Pjdq8cUAAAAJ&view_op=list_works&sortby=pubdate
 #  - icon: cv
 #    icon_pack: ai
 #    link: uploads/resume.pdf
@@ -49,7 +49,7 @@ title: Ali Emami
 email: aemami@brocku.ca
 ---
 
-I'm an Assistant Professor in the Department of Computer Science at Brock University. My research focuses on natural language processing and machine learning. I'm fascinated by how society shapes AI models and, in turn, how they are beginning to influence us! This dynamic drives my current research in bias, reasoning, and interpretability in AI systems.
+I'm an Assistant Professor in the Department of Computer Science at Brock University. My research focuses on natural language processing and machine learning. I'm fascinated by how society shapes AI models and, in turn, how they are beginning to influence us! My goal is to ensure AI technologies are developed and deployed in ways that are ethical, inclusive, and serve the public good.
 
 <!-- I received my PhD in Computer Science in 2021 from [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). My PhD research was at the intersection of Natural Language Inference (NLI) and common-sense reasoning in AI Systems. -->
 
