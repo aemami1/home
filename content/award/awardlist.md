@@ -6,6 +6,8 @@ show_date: false
 ### Awards and Nominations
 
 **2024**: 
+- **[EMNLP 2024 Social Impact Paper Award](https://2024.emnlp.org/program/best_papers/)**.
+- Invited to give the [convocation address](https://brocku.ca/brock-news/2024/10/gallery-grads-encouraged-to-discover-opportunity-in-uncertainty/) to the Brock University Graduating Class of 2024
 - Oral Presentation at EMNLP 2024. [STOP! Benchmarking Large Language Models with Sensitivity Testing on Offensive Progressions](/publication/morabito2024stopbenchmarkinglargelanguagemodels)
 -Faculty of Math and Sciences Teaching Award, Brock University, $2,500. [[Details]](https://brocku.ca/brock-news/2024/06/math-and-science-awards-recognize-teaching-research-excellence/)  
 - Oral Presentation at ACL 2024. [Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge](/publication/park-2024-winovis)
