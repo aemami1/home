@@ -4,6 +4,7 @@ show_date: false
 ---
 
 **2024**:
+- Our 2 papers have been accepted for publication at the main conference at **[The 31st International Conference on Computational Linguistics (COLING 2025, January 19th to 24th)](https://coling2025.org/)**.
 - Honoured to have recieved the **[EMNLP 2024 Social Impact Paper Award](https://2024.emnlp.org/program/best_papers/)**.
 - Our paper, [STOP! Benchmarking Large Language Models with Sensitivity Testing on Offensive Progressions](/publication/morabito2024stopbenchmarkinglargelanguage) has been selected for **Oral Presentation** at **[EMNLP 2024](https://2024.emnlp.org/)**.
 - A pleasure to be invited to give the [convocation address](https://brocku.ca/brock-news/2024/10/gallery-grads-encouraged-to-discover-opportunity-in-uncertainty/) to the Brock University Graduating Class of 2024!
