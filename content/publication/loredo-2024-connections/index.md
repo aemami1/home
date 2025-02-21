@@ -12,8 +12,10 @@ abstract: 'Large Language Models (LLMs) have shown impressive performance on var
 publication: '*The 31st International Conference on Computational Linguistics **(COLING 2025, Oral Presentation, Best Dataset Paper Award)***'
 #publication_short: 'LREC-COLING 2024'
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2025.coling-main.134/
 - name: ArXiv
   url: https://arxiv.org/abs/2412.01621
-  name: NYT-Connections (dataset)
+- name: NYT-Connections (dataset)
   url: https://huggingface.co/datasets/tm21cy/NYT-Connections
 ---
