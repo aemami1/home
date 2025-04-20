@@ -49,7 +49,7 @@ title: Ali Emami
 email: aemami@brocku.ca
 ---
 
-I'm an Assistant Professor in the Department of Computer Science at Brock University. My research focuses on natural language processing and machine learning. I'm fascinated by how society shapes AI models and, in turn, how they are beginning to influence us! 
+I'm an Assistant Professor in the Department of Computer Science at Brock University. My research focuses on natural language processing and machine learning. I'm especially interested in the reciprocal influence between AI systems and societal dynamics.
 
 
 <!-- My goal is to ensure AI technologies are developed and deployed in ways that are ethical, inclusive, and serve the public good. -->
