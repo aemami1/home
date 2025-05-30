@@ -8,7 +8,7 @@ show_date: false
 #### Director 
 Ali Emami, Assistant Professor of Computer Science
 
-#### MSc Students 
+#### Graduate Students 
 - Robert Morabito (2022-2023, Undergraduate; 2024 – Present, MSc)
 - Kaige Chen (Fall 2024 – Present)
 - Kazi Nishat Anwar (Fall 2024 – Present, Co-supervised with Dr. Nishat)
@@ -102,10 +102,3 @@ A fun word cloud generated from all of our research works!
 
 {{< map >}}
 
-# Join Us
-
-We are recruiting new graduate students for Fall, 2024
-
-**Undergraduates:** Please don't hesitate to email me to inquire about research projects that I (or better, yet, you) may have in mind. Please also attach your transcript as well as a brief description of which areas of my research interests (e.g., natural language processing) you would like to work on and why. I highly encourage, and prefer, students that are planning on a summer internship (under the NSERC USRA or SURA program), or are planning to do an Honour's thesis. 
-
-**Graduates:** M.Sc. (<font color="blue">Computer Science</font>) and PhD (<font color="blue">Intelligent Systems and Data Science</font>) admissions are handled centrally in our department. Please see [this](https://brocku.ca/graduate-studies/future-students/apply/) page for application instructions.
