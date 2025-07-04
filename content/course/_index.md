@@ -3,6 +3,13 @@ draft: false
 show_date: false
 ---
 
+## Emory University
+
+**2025**:
+- **Computing, AI, Ethics, and Society (CS 312)**. Understanding ethical and societal concerns introduced by computing and AI into human life, including privacy, online influence and disinformation, information ownership and responsibility, fairness and bias in computer and AI technologies such as facial recognition and robotic systems. (Fall)
+
+## Brock University
+
 **2025**:
 - **Introduction to Natural Language Processing (COSC 4P84)**. An advanced course covering algorithms and recent advances in NLP. *New course introduced by me.* (Fall)
 - **Essentials of Artificial Intelligence (COSC 1P71)**. Overview of AI principles, ML models, and their real-world applications. *New course introduced by me.* (Winter)
