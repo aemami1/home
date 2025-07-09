@@ -9,25 +9,14 @@ show_date: false
 Ali Emami, Assistant Professor of Computer Science
 
 #### Graduate Students 
-- Robert Morabito (2022-2023, Undergraduate; 2024 – Present, MSc)
+- Robert Morabito (Fall 2025 - Present)
 - Kaige Chen (Fall 2024 – Present)
-- Kazi Nishat Anwar (Fall 2024 – Present, Co-supervised with Dr. Nishat)
-- Nikta Gohari Sadr (Fall 2023 – Present)
-- Sarfaroz Yunusov (Fall 2023 – Present)
-
-#### Undergraduate Researchers
-- Tyler Mcdonald (Summer 2023 – Present, *NSERC Undergraduate Student Research Awardee*)
-- Sangmitra Madhusudan (Summer 2024 - Present)
-- Anthony Colisimo (Summer 2024 - Present, Co-supervised with Dr. Li)
-- Skye Reid (Summer 2024)
-- QiQi Gao (Summer 2022 – Summer 2023)
-
-#### Summer Researchers (Mitacs Globalink Interns)
-- Ghofrane Faidi (Summer 2024)
-- Angel Loredo (Summer 2024)
-- Harsh Lalai (Summer 2024)
+- Sangmitra Madhusudan (Fall 2025 - Present, *Vector Scholarship Awardee*)
+- Tyler Mcdonald (Summer 2023 – Present, *Vector Scholarship Awardee*)
 
 #### Alumni
+- Nikta Gohari Sadr
+- Sarfaroz Yunusov
 - Abhishek Kumar, M.Sc. (Full Stack Data Systems Specialist at [360 Energy Inc.](https://www.360energy.net), 2024 – Present)
 
 {{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
@@ -36,7 +25,7 @@ Ali Emami, Assistant Professor of Computer Science
 
 # Our Mission
 
-The Brock NLP lab is is working on developing **fair, robust, and reliable** AI systems. Our research focuses on three key areas:
+We work on developing **fair, robust, and reliable** AI systems. Our research focuses on three key areas:
 
 1. Bias Detection and Mitigation in AI Models
 2. Reasoning and Benchmarking of AI Systems
