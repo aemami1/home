@@ -1,7 +1,7 @@
 ---
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: "Ali Emami is an assistant professor of computer science at Brock Uniersity. His research interests include natural language processing, machine learning, and artificial intelligence. He leads the Natural Language Processing group, which develops natural language understanding and generation systems that are generalizable, interpretable, and fair."
+bio: "Ali Emami is an assistant professor of computer science at Emory University. His research interests include natural language processing, machine learning, and artificial intelligence."
 interests:
   - Natural Language Processing
   - Machine Learning
@@ -46,13 +46,10 @@ education:
 superuser: true
 highlight_name: true
 title: Ali Emami
-email: aemami@brocku.ca
+email: 
 ---
 
-I'm an Assistant Professor in the Department of Computer Science at Brock University. My research focuses on natural language processing and machine learning, with a particular emphasis on evaluating and interpreting large language models. I investigate how these models reason, generalize, and reflect patterns in language and society, across both predictable and surprising behaviors.
-
-
-**Exciting News: I’ll be joining the Department of Computer Science at [Emory University](https://www.cs.emory.edu/)** as a tenure-track Assistant Professor in **Fall 2025**.
+I'm an Assistant Professor in the Department of Computer Science at Emory University. My research focuses on natural language processing and machine learning, with a particular emphasis on evaluating and interpreting large language models. I investigate how these models reason, generalize, and reflect patterns in language and society, across both predictable and surprising behaviors.
 
 <!-- My goal is to ensure AI technologies are developed and deployed in ways that are ethical, inclusive, and serve the public good. -->
 
