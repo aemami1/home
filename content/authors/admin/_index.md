@@ -30,8 +30,8 @@ social:
     link: https://x.com/_aliemami
     label: Follow me on X
 organizations:
-  - name: Brock University, Canada
-    url: https://brocku.ca/
+  - name: Emory University, USA
+    url: https://www.emory.edu/home/index.html
 education:
   courses:
     - course: PhD in Computer Science
