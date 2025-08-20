@@ -49,7 +49,7 @@ title: Ali Emami
 email: 
 ---
 
-I'm an Assistant Professor in the Department of Computer Science at Emory University. My research focuses on natural language processing and machine learning, with a particular emphasis on evaluating and interpreting large language models. I investigate how these models reason, generalize, and reflect patterns in language and society, across both predictable and surprising behaviors.
+I'm an Assistant Professor in the Department of Computer Science at Emory University. My research focuses on natural language processing and machine learning, with an interest in evaluating and interpreting large language models. I investigate how these models reason, generalize, and reflect patterns in language and society, across both predictable and surprising behaviors.
 
 <!-- My goal is to ensure AI technologies are developed and deployed in ways that are ethical, inclusive, and serve the public good. -->
 
