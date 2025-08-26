@@ -3,87 +3,87 @@ draft: false
 show_date: false
 ---
 
-# Lab Members 
+# Join My  Group at Emory CS
 
-#### Director 
-Ali Emami, Assistant Professor of Computer Science
+I am recruiting **fully funded PhD students** for the **Fall 2026** cohort (applications due October 2025), as well as **MS students** interested in thesis research. I'm building a new interdisciplinary research group at the intersection of **Natural Language Processing**, **AI Fairness**, and **Human-Centered AI**. 
 
-#### Graduate Students 
-- Robert Morabito (Fall 2025 - Present)
-- Kaige Chen (Fall 2024 – Present)
-- Sangmitra Madhusudan (Fall 2025 - Present, *Vector Scholarship Awardee*)
-- Tyler Mcdonald (Summer 2023 – Present, *Vector Scholarship Awardee*)
+We develop methods to make AI systems more **fair, robust, and reliable** while understanding their limitations and societal impacts. Current research directions include:
 
-#### Alumni
-- Nikta Gohari Sadr
-- Sarfaroz Yunusov
-- Abhishek Kumar, M.Sc. (Full Stack Data Systems Specialist at [360 Energy Inc.](https://www.360energy.net), 2024 – Present)
+- **Reasoning & Evaluation:** Creating challenging benchmarks that push AI reasoning capabilities and reveal failure modes  
+- **Interpretability:** Opening the black box of AI systems to understand their decision-making and build trust
+- **Bias & Safety:** Detecting and mitigating biases in language models, with focus on culturally-aware and context-dependent definitions of harm
+- **Applied AI for Good:** Leveraging AI for inclusive education, diverse storytelling, and equitable technology
 
-{{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
+---
 
-{{< figure src="/uploads/acl_pic.jpg" caption="August, 2024, ACL 2024, Bangkok" >}}
+## What We Offer at Emory
 
-# Our Mission
+**World-class institution, Atlanta advantage.** Emory is a top private R1 university (#24 US News) with abundant resources and a rapidly rising CS department.
 
-We work on developing **fair, robust, and reliable** AI systems. Our research focuses on three key areas:
+**Interdisciplinary opportunities.** Emory's strengths in medicine, public health, business, and liberal arts create unique collaboration opportunities for AI research with real-world impact.
 
-1. Bias Detection and Mitigation in AI Models
-2. Reasoning and Benchmarking of AI Systems
-3. AI Interpretability and Reliability
+**Fresh start, ground floor opportunity.** As I'm establishing this new lab, my first students will help shape our culture and research directions. You'll receive extensive mentorship and have the chance to be a founding member of an exciting new research group.
 
-# Research Areas
+**Visible impact.** We target top-tier venues (ACL, EMNLP, NeurIPS, AAAI, ICML, CHI) and create tools/datasets that the community actually uses. Our work addresses pressing societal challenges in AI fairness and safety.
 
-## 1. Bias Detection and Mitigation in AI Models
+**Balanced mentorship.** I maintain a supportive, collaborative environment with regular 1-on-1s, hands-on guidance, and respect for work-life balance. Your success is my success.
 
-We're working on identifying and mitigating several forms of biases in AI models. We're finding recently that the very recognition and classification of what is "toxic" or "biased" is quite tricky and culturally/temporally-bound. It is now time more than ever to collaborate with experts from beyond the field (e.g., Psychology, Anthropology, Philosophy) to tackle these problems!
+---
 
-{{< figure src="/uploads/stoppicmorabito.png" caption="A glimpse at our latest dataset, that pits language models against increasingly and more explicitly problematic content. We find that LLMs and humans tend to disagree with what is acceptable and what is not! [Read more about this study](/publication/morabito2024stopbenchmarkinglargelanguage/).">}}
+## What I'm Looking For
 
-{{< figure src="/uploads/debiasing.png" caption="Debiasing shouldn't always lead to *good* outcomes if the bias specifications are negative. For example, given a debiasing method that is developed to reduce toxicity in LMs, if the definition of toxicity used by the debiasing method is *reversed*, would the debiasing results also be reversed? Apparently not always!! [Read more about this study](/publication/morabito-2023-debiasing/).">}}
+Strong candidates typically bring experience in these key areas:
 
+**🧠 Technical Foundation**
+- Strong programming skills (Python preferred)
+- Experience with machine learning/deep learning frameworks
+- Comfort with statistical analysis and experimental design
 
-**Recent Publications:**
-- Morabito, R., Madhusudan, S., McDonald, T., Emami, A. (2024) STOP! Benchmarking Large Language Models with Sensitivity Testing on Offensive Progressions. In *Proceedings of EMNLP 2024* 
-- Kumar, A., Yunusov, S., Emami, A. (2024). Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models. In *Proceedings of ACL 2024*.
-- Morabito, R., Kabbara, J., Emami, A. (2023). Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models. In *Findings of ACL 2023*.
+**📝 Research Skills**  
+- Clear technical writing and communication (this is a dying art!)
+- Critical thinking about AI systems and their limitations
+- Ability to read, implement, and build upon research papers
 
-## 2. Reasoning and Benchmarking of AI Systems
+**💡 Intellectual Curiosity**
+- Interest in interdisciplinary problems at the intersection of AI and society
+- Enthusiasm for both building systems and understanding their impacts
+- Openness to collaborating with domain experts (linguistics, psychology, ethics)
 
-We're looking to test, harness, and push the boundaries of reasoning capabilities of AI systems. At the same time, we believe in this artificial "intelligence" as more of a *means* than an *end*. AI applied towards diversifying storytelling education, multilingual/multicultural representation, and precise language understanding are example of some of these means!
+*Bonus points for:* Prior NLP/LLM experience, publications (e.g., ACL, EMNLP), user study experience, or demonstrated interest in AI ethics/fairness.
 
-{{< figure src="/uploads/mirrorstories.png" caption="We find that LLMs are able to create personalized stories that reflect diverse identities, and we show that readers prefer them over generalized stories (whether human-written or LLM generated). Impressively, they were even better at conveying intended morals and were more engaging to readers -- this might just revolutionize how we create inclusive literature! [Read more about this study](/publication/yunusov2024mirrorstoriesreflectingdiversitypersonalized).">}}
+---
 
-{{< figure src="/uploads/wsc+.png" caption="We developed a powerful prompting technique we coin *Tree-of-Experts* that outperforms recent techniques in having LLMs create multi-constrained challenging Winograd Schemas instances. *Paradoxially*, we also found that LLMs struggle to solve their own problems, despite providing the exact key to solution while they were constructing the sentences! We coin this the *Generation-Evaluation Inconsistency*.  [Read more about this study](/publication/zahraei-2024-wsc/).">}}
+## How to Apply & Connect
 
-**Recent Publications:**
-- Yunusov, S., Sidat, H., Emami, A. (2024) MirrorStories: Reflecting Diversity through Personalized Narrative Generation with Large Language Models. In *Proceedings of EMNLP 2024* 
-- Sun, J.H., & Emami, A. (2024). EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human Adversaries. In *Proceedings of COLING-LREC 2024*.
-- Zahraei, P.S., & Emami, A. (2024). WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts. In *Proceedings of EACL 2024*.
+### Reaching Out
+Email me at **aemami[at]emory.edu** with subject line **[Prospective PhD/MS Student - Fall 2026]** including:
+- Your CV/resume with links to any publications or projects
+- 2-3 sentences on why our research vision excites you
+- Any relevant experience or coursework in NLP, ML, or AI ethics
+- (Optional) A paper or project you're proud of.
+- **Pro tip:** I really like an email that looks like it was authentically, organically, and succinctly written by solely you!
 
-## 3. AI Interpretability and Reliability
+### Application Process
+- **Formal application required** through [Emory's CS department admissions portal](https://computerscience.emory.edu/graduate-phd/admissions/index.html)
+- **PhD funding:** Admitted students receive full support (stipend + tuition)
+- **Timeline:** Applications due October 2025 for Fall 2026 start
+- I cannot pre-admit, but I strongly advocate for excellent fits
 
-We're working on probing the inner workings of AI models (frustratingly blackbox as they are!), focusing on understanding their decision-making processes, biases, and limitations to enhance their reliability, interpretability, and overall performance.
+---
 
-{{< figure src="/uploads/winovis.jpg" caption="In this spirit of the Winograd Schema Challenge, ever wonder if it applies multi-modally? That is, when an image generation model, like Stable Diffusion, is generating an image with antecedents and a pronoun, which antecedent does it attend to at the pronoun word? Diffusion Attentive Attribution Maps ([DAAM](https://github.com/castorini/daam)), a recent work, makes that analysis possible, and so we applied it on a new task we created, called *WinoVis*. The results were super interesting! [Read more about this study](/publication/park-2024-winovis/)." >}}
+## Lab Fit
 
-{{< figure src="/uploads/confidence.png" caption="If a model says it's certain, does it mean it actually is? We actually have access to *two* sources of certainty in a model, its *expressed* certainty, which it can provide when asked, say, on a scale of 1-10 how certain it is, and its *internal* certainty, which can be acessed in many recent models via log probabiities of its tokens. When normalized and systematically tested, we can learn a ton about which models are most reliable/'honest' and when! [Read more about this study](/publication/kumar-2024-confidence/).">}}
+**You'll thrive here if you:**
+- Want to tackle the hardest problems in making AI beneficial for everyone
+- Enjoy both technical depth and thinking about broader impacts
+- Value reproducible, open science that others can build upon
+- Are excited about shaping a new lab's culture and direction
 
+**You might prefer elsewhere if you:**
+- Only want to optimize models without considering societal implications
+- Prefer working in isolation without collaborative discussions
+- Are looking for a large, established lab with fixed procedures
 
-**Recent Publication:**
+## For Current Emory Students
 
-- Park, B., Janecek, M., Li, Y., Ezzati-Jivan, N., Emami, A. (2024). Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge. In *Proceedings of ACL 2024*.
-
-- Kumar, A., Morabito, R., Umbet, S., Kabbara, J., Emami, A. (2024). Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models. In *Proceedings of ACL 2024*.
-
-Our our work is regularly presented at conferences such as ACL, EMNLP, NAACL, EACL,  COLING-LREC, ICML, and NeurIPS.
-
-# Research Focus Areas
-
-A fun word cloud generated from all of our research works!
-
-{{< figure src="/uploads/wordcloud.png" >}}
-
-# Map of Student Origins
-
-{{< map >}}
-
+Undergraduate and MS students at Emory interested in research opportunities should email me with your interests, relevant coursework, and available time commitment (minimum 10 hrs/week).
