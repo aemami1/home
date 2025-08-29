@@ -4,6 +4,11 @@ show_date: false
 ---
 
 ## Invited talks
+**2025**:
+- [Invited Talk at 1st Workshop on Large Language Models for Cross-Temporal Research (XTempLLMs)](https://xtempllms.github.io/2025/invited-speakers.html). COLM 2025 (upcoming).
+Keynote at 1st Workshop on Large Language Models for Cross-Temporal Research (XTempLLMs) at COLM 2025! https://xtempllms.github.io/2025/
+- [The Search for Artificial Intelligence: The Problem of “Progress”](https://www.instagram.com/msu.cse/p/DFahCdZP4yY/). Michigan State University, Computer Science and Engineering Lecture Series, January.  
+
 
 **2024**:
 - **In Search of Digital Truth**. Feature Presentation, First Ontario Performing Arts Centre, November. [[Details + Get your tickets!]](https://firstontariopac.ca/Online/default.asp?BOparam::WScontent::loadArticle::permalink=EventArticle-2425PAC09-in-Search-of-Digital-Truth&BOparam::WScontent::loadArticle::context_id=)

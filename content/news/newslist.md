@@ -4,6 +4,8 @@ show_date: false
 ---
 
 **2025**:
+- All 3 of our submissions have been accepted at **[EMNLP 2025:](https://2025.emnlp.org/)** 2 Main Conference papers and 1 Findings paper! See you in Suzhou!
+- Our paper, "The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities" has been accepted at [COLM 2025](https://colmweb.org/). [[ArXiv]](https://arxiv.org/abs/2508.05525)
 - Honoured to have recieved the **[COLING 2025 Best Dataset Paper Award](https://coling2025.org/program/best_papers/)**, for our paper, [NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers](/publication/loredo-2024-connections).
 - Our paper, [Fine-Tuned LLMs are "Time Capsules" for Tracking Societal Bias Through Books](/publication/madhusudan2024capsule) has been accepted for publication at the main conference at **[NAACL 2025, April 29th to May 4th](https://2025.naacl.org/)**.
 **2024**:

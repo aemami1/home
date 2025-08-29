@@ -51,6 +51,9 @@ email:
 
 I'm an Assistant Professor in the Department of Computer Science at Emory University. My research focuses on natural language processing and machine learning, with an interest in evaluating and interpreting large language models. I investigate how these models reason, generalize, and reflect patterns in language and society, across both predictable and surprising behaviors.
 
+**🎓 Prospective PhD Students 🎓** I am recruiting fully funded PhD students for the Fall 2026 cohort (applications due in the Fall 2025 cycle)! Please see the [group page](/group/) for more details.
+
+
 <!-- My goal is to ensure AI technologies are developed and deployed in ways that are ethical, inclusive, and serve the public good. -->
 
 <!-- I received my PhD in Computer Science in 2021 from [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). My PhD research was at the intersection of Natural Language Inference (NLI) and common-sense reasoning in AI Systems. -->

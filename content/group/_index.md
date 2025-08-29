@@ -3,30 +3,38 @@ draft: false
 show_date: false
 ---
 
-# Join My  Group at Emory CS
+# Join Our Research Group at Emory
 
-I am recruiting **fully funded PhD students** for the **Fall 2026** cohort (applications due October 2025), as well as **MS students** interested in thesis research. I'm building a new interdisciplinary research group at the intersection of **Natural Language Processing**, **AI Fairness**, and **Human-Centered AI**. 
+I am recruiting **fully funded PhD students** for **Fall 2026** (applications due December 2025), as well as **MS students** interested in thesis research. I'm building a new interdisciplinary research group at the intersection of **Natural Language Processing**, **AI Fairness**, and **Human-Centered AI**.
+
+## Research Focus
 
 We develop methods to make AI systems more **fair, robust, and reliable** while understanding their limitations and societal impacts. Current research directions include:
 
 - **Reasoning & Evaluation:** Creating challenging benchmarks that push AI reasoning capabilities and reveal failure modes  
+- **AI Safety:** Developing methods to identify and mitigate harmful behaviors in language models, with focus on culturally-aware and context-dependent definitions of harm
 - **Interpretability:** Opening the black box of AI systems to understand their decision-making and build trust
-- **Bias & Safety:** Detecting and mitigating biases in language models, with focus on culturally-aware and context-dependent definitions of harm
 - **Applied AI for Good:** Leveraging AI for inclusive education, diverse storytelling, and equitable technology
 
----
+## Current Team
 
-## What We Offer at Emory
+### Director
+Ali Emami, Assistant Professor of Computer Science
 
-**World-class institution, Atlanta advantage.** Emory is a top private R1 university (#24 US News) with abundant resources and a rapidly rising CS department.
+### Current Graduate Students
+- Robert Morabito (Fall 2024 - Present)
+- Sangmitra Madhusudan (Fall 2025 - Present, *Vector Scholarship Awardee*)
+- Kaige Chen (Fall 2024 – Present)
+- Tyler McDonald (Summer 2023 – Present, *Vector Scholarship Awardee*)
 
-**Interdisciplinary opportunities.** Emory's strengths in medicine, public health, business, and liberal arts create unique collaboration opportunities for AI research with real-world impact.
+### Alumni
+- Nikta Gohari Sadr
+- Sarfaroz Yunusov
+- Abhishek Kumar
 
-**Fresh start, ground floor opportunity.** As I'm establishing this new lab, my first students will help shape our culture and research directions. You'll receive extensive mentorship and have the chance to be a founding member of an exciting new research group.
+{{< figure src="/uploads/group.jpg" caption="June, 2024, Niagara Falls, Canada" >}}
 
-**Visible impact.** We target top-tier venues (ACL, EMNLP, NeurIPS, AAAI, ICML, CHI) and create tools/datasets that the community actually uses. Our work addresses pressing societal challenges in AI fairness and safety.
-
-**Balanced mentorship.** I maintain a supportive, collaborative environment with regular 1-on-1s, hands-on guidance, and respect for work-life balance. Your success is my success.
+{{< figure src="/uploads/acl_pic.jpg" caption="August, 2024, ACL 2024, Bangkok" >}}
 
 ---
 
@@ -69,20 +77,7 @@ Email me at **aemami[at]emory.edu** with subject line **[Prospective PhD/MS Stud
 - **Timeline:** Applications due October 2025 for Fall 2026 start
 - I cannot pre-admit, but I strongly advocate for excellent fits
 
----
-
-## Lab Fit
-
-**You'll thrive here if you:**
-- Want to tackle the hardest problems in making AI beneficial for everyone
-- Enjoy both technical depth and thinking about broader impacts
-- Value reproducible, open science that others can build upon
-- Are excited about shaping a new lab's culture and direction
-
-**You might prefer elsewhere if you:**
-- Only want to optimize models without considering societal implications
-- Prefer working in isolation without collaborative discussions
-- Are looking for a large, established lab with fixed procedures
+--- 
 
 ## For Current Emory Students
 

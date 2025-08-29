@@ -14,7 +14,7 @@ font_size: M
 
 site_type: Person
 local_business_type: 'University'
-org_name: 'Brock University'
+org_name: 'Emory University'
 description: ''
 twitter: ''
 
@@ -22,16 +22,14 @@ twitter: ''
 
 email: ali.emami with the suffix (@emory.edu)
 address: 
-  street: 1812 Sir Isaac Brock Way
-  city: St. Catharines
+  street: Room 215, Goodrich C. White Hall Building, 301 Dowman Dr
 #  region: CA
-  postcode: 'L2S 3A1'
-  country: Canada
-  country_code: CA
+  postcode: '30030'
+  country: United States of America
+  country_code: USA
 coordinates:
-  latitude: '43.11961963775774'
-  longitude: '-79.24538038155121' 
-directions: Enter Building J and take the stairs to Office 318 on Floor 2
+  latitude: '33.790917285828'
+  longitude: '-84.32580977290912' 
 office_hours:
   - 'I do not have regular office hours. Please make an appointment via email.'
 # appointment_url: 'https://calendly.com'
