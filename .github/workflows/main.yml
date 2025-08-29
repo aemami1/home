@@ -24,7 +24,7 @@ jobs:
       run: hugo --minify
 
     - name: Create CNAME
-      run: echo "aemami.ca" > public/CNAME
+      run: echo "ali-emami.com" > public/CNAME
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
