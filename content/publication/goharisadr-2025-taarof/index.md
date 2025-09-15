@@ -14,9 +14,9 @@ abstract: 'Large language models (LLMs) struggle to navigate culturally specific
 publication: '*EMNLP 2025*'
 links:
 - name: Arxiv
-  url: Stay tuned
+  url: https://arxiv.org/abs/2509.01035
 - name: Code
-  url: Stay tuned!
+  url: https://github.com/niktaas/TAAROFBENCH
 - name: Dataset
-  url: Stay tuned!
+  url: https://huggingface.co/datasets/Nikta/TAAROFBENCH
 ---

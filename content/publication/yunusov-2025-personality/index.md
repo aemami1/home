@@ -13,5 +13,5 @@ abstract: 'As Large Language Models (LLMs) increasingly integrate into everyday 
 publication: '*EMNLP 2025*'
 links:
 - name: Arxiv
-  url: Stay tuned!
+  url: https://arxiv.org/abs/2508.21628
 ---
