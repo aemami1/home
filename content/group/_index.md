@@ -23,6 +23,7 @@ We develop methods to make AI systems more **trustworthy, reliable, and equitabl
 Ali Emami, Assistant Professor of Computer Science
 
 ### Current Graduate Students
+- William Hao (Fall 2025 - Present) (*Co-supervised with [Professor Joyce Ho](https://joyceho.github.io/)*)
 - Robert Morabito (Fall 2024 - Present)
 - Sangmitra Madhusudan (Fall 2025 - Present, *Vector Scholarship Awardee*)
 - Kaige Chen (Fall 2024 – Present)
