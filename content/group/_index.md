@@ -5,16 +5,17 @@ show_date: false
 
 # Join Our Research Group at Emory
 
-I am recruiting **fully funded PhD students** for **Fall 2026** (applications due December 2025), as well as **MS students** interested in thesis research. I'm building a new interdisciplinary research group at the intersection of **Natural Language Processing**, **AI Fairness**, and **Human-Centered AI**.
+I am recruiting **fully funded PhD students** for **Fall 2026** (applications due December 2025), as well as **MS students** interested in thesis research. I'm building a new interdisciplinary research group at the intersection of **Natural Language Processing (NLP)**, **AI Safety**, **Human-Centered AI**, and **AI4Health**.
 
 ## Research Focus
 
-We develop methods to make AI systems more **fair, robust, and reliable** while understanding their limitations and societal impacts. Current research directions include:
+We develop methods to make AI systems more **trustworthy, reliable, and equitable**, while understanding their limitations and societal impacts. Current research directions include:
 
 - **Reasoning & Evaluation:** Creating challenging benchmarks that push AI reasoning capabilities and reveal failure modes  
-- **AI Safety:** Developing methods to identify and mitigate harmful behaviors in language models, with focus on culturally-aware and context-dependent definitions of harm
-- **Interpretability:** Opening the black box of AI systems to understand their decision-making and build trust
-- **Applied AI for Good:** Leveraging AI for inclusive education, diverse storytelling, and equitable technology
+- **AI Safety & Fairness:** Developing methods to identify and mitigate harmful behaviors in language models, with a focus on culturally-aware and context-dependent definitions of harm  
+- **Reliability & Robustness:** Stress-testing AI systems across diverse conditions and ensuring consistent performance in real-world settings  
+- **Interpretability:** Opening the black box of AI systems to understand their decision-making and build human trust  
+- **Applied AI for Good:** Leveraging AI for inclusive education, diverse storytelling, equitable healthcare, and socially beneficial applications  
 
 ## Current Team
 
