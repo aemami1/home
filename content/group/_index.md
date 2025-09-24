@@ -59,22 +59,22 @@ Strong candidates typically bring experience in these key areas:
 - Enthusiasm for both building systems and understanding their impacts
 - Openness to collaborating with domain experts (linguistics, psychology, ethics)
 
-*Bonus points for:* Prior NLP/LLM experience, publications (e.g., ACL, EMNLP), user study experience, or demonstrated interest in AI ethics/fairness.
+*Bonus points for:* Prior NLP/LLM experience, mrain conference publications (e.g., ACL, EMNLP), user study experience, or demonstrated interest in AI ethics/fairness.
 
 ---
 
 ## How to Apply & Connect
 
 ### Reaching Out
-Email me at **aemami[at]emory.edu** with subject line **[Prospective PhD/MS Student - Fall 2026]** including:
+Email me at **aemami[at]emory.edu** with subject line **[Prospective PhD/MS Student - Fall 2026]** (please make sure you do this, otherwise I won't be considering the email!) including:
 - Your CV/resume with links to any publications or projects
 - 2-3 sentences on why our research vision excites you
 - Any relevant experience or coursework in NLP, ML, or AI ethics
 - (Optional) A paper or project you're proud of.
-- **Pro tip:** I really like an email that looks like it was authentically, organically, and succinctly written by solely you!
+- **Pro tip:** I really like an email that looks like it was authentically, organically, and succinctly written by solely you! I once again insist on this, after seeing dozens of emails come in!
 
 ### Application Process
-- **Formal application required** through [Emory's CS department admissions portal](https://computerscience.emory.edu/graduate-phd/admissions/index.html)
+- **Formal application required** through [Emory's CS department admissions portal](https://computerscience.emory.edu/graduate-phd/admissions/index.html)(You can include my name in the statement of purpose)
 - **PhD funding:** Admitted students receive full support (stipend + tuition)
 - **Timeline:** Applications due October 2025 for Fall 2026 start
 - I cannot pre-admit, but I strongly advocate for excellent fits
