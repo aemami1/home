@@ -4,7 +4,7 @@ show_date: false
 ---
 
 **2025**:
-- Our paper, ["We Politely Insist: Your LLM Must Learn the Persian Art of Taarof"](https://arxiv.org/abs/2509.01035), has been featured in [Ars Technica](https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/) and [PC Gamer](https://www.pcgamer.com/software/ai/ai-chatbots-often-cant-read-between-the-lines-and-commit-cultural-cringe-that-even-tourists-in-italy-ordering-coffee-in-the-afternoon-couldnt-manage/)
+- Our paper, ["We Politely Insist: Your LLM Must Learn the Persian Art of Taarof"](https://arxiv.org/abs/2509.01035), has been featured in [Ars Technica](https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/) and [PC Gamer](https://www.pcgamer.com/software/ai/ai-chatbots-often-cant-read-between-the-lines-and-commit-cultural-cringe-that-even-tourists-in-italy-ordering-coffee-in-the-afternoon-couldnt-manage/).
 - All 3 of our submissions have been accepted at **[EMNLP 2025:](https://2025.emnlp.org/)** 2 Main Conference papers and 1 Findings paper!
 - Our paper, "The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities" has been accepted at [COLM 2025](https://colmweb.org/). [[ArXiv]](https://arxiv.org/abs/2508.05525)
 - Honoured to have recieved the **[COLING 2025 Best Dataset Paper Award](https://coling2025.org/program/best_papers/)**, for our paper, [NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers](/publication/loredo-2024-connections).
