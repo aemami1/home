@@ -8,8 +8,7 @@ show_date: false
 - All 3 of our submissions have been accepted at **[EMNLP 2025:](https://2025.emnlp.org/)** 2 Main Conference papers and 1 Findings paper!
 - Our paper, "The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities" has been accepted at [COLM 2025](https://colmweb.org/). [[ArXiv]](https://arxiv.org/abs/2508.05525)
 - Honoured to have recieved the **[COLING 2025 Best Dataset Paper Award](https://coling2025.org/program/best_papers/)**, for our paper, [NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers](/publication/loredo-2024-connections).
-- Our paper, [Fine-Tuned LLMs are "Time Capsules" for Tracking Societal Bias Through Books](https://aclanthology.org/2025.naacl-long.118/) , has been featured in [NewScientist](https://www.newscientist.com/article/2468021-ai-trained-on-novels-tracks-how-racist-and-sexist-biases-have-evolved/)
-- Our paper, [Fine-Tuned LLMs are "Time Capsules" for Tracking Societal Bias Through Books](/publication/madhusudan2024capsule) has been accepted for publication at the main conference at **[NAACL 2025, April 29th to May 4th](https://2025.naacl.org/)**.
+- Our NAACL 2025 paper, [Fine-Tuned LLMs are "Time Capsules" for Tracking Societal Bias Through Books](https://aclanthology.org/2025.naacl-long.118/) , has been featured in [NewScientist](https://www.newscientist.com/article/2468021-ai-trained-on-novels-tracks-how-racist-and-sexist-biases-have-evolved/).
 **2024**:
 - Our 2 papers have been accepted for publication at the main conference at **[The 31st International Conference on Computational Linguistics (COLING 2025, January 19th to 24th)](https://coling2025.org/)**, both nominated as **Oral Presentations (<7% submitted papers)**
 - Honoured to have recieved the **[EMNLP 2024 Social Impact Paper Award](https://2024.emnlp.org/program/best_papers/)**.
