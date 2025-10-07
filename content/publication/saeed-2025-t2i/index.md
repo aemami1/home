@@ -1,5 +1,5 @@
 ---
-title: 'The World According to LLMs: How Geographic Origin Influences LLMs Entity Deduction Capabilities'
+title: 'Beyond Content: How Grammatical Gender Shapes Visual Representation in Text-to-Image Models'
 authors:
 - Muhammed Saeed
 - Shaina Raza
@@ -16,8 +16,4 @@ publication: '*EMNLP 2025 Findings*'
 links:
 - name: Arxiv
   url: https://www.arxiv.org/abs/2508.03199
-- name: Code
-  url: Stay tuned!
-- name: Dataset
-  url: Stay tuned!
 ---
