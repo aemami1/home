@@ -3,6 +3,8 @@ draft: false
 show_date: false
 ---
 
+**2026**:
+- ["The Dog the Cat Chased Stumped the Model: Measuring When Language Models Abandon Structure for Shortcuts"](https://arxiv.org/abs/2510.20543), has been accepted to [EACL 2026](https://2026.eacl.org/) Main Conference.
 **2025**:
 - Our paper, ["We Politely Insist: Your LLM Must Learn the Persian Art of Taarof"](https://arxiv.org/abs/2509.01035), has been featured in [IBM Think](https://www.ibm.com/think/news/persian-politeness-test-ai-cant-pass), [Ars Technica](https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/) and [PC Gamer](https://www.pcgamer.com/software/ai/ai-chatbots-often-cant-read-between-the-lines-and-commit-cultural-cringe-that-even-tourists-in-italy-ordering-coffee-in-the-afternoon-couldnt-manage/).
 - All 3 of our submissions have been accepted at **[EMNLP 2025:](https://2025.emnlp.org/)** 2 Main Conference papers and 1 Findings paper!
